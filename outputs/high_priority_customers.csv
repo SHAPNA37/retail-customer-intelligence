@@ -1,0 +1,2060 @@
+Customer ID,Segment,ChurnRisk,Recency,Frequency,Monetary,ChurnProbability,Action
+18102,High Value Customers,Low Risk,0,145,608822,1.10%, VIP Call Loyalty Reward
+14646,High Value Customers,Low Risk,1,152,528603,1.10%, VIP Call Loyalty Reward
+14911,High Value Customers,Low Risk,0,398,295973,1.10%, VIP Call Loyalty Reward
+17511,High Value Customers,Low Risk,2,60,175604,1.20%, VIP Call Loyalty Reward
+17949,High Value Customers,Low Risk,0,118,118628,1.10%, VIP Call Loyalty Reward
+15311,High Value Customers,Low Risk,0,208,116771,1.10%, VIP Call Loyalty Reward
+13089,High Value Customers,Low Risk,2,203,116738,1.10%, VIP Call Loyalty Reward
+13798,High Value Customers,Low Risk,0,110,75837,1.10%, VIP Call Loyalty Reward
+17841,High Value Customers,Low Risk,1,211,70884,1.10%, VIP Call Loyalty Reward
+14096,High Value Customers,Low Risk,3,17,65165,27.20%, VIP Call Loyalty Reward
+17389,High Value Customers,Low Risk,0,61,57225,1.20%, VIP Call Loyalty Reward
+12748,High Value Customers,Low Risk,0,337,56599,1.10%, VIP Call Loyalty Reward
+13777,High Value Customers,Low Risk,0,61,56478,1.20%, VIP Call Loyalty Reward
+13408,High Value Customers,Low Risk,1,106,51733,1.10%, VIP Call Loyalty Reward
+17404,High Value Customers,Low Risk,3,23,47781,27.20%, VIP Call Loyalty Reward
+16705,High Value Customers,Low Risk,0,42,43515,1.20%, VIP Call Loyalty Reward
+12471,High Value Customers,Low Risk,1,79,39964,1.10%, VIP Call Loyalty Reward
+16210,High Value Customers,Low Risk,1,35,38490,1.20%, VIP Call Loyalty Reward
+17675,High Value Customers,Low Risk,0,70,38260,1.10%, VIP Call Loyalty Reward
+17677,High Value Customers,Low Risk,1,54,36693,1.20%, VIP Call Loyalty Reward
+13767,High Value Customers,Low Risk,1,73,35541,1.10%, VIP Call Loyalty Reward
+16779,High Value Customers,Low Risk,1,53,33268,1.20%, VIP Call Loyalty Reward
+17428,High Value Customers,Low Risk,0,45,31820,1.20%, VIP Call Loyalty Reward
+14606,High Value Customers,Low Risk,0,192,30861,1.10%, VIP Call Loyalty Reward
+13078,High Value Customers,Low Risk,2,57,29532,1.20%, VIP Call Loyalty Reward
+13098,High Value Customers,Low Risk,0,28,28882,1.20%, VIP Call Loyalty Reward
+14527,High Value Customers,Low Risk,2,122,27792,1.10%, VIP Call Loyalty Reward
+15498,High Value Customers,Low Risk,2,44,26040,1.20%, VIP Call Loyalty Reward
+12621,High Value Customers,Low Risk,1,35,24776,1.20%, VIP Call Loyalty Reward
+16525,High Value Customers,Low Risk,1,48,24583,1.20%, VIP Call Loyalty Reward
+14051,High Value Customers,Low Risk,0,37,22434,1.40%, VIP Call Loyalty Reward
+15159,High Value Customers,Low Risk,1,34,22117,1.40%, VIP Call Loyalty Reward
+17243,High Value Customers,Low Risk,0,69,20890,1.20%, VIP Call Loyalty Reward
+12433,High Value Customers,Low Risk,0,10,20581,1.30%, VIP Call Loyalty Reward
+17581,High Value Customers,Low Risk,0,43,18758,1.30%, VIP Call Loyalty Reward
+13113,High Value Customers,Low Risk,0,37,18626,1.30%, VIP Call Loyalty Reward
+15189,High Value Customers,Low Risk,0,46,17524,1.30%, VIP Call Loyalty Reward
+17735,High Value Customers,Low Risk,1,26,17245,1.30%, VIP Call Loyalty Reward
+13225,High Value Customers,Low Risk,2,16,16260,1.30%, VIP Call Loyalty Reward
+18092,High Value Customers,Low Risk,1,18,16179,1.30%, VIP Call Loyalty Reward
+14769,High Value Customers,Low Risk,2,17,15772,1.30%, VIP Call Loyalty Reward
+16191,High Value Customers,Low Risk,2,24,15688,1.30%, VIP Call Loyalty Reward
+12583,High Value Customers,Low Risk,2,27,14447,1.30%, VIP Call Loyalty Reward
+17017,High Value Customers,Low Risk,2,29,14111,1.30%, VIP Call Loyalty Reward
+16558,High Value Customers,Low Risk,0,38,13874,1.30%, VIP Call Loyalty Reward
+12989,High Value Customers,Low Risk,2,33,13552,1.30%, VIP Call Loyalty Reward
+13468,High Value Customers,Low Risk,1,72,13391,1.10%, VIP Call Loyalty Reward
+13668,High Value Customers,Low Risk,2,35,13090,1.30%, VIP Call Loyalty Reward
+18225,High Value Customers,Low Risk,2,26,13054,1.30%, VIP Call Loyalty Reward
+16161,High Value Customers,Low Risk,1,43,12832,1.30%, VIP Call Loyalty Reward
+12437,High Value Customers,Low Risk,1,39,12683,1.30%, VIP Call Loyalty Reward
+13013,High Value Customers,Low Risk,0,29,12626,1.30%, VIP Call Loyalty Reward
+15194,High Value Customers,Low Risk,2,28,12428,1.30%, VIP Call Loyalty Reward
+16000,High Value Customers,Low Risk,2,3,12394,1.70%, VIP Call Loyalty Reward
+14739,High Value Customers,Low Risk,3,25,12288,23.10%, VIP Call Loyalty Reward
+14735,High Value Customers,Low Risk,3,56,12240,26.40%, VIP Call Loyalty Reward
+15023,High Value Customers,Low Risk,2,20,12171,1.40%, VIP Call Loyalty Reward
+14415,High Value Customers,Low Risk,0,23,12092,1.40%, VIP Call Loyalty Reward
+17364,High Value Customers,Low Risk,0,28,12070,1.40%, VIP Call Loyalty Reward
+16523,High Value Customers,Low Risk,1,28,11916,1.40%, VIP Call Loyalty Reward
+13102,High Value Customers,Low Risk,0,37,11697,1.40%, VIP Call Loyalty Reward
+13680,High Value Customers,Low Risk,0,12,11436,1.40%, VIP Call Loyalty Reward
+14796,High Value Customers,Low Risk,0,27,10890,1.10%, VIP Call Loyalty Reward
+15694,High Value Customers,Low Risk,0,24,10811,1.10%, VIP Call Loyalty Reward
+14422,High Value Customers,Low Risk,0,19,10272,1.10%, VIP Call Loyalty Reward
+13599,High Value Customers,Low Risk,0,33,10168,1.10%, VIP Call Loyalty Reward
+14085,High Value Customers,Low Risk,1,33,10105,1.10%, VIP Call Loyalty Reward
+12839,High Value Customers,Low Risk,2,26,10072,1.10%, VIP Call Loyalty Reward
+12766,High Value Customers,Low Risk,3,9,10068,24.60%, VIP Call Loyalty Reward
+13985,High Value Customers,Low Risk,3,22,10021,24.60%, VIP Call Loyalty Reward
+17049,High Value Customers,Low Risk,2,19,9947,1.10%, VIP Call Loyalty Reward
+18109,High Value Customers,Low Risk,1,38,9894,1.10%, VIP Call Loyalty Reward
+13267,High Value Customers,Low Risk,2,36,9758,1.10%, VIP Call Loyalty Reward
+13069,High Value Customers,Low Risk,0,38,9683,1.10%, VIP Call Loyalty Reward
+17315,High Value Customers,Low Risk,1,43,9651,1.10%, VIP Call Loyalty Reward
+14135,High Value Customers,Low Risk,1,24,9644,1.10%, VIP Call Loyalty Reward
+15298,High Value Customers,Low Risk,1,23,9459,1.10%, VIP Call Loyalty Reward
+17757,High Value Customers,Low Risk,0,56,9422,1.20%, VIP Call Loyalty Reward
+12747,High Value Customers,Low Risk,1,26,9277,1.10%, VIP Call Loyalty Reward
+13756,High Value Customers,Low Risk,1,23,9208,1.10%, VIP Call Loyalty Reward
+13269,High Value Customers,Low Risk,0,28,8892,1.10%, VIP Call Loyalty Reward
+15984,High Value Customers,Low Risk,2,30,8759,1.10%, VIP Call Loyalty Reward
+13263,High Value Customers,Low Risk,0,39,8705,1.10%, VIP Call Loyalty Reward
+12720,High Value Customers,Low Risk,2,30,8261,1.10%, VIP Call Loyalty Reward
+14056,High Value Customers,Low Risk,0,23,8215,1.10%, VIP Call Loyalty Reward
+14395,High Value Customers,Low Risk,1,20,8208,1.10%, VIP Call Loyalty Reward
+13426,High Value Customers,Low Risk,0,22,8167,1.10%, VIP Call Loyalty Reward
+16672,High Value Customers,Low Risk,1,20,8135,1.10%, VIP Call Loyalty Reward
+17593,High Value Customers,Low Risk,3,11,8096,21.20%, VIP Call Loyalty Reward
+14291,High Value Customers,Low Risk,1,23,7904,1.10%, VIP Call Loyalty Reward
+14282,High Value Customers,Low Risk,2,25,7850,1.10%, VIP Call Loyalty Reward
+17091,High Value Customers,Low Risk,2,19,7811,1.10%, VIP Call Loyalty Reward
+16592,High Value Customers,Low Risk,3,28,7808,27.30%, VIP Call Loyalty Reward
+17238,High Value Customers,Low Risk,2,32,7783,1.10%, VIP Call Loyalty Reward
+17730,High Value Customers,Low Risk,2,20,7774,1.10%, VIP Call Loyalty Reward
+13534,High Value Customers,Low Risk,1,35,7721,1.10%, VIP Call Loyalty Reward
+13709,High Value Customers,Low Risk,3,18,7592,21.20%, VIP Call Loyalty Reward
+17602,High Value Customers,Low Risk,1,14,7451,1.10%, VIP Call Loyalty Reward
+14113,High Value Customers,Low Risk,3,16,7093,21.20%, VIP Call Loyalty Reward
+12662,High Value Customers,Low Risk,0,20,6988,1.10%, VIP Call Loyalty Reward
+12749,High Value Customers,Low Risk,3,9,6897,21.20%, VIP Call Loyalty Reward
+16401,High Value Customers,Low Risk,0,23,6849,1.10%, VIP Call Loyalty Reward
+12417,High Value Customers,Low Risk,2,20,6817,1.10%, VIP Call Loyalty Reward
+15750,High Value Customers,Low Risk,2,18,6797,1.10%, VIP Call Loyalty Reward
+14401,High Value Customers,Low Risk,3,22,6796,21.20%, VIP Call Loyalty Reward
+14702,High Value Customers,Low Risk,0,29,6754,1.10%, VIP Call Loyalty Reward
+14562,High Value Customers,Low Risk,3,26,6729,27.30%, VIP Call Loyalty Reward
+17001,High Value Customers,Low Risk,0,19,6641,1.10%, VIP Call Loyalty Reward
+13394,High Value Customers,Low Risk,1,19,6622,1.10%, VIP Call Loyalty Reward
+13230,High Value Customers,Low Risk,3,30,6361,27.30%, VIP Call Loyalty Reward
+14534,High Value Customers,Low Risk,2,26,6271,1.10%, VIP Call Loyalty Reward
+14907,High Value Customers,Low Risk,2,16,6166,1.10%, VIP Call Loyalty Reward
+16954,High Value Customers,Low Risk,0,20,6082,1.10%, VIP Call Loyalty Reward
+17644,High Value Customers,Low Risk,0,20,6029,1.10%, VIP Call Loyalty Reward
+17491,High Value Customers,Low Risk,0,17,5981,1.10%, VIP Call Loyalty Reward
+14189,High Value Customers,Low Risk,1,16,5814,1.10%, VIP Call Loyalty Reward
+13769,High Value Customers,Low Risk,1,20,5800,1.10%, VIP Call Loyalty Reward
+12615,High Value Customers,Low Risk,1,8,5741,1.10%, VIP Call Loyalty Reward
+16458,High Value Customers,Low Risk,2,30,5715,1.10%, VIP Call Loyalty Reward
+13870,High Value Customers,Low Risk,1,15,5712,1.10%, VIP Call Loyalty Reward
+16200,High Value Customers,Low Risk,3,12,5643,21.20%, VIP Call Loyalty Reward
+12347,High Value Customers,Low Risk,1,8,5633,1.10%, VIP Call Loyalty Reward
+14572,High Value Customers,Low Risk,2,11,5615,1.10%, VIP Call Loyalty Reward
+15898,High Value Customers,Low Risk,0,25,5596,1.10%, VIP Call Loyalty Reward
+15854,High Value Customers,Low Risk,3,21,5584,21.20%, VIP Call Loyalty Reward
+16393,High Value Customers,Low Risk,1,23,5562,1.10%, VIP Call Loyalty Reward
+18198,High Value Customers,Low Risk,3,17,5426,21.20%, VIP Call Loyalty Reward
+12362,High Value Customers,Low Risk,2,11,5356,1.10%, VIP Call Loyalty Reward
+17346,High Value Customers,Low Risk,3,26,5323,27.30%, VIP Call Loyalty Reward
+15443,High Value Customers,Low Risk,1,14,5176,1.10%, VIP Call Loyalty Reward
+15796,High Value Customers,Low Risk,0,17,5176,1.10%, VIP Call Loyalty Reward
+16904,High Value Customers,Low Risk,3,21,5132,21.20%, VIP Call Loyalty Reward
+17861,High Value Customers,Low Risk,2,18,5128,1.10%, VIP Call Loyalty Reward
+17449,High Value Customers,Low Risk,1,13,4951,1.10%, VIP Call Loyalty Reward
+14825,High Value Customers,Low Risk,3,24,4925,24.60%, VIP Call Loyalty Reward
+16143,High Value Customers,Low Risk,2,12,4911,1.10%, VIP Call Loyalty Reward
+13021,High Value Customers,Low Risk,3,17,4887,21.20%, VIP Call Loyalty Reward
+14032,High Value Customers,Low Risk,1,16,4850,1.10%, VIP Call Loyalty Reward
+14191,High Value Customers,Low Risk,1,15,4818,1.10%, VIP Call Loyalty Reward
+15187,High Value Customers,Low Risk,1,16,4777,1.10%, VIP Call Loyalty Reward
+12955,High Value Customers,Low Risk,0,11,4757,1.10%, VIP Call Loyalty Reward
+15484,High Value Customers,Low Risk,0,6,4656,1.20%, VIP Call Loyalty Reward
+14441,High Value Customers,Low Risk,0,11,4612,1.10%, VIP Call Loyalty Reward
+17754,High Value Customers,Low Risk,0,13,4578,1.10%, VIP Call Loyalty Reward
+13510,High Value Customers,Low Risk,0,11,4558,1.10%, VIP Call Loyalty Reward
+17412,High Value Customers,Low Risk,2,16,4418,1.10%, VIP Call Loyalty Reward
+16626,High Value Customers,Low Risk,0,17,4413,1.10%, VIP Call Loyalty Reward
+18272,High Value Customers,Low Risk,2,9,4386,1.10%, VIP Call Loyalty Reward
+12935,High Value Customers,Low Risk,1,15,4244,1.10%, VIP Call Loyalty Reward
+17728,High Value Customers,Low Risk,3,5,4239,20.40%, VIP Call Loyalty Reward
+17673,High Value Customers,Low Risk,1,13,4234,1.10%, VIP Call Loyalty Reward
+15804,High Value Customers,Low Risk,0,13,4206,1.10%, VIP Call Loyalty Reward
+17218,High Value Customers,Low Risk,3,18,4193,21.20%, VIP Call Loyalty Reward
+14868,High Value Customers,Low Risk,2,12,4184,1.10%, VIP Call Loyalty Reward
+12569,High Value Customers,Low Risk,1,32,4125,1.10%, VIP Call Loyalty Reward
+14547,High Value Customers,Low Risk,3,8,4008,20.90%, VIP Call Loyalty Reward
+12358,High Value Customers,Low Risk,1,5,3887,1.20%, VIP Call Loyalty Reward
+13305,High Value Customers,Low Risk,3,16,3755,22.90%, VIP Call Loyalty Reward
+16539,High Value Customers,Low Risk,2,10,3732,1.30%, VIP Call Loyalty Reward
+17528,High Value Customers,Low Risk,0,8,3628,1.30%, VIP Call Loyalty Reward
+14653,High Value Customers,Low Risk,0,12,3615,1.30%, VIP Call Loyalty Reward
+14132,High Value Customers,Low Risk,1,11,3586,1.30%, VIP Call Loyalty Reward
+18219,High Value Customers,Low Risk,2,17,3563,1.00%, VIP Call Loyalty Reward
+14737,High Value Customers,Low Risk,3,4,3554,21.00%, VIP Call Loyalty Reward
+14503,High Value Customers,Low Risk,2,6,3543,1.10%, VIP Call Loyalty Reward
+16360,High Value Customers,Low Risk,4,6,3513,25.90%, VIP Call Loyalty Reward
+18044,High Value Customers,Low Risk,3,18,3506,14.50%, VIP Call Loyalty Reward
+16271,High Value Customers,Low Risk,2,10,3463,1.00%, VIP Call Loyalty Reward
+13536,High Value Customers,Low Risk,0,7,3448,0.90%, VIP Call Loyalty Reward
+14217,High Value Customers,Low Risk,1,23,3417,1.00%, VIP Call Loyalty Reward
+14673,High Value Customers,Low Risk,2,7,3411,0.90%, VIP Call Loyalty Reward
+14608,High Value Customers,Low Risk,3,11,3353,18.50%, VIP Call Loyalty Reward
+14293,High Value Customers,Low Risk,2,9,3268,1.00%, VIP Call Loyalty Reward
+16933,High Value Customers,Low Risk,0,9,3181,1.00%, VIP Call Loyalty Reward
+15031,High Value Customers,Low Risk,3,14,3157,18.50%, VIP Call Loyalty Reward
+17090,High Value Customers,Low Risk,3,13,3149,18.50%, VIP Call Loyalty Reward
+17530,High Value Customers,Low Risk,0,12,3142,1.00%, VIP Call Loyalty Reward
+13685,High Value Customers,Low Risk,2,7,3119,0.90%, VIP Call Loyalty Reward
+16678,High Value Customers,Low Risk,2,12,3110,1.00%, VIP Call Loyalty Reward
+17870,High Value Customers,Low Risk,1,13,3108,1.00%, VIP Call Loyalty Reward
+17884,High Value Customers,Low Risk,3,20,3073,18.50%, VIP Call Loyalty Reward
+13077,High Value Customers,Low Risk,0,11,3065,1.00%, VIP Call Loyalty Reward
+14456,High Value Customers,Low Risk,4,9,3062,28.70%, VIP Call Loyalty Reward
+14621,High Value Customers,Low Risk,0,9,3001,1.00%, VIP Call Loyalty Reward
+12826,High Value Customers,Low Risk,2,12,2956,1.00%, VIP Call Loyalty Reward
+12877,High Value Customers,Low Risk,3,20,2955,18.50%, VIP Call Loyalty Reward
+13890,High Value Customers,Low Risk,0,14,2927,1.00%, VIP Call Loyalty Reward
+16358,High Value Customers,Low Risk,0,5,2920,1.20%, VIP Call Loyalty Reward
+15392,High Value Customers,Low Risk,4,7,2912,26.50%, VIP Call Loyalty Reward
+14251,High Value Customers,Low Risk,1,5,2880,1.20%, VIP Call Loyalty Reward
+16711,High Value Customers,Low Risk,2,9,2868,1.00%, VIP Call Loyalty Reward
+16979,High Value Customers,Low Risk,3,9,2860,18.50%, VIP Call Loyalty Reward
+16817,High Value Customers,Low Risk,2,13,2805,1.00%, VIP Call Loyalty Reward
+16764,High Value Customers,Low Risk,3,13,2799,18.50%, VIP Call Loyalty Reward
+14121,High Value Customers,Low Risk,3,4,2780,26.20%, VIP Call Loyalty Reward
+18210,High Value Customers,Low Risk,1,7,2769,0.90%, VIP Call Loyalty Reward
+14696,High Value Customers,Low Risk,3,8,2768,18.30%, VIP Call Loyalty Reward
+13736,High Value Customers,Low Risk,4,7,2766,28.90%, VIP Call Loyalty Reward
+17676,High Value Customers,Low Risk,3,10,2766,20.40%, VIP Call Loyalty Reward
+17490,High Value Customers,Low Risk,0,9,2750,1.20%, VIP Call Loyalty Reward
+18283,High Value Customers,Low Risk,3,22,2737,28.00%, VIP Call Loyalty Reward
+12820,High Value Customers,Low Risk,2,11,2690,1.20%, VIP Call Loyalty Reward
+15910,High Value Customers,Low Risk,0,15,2682,1.20%, VIP Call Loyalty Reward
+15157,High Value Customers,Low Risk,3,5,2654,23.40%, VIP Call Loyalty Reward
+17744,High Value Customers,Low Risk,3,7,2649,18.60%, VIP Call Loyalty Reward
+13173,High Value Customers,Low Risk,3,11,2639,20.40%, VIP Call Loyalty Reward
+12423,High Value Customers,Low Risk,0,10,2622,1.20%, VIP Call Loyalty Reward
+14397,High Value Customers,Low Risk,2,19,2613,1.20%, VIP Call Loyalty Reward
+14129,High Value Customers,Low Risk,1,9,2591,1.20%, VIP Call Loyalty Reward
+16987,High Value Customers,Low Risk,2,11,2536,1.20%, VIP Call Loyalty Reward
+16016,High Value Customers,Low Risk,2,11,2534,1.20%, VIP Call Loyalty Reward
+13471,High Value Customers,Low Risk,0,4,2532,1.80%, VIP Call Loyalty Reward
+15932,High Value Customers,Low Risk,3,8,2496,20.10%, VIP Call Loyalty Reward
+13507,High Value Customers,Low Risk,2,4,2479,1.80%, VIP Call Loyalty Reward
+13949,High Value Customers,Low Risk,2,6,2427,1.30%, VIP Call Loyalty Reward
+16833,High Value Customers,Low Risk,0,6,2409,1.30%, VIP Call Loyalty Reward
+17434,High Value Customers,Low Risk,1,7,2374,1.00%, VIP Call Loyalty Reward
+12584,High Value Customers,Low Risk,3,9,2338,20.40%, VIP Call Loyalty Reward
+12724,High Value Customers,Low Risk,4,7,2318,28.90%, VIP Call Loyalty Reward
+13994,High Value Customers,Low Risk,3,6,2313,22.80%, VIP Call Loyalty Reward
+16076,High Value Customers,Low Risk,2,10,2235,1.20%, VIP Call Loyalty Reward
+12783,High Value Customers,Low Risk,1,6,2226,1.30%, VIP Call Loyalty Reward
+15550,High Value Customers,Low Risk,3,12,2219,20.40%, VIP Call Loyalty Reward
+14708,High Value Customers,Low Risk,2,5,2212,1.40%, VIP Call Loyalty Reward
+13755,High Value Customers,Low Risk,3,9,2161,20.40%, VIP Call Loyalty Reward
+16379,High Value Customers,Low Risk,3,4,2157,28.60%, VIP Call Loyalty Reward
+16600,High Value Customers,Low Risk,3,13,2153,20.40%, VIP Call Loyalty Reward
+14216,High Value Customers,Low Risk,2,5,2150,1.40%, VIP Call Loyalty Reward
+16201,High Value Customers,Low Risk,2,5,2112,1.40%, VIP Call Loyalty Reward
+16794,High Value Customers,Low Risk,0,15,2091,1.20%, VIP Call Loyalty Reward
+17705,High Value Customers,Low Risk,2,11,2084,1.20%, VIP Call Loyalty Reward
+12518,High Value Customers,Low Risk,0,5,2057,1.40%, VIP Call Loyalty Reward
+16891,High Value Customers,Low Risk,1,11,2057,1.20%, VIP Call Loyalty Reward
+17666,High Value Customers,Low Risk,3,5,2048,23.40%, VIP Call Loyalty Reward
+13630,High Value Customers,Low Risk,4,7,2032,28.90%, VIP Call Loyalty Reward
+14730,High Value Customers,Low Risk,0,8,2005,1.10%, VIP Call Loyalty Reward
+14794,High Value Customers,Low Risk,2,10,1954,1.20%, VIP Call Loyalty Reward
+17554,High Value Customers,Low Risk,0,5,1952,1.40%, VIP Call Loyalty Reward
+16426,High Value Customers,Low Risk,1,10,1908,1.20%, VIP Call Loyalty Reward
+15822,High Value Customers,Low Risk,2,6,1840,1.30%, VIP Call Loyalty Reward
+13924,High Value Customers,Low Risk,1,6,1839,1.30%, VIP Call Loyalty Reward
+16620,High Value Customers,Low Risk,3,6,1759,22.80%, VIP Call Loyalty Reward
+13026,High Value Customers,Low Risk,0,9,1733,1.20%, VIP Call Loyalty Reward
+17451,High Value Customers,Low Risk,0,7,1721,1.00%, VIP Call Loyalty Reward
+13104,High Value Customers,Low Risk,2,9,1709,1.00%, VIP Call Loyalty Reward
+13417,High Value Customers,Low Risk,4,6,1669,26.30%, VIP Call Loyalty Reward
+12912,High Value Customers,Low Risk,2,5,1662,1.30%, VIP Call Loyalty Reward
+15214,High Value Customers,Low Risk,1,8,1661,1.00%, VIP Call Loyalty Reward
+14904,High Value Customers,Low Risk,1,4,1641,1.60%, VIP Call Loyalty Reward
+17006,High Value Customers,Low Risk,4,8,1636,23.30%, VIP Call Loyalty Reward
+14719,High Value Customers,Low Risk,1,5,1602,1.30%, VIP Call Loyalty Reward
+16790,High Value Customers,Low Risk,3,6,1546,18.60%, VIP Call Loyalty Reward
+15701,High Value Customers,Low Risk,1,4,1542,1.60%, VIP Call Loyalty Reward
+16910,High Value Customers,Low Risk,3,8,1510,16.30%, VIP Call Loyalty Reward
+17290,High Value Customers,Low Risk,3,8,1501,16.30%, VIP Call Loyalty Reward
+17590,High Value Customers,Low Risk,1,3,1479,1.70%, VIP Call Loyalty Reward
+16569,High Value Customers,Low Risk,2,5,1455,1.10%, VIP Call Loyalty Reward
+14071,High Value Customers,Low Risk,3,8,1439,16.30%, VIP Call Loyalty Reward
+17856,High Value Customers,Low Risk,1,4,1418,1.60%, VIP Call Loyalty Reward
+15237,High Value Customers,Low Risk,1,4,1412,1.60%, VIP Call Loyalty Reward
+14083,High Value Customers,Low Risk,3,11,1407,14.00%, VIP Call Loyalty Reward
+15453,High Value Customers,Low Risk,1,7,1388,0.80%, VIP Call Loyalty Reward
+14102,High Value Customers,Low Risk,4,5,1360,25.90%, VIP Call Loyalty Reward
+13743,High Value Customers,Low Risk,2,7,1342,0.80%, VIP Call Loyalty Reward
+17097,High Value Customers,Low Risk,1,9,1340,0.70%, VIP Call Loyalty Reward
+15525,High Value Customers,Low Risk,1,4,1296,1.60%, VIP Call Loyalty Reward
+16929,High Value Customers,Low Risk,3,7,1295,15.00%, VIP Call Loyalty Reward
+15621,High Value Customers,Low Risk,3,4,1293,26.10%, VIP Call Loyalty Reward
+15136,High Value Customers,Low Risk,2,4,1287,1.60%, VIP Call Loyalty Reward
+16949,High Value Customers,Low Risk,3,6,1286,18.60%, VIP Call Loyalty Reward
+16688,High Value Customers,Low Risk,0,4,1261,1.60%, VIP Call Loyalty Reward
+14871,High Value Customers,Low Risk,2,9,1259,0.70%, VIP Call Loyalty Reward
+14931,High Value Customers,Low Risk,4,5,1258,25.90%, VIP Call Loyalty Reward
+17481,High Value Customers,Low Risk,3,4,1256,26.10%, VIP Call Loyalty Reward
+14698,High Value Customers,Low Risk,1,5,1251,1.10%, VIP Call Loyalty Reward
+13860,High Value Customers,Low Risk,0,5,1246,1.10%, VIP Call Loyalty Reward
+14446,High Value Customers,Low Risk,0,5,1241,1.10%, VIP Call Loyalty Reward
+15145,High Value Customers,Low Risk,3,4,1195,20.30%, VIP Call Loyalty Reward
+13882,High Value Customers,Low Risk,2,5,1191,1.10%, VIP Call Loyalty Reward
+16989,High Value Customers,Low Risk,6,6,1133,29.00%, VIP Call Loyalty Reward
+15969,High Value Customers,Low Risk,2,5,1127,1.10%, VIP Call Loyalty Reward
+16642,High Value Customers,Low Risk,4,3,1077,25.30%, VIP Call Loyalty Reward
+17522,High Value Customers,Low Risk,1,5,1071,1.00%, VIP Call Loyalty Reward
+14204,High Value Customers,Low Risk,1,4,1063,1.40%, VIP Call Loyalty Reward
+17042,High Value Customers,Low Risk,2,5,1044,1.00%, VIP Call Loyalty Reward
+17405,High Value Customers,Low Risk,0,3,1031,1.40%, VIP Call Loyalty Reward
+16682,High Value Customers,Low Risk,4,5,1028,17.20%, VIP Call Loyalty Reward
+13956,High Value Customers,Low Risk,4,5,1026,17.20%, VIP Call Loyalty Reward
+12828,High Value Customers,Low Risk,2,6,1019,0.90%, VIP Call Loyalty Reward
+16535,High Value Customers,Low Risk,4,3,1002,19.20%, VIP Call Loyalty Reward
+17631,High Value Customers,Low Risk,1,7,998,0.80%, VIP Call Loyalty Reward
+17883,High Value Customers,Low Risk,2,7,996,0.90%, VIP Call Loyalty Reward
+18237,High Value Customers,Low Risk,2,5,987,1.20%, VIP Call Loyalty Reward
+17221,High Value Customers,Low Risk,6,5,979,24.80%, VIP Call Loyalty Reward
+15208,High Value Customers,Low Risk,0,6,971,1.10%, VIP Call Loyalty Reward
+15907,High Value Customers,Low Risk,3,3,967,16.80%, VIP Call Loyalty Reward
+18154,High Value Customers,Low Risk,2,5,933,1.20%, VIP Call Loyalty Reward
+14141,High Value Customers,Low Risk,2,4,915,1.30%, VIP Call Loyalty Reward
+16442,High Value Customers,Low Risk,1,5,899,1.20%, VIP Call Loyalty Reward
+15992,High Value Customers,Low Risk,3,3,897,16.80%, VIP Call Loyalty Reward
+12680,High Value Customers,Low Risk,0,4,881,1.30%, VIP Call Loyalty Reward
+16513,High Value Customers,Low Risk,4,4,875,19.30%, VIP Call Loyalty Reward
+16500,High Value Customers,Low Risk,4,9,844,12.70%, VIP Call Loyalty Reward
+17114,High Value Customers,Low Risk,5,8,809,21.10%, VIP Call Loyalty Reward
+17817,High Value Customers,Low Risk,3,6,808,13.10%, VIP Call Loyalty Reward
+13323,High Value Customers,Low Risk,2,5,788,2.00%, VIP Call Loyalty Reward
+16892,High Value Customers,Low Risk,0,7,762,0.70%, VIP Call Loyalty Reward
+17579,High Value Customers,Low Risk,4,4,753,13.90%, VIP Call Loyalty Reward
+12723,High Value Customers,Low Risk,3,5,725,21.10%, VIP Call Loyalty Reward
+16015,High Value Customers,Low Risk,3,3,705,11.00%, VIP Call Loyalty Reward
+16495,High Value Customers,Low Risk,2,3,684,1.00%, VIP Call Loyalty Reward
+16368,High Value Customers,Low Risk,1,3,640,1.00%, VIP Call Loyalty Reward
+13558,High Value Customers,Low Risk,5,4,605,14.80%, VIP Call Loyalty Reward
+14569,High Value Customers,Low Risk,0,4,599,0.60%, VIP Call Loyalty Reward
+17436,High Value Customers,Low Risk,1,5,534,0.60%, VIP Call Loyalty Reward
+17266,High Value Customers,Low Risk,1,5,518,0.60%, VIP Call Loyalty Reward
+17988,High Value Customers,Low Risk,11,14,490,25.20%, VIP Call Loyalty Reward
+17254,High Value Customers,Low Risk,4,3,471,10.80%, VIP Call Loyalty Reward
+14910,High Value Customers,Low Risk,2,4,434,0.40%, VIP Call Loyalty Reward
+16149,High Value Customers,Low Risk,4,3,422,7.60%, VIP Call Loyalty Reward
+13079,High Value Customers,Low Risk,3,6,419,4.60%, VIP Call Loyalty Reward
+17830,High Value Customers,Low Risk,1,3,399,0.50%, VIP Call Loyalty Reward
+17736,High Value Customers,Low Risk,8,3,377,24.80%, VIP Call Loyalty Reward
+18273,High Value Customers,Low Risk,1,4,357,0.40%, VIP Call Loyalty Reward
+17835,High Value Customers,Low Risk,2,3,351,0.40%, VIP Call Loyalty Reward
+16851,High Value Customers,Low Risk,3,3,342,5.00%, VIP Call Loyalty Reward
+15060,High Value Customers,Low Risk,7,4,303,19.80%, VIP Call Loyalty Reward
+17468,High Value Customers,Low Risk,9,3,195,28.80%, VIP Call Loyalty Reward
+14865,High Value Customers,Low Risk,6,4,130,8.80%, VIP Call Loyalty Reward
+16454,High Value Customers,Low Risk,44,4,31,13.90%, VIP Call Loyalty Reward
+13694,High Value Customers,Medium Risk,3,143,196483,52.10%, Send Time-Limited Offer
+16684,High Value Customers,Medium Risk,3,55,147143,55.60%, Send Time-Limited Offer
+15061,High Value Customers,Medium Risk,3,127,137819,52.10%, Send Time-Limited Offer
+16013,High Value Customers,Medium Risk,3,84,57446,52.10%, Send Time-Limited Offer
+13881,High Value Customers,Medium Risk,3,43,45179,54.70%, Send Time-Limited Offer
+15856,High Value Customers,Medium Risk,3,52,34220,58.60%, Send Time-Limited Offer
+17857,High Value Customers,Medium Risk,3,24,28682,51.20%, Send Time-Limited Offer
+17920,High Value Customers,Medium Risk,3,54,24516,46.00%, Send Time-Limited Offer
+13001,High Value Customers,Medium Risk,3,33,24172,63.80%, Send Time-Limited Offer
+12682,High Value Customers,Medium Risk,3,52,24034,67.30%, Send Time-Limited Offer
+15640,High Value Customers,Medium Risk,3,29,23958,63.80%, Send Time-Limited Offer
+16133,High Value Customers,Medium Risk,3,56,22992,61.80%, Send Time-Limited Offer
+17706,High Value Customers,Medium Risk,3,31,20750,58.00%, Send Time-Limited Offer
+13199,High Value Customers,Medium Risk,3,67,16433,36.90%, Send Time-Limited Offer
+12971,High Value Customers,Medium Risk,3,116,15973,38.40%, Send Time-Limited Offer
+14110,High Value Customers,Medium Risk,3,33,12988,40.90%, Send Time-Limited Offer
+12683,High Value Customers,Medium Risk,3,21,12697,33.10%, Send Time-Limited Offer
+13854,High Value Customers,Medium Risk,8,39,12254,68.60%, Send Time-Limited Offer
+15290,High Value Customers,Medium Risk,4,26,10496,66.20%, Send Time-Limited Offer
+16353,High Value Customers,Medium Risk,3,38,9999,31.40%, Send Time-Limited Offer
+12490,High Value Customers,Medium Risk,4,21,9824,60.70%, Send Time-Limited Offer
+17811,High Value Customers,Medium Risk,3,47,9610,31.40%, Send Time-Limited Offer
+14060,High Value Customers,Medium Risk,4,30,9519,66.20%, Send Time-Limited Offer
+15867,High Value Customers,Medium Risk,4,31,9064,66.20%, Send Time-Limited Offer
+14145,High Value Customers,Medium Risk,46,7,7600,55.10%, Send Time-Limited Offer
+12841,High Value Customers,Medium Risk,4,40,7541,61.70%, Send Time-Limited Offer
+12913,High Value Customers,Medium Risk,4,13,6701,32.20%, Send Time-Limited Offer
+13953,High Value Customers,Medium Risk,6,12,6641,53.80%, Send Time-Limited Offer
+18245,High Value Customers,Medium Risk,6,20,6325,53.80%, Send Time-Limited Offer
+16103,High Value Customers,Medium Risk,6,22,6192,53.80%, Send Time-Limited Offer
+14560,High Value Customers,Medium Risk,6,44,6114,59.60%, Send Time-Limited Offer
+18065,High Value Customers,Medium Risk,5,29,5867,61.00%, Send Time-Limited Offer
+15628,High Value Customers,Medium Risk,4,17,5652,32.20%, Send Time-Limited Offer
+13362,High Value Customers,Medium Risk,8,7,5394,55.80%, Send Time-Limited Offer
+17567,High Value Customers,Medium Risk,6,9,5356,53.80%, Send Time-Limited Offer
+17584,High Value Customers,Medium Risk,6,6,5309,44.60%, Send Time-Limited Offer
+16931,High Value Customers,Medium Risk,4,23,5234,32.20%, Send Time-Limited Offer
+14546,High Value Customers,Medium Risk,4,11,5198,32.20%, Send Time-Limited Offer
+14493,High Value Customers,Medium Risk,6,10,5130,53.80%, Send Time-Limited Offer
+17402,High Value Customers,Medium Risk,4,23,5096,32.20%, Send Time-Limited Offer
+16905,High Value Customers,Medium Risk,4,17,5034,32.20%, Send Time-Limited Offer
+12700,High Value Customers,Medium Risk,7,4,4940,62.50%, Send Time-Limited Offer
+16326,High Value Customers,Medium Risk,5,24,4827,61.00%, Send Time-Limited Offer
+15271,High Value Customers,Medium Risk,6,24,4710,59.60%, Send Time-Limited Offer
+15123,High Value Customers,Medium Risk,6,5,4656,45.30%, Send Time-Limited Offer
+12782,High Value Customers,Medium Risk,4,11,4618,32.20%, Send Time-Limited Offer
+13435,High Value Customers,Medium Risk,4,9,4475,32.20%, Send Time-Limited Offer
+16283,High Value Customers,Medium Risk,5,8,4404,48.50%, Send Time-Limited Offer
+13297,High Value Customers,Medium Risk,7,7,4369,49.00%, Send Time-Limited Offer
+17937,High Value Customers,Medium Risk,8,7,4301,55.80%, Send Time-Limited Offer
+17526,High Value Customers,Medium Risk,4,12,4166,32.20%, Send Time-Limited Offer
+17618,High Value Customers,Medium Risk,5,11,4073,55.20%, Send Time-Limited Offer
+15572,High Value Customers,Medium Risk,4,10,4069,32.20%, Send Time-Limited Offer
+13126,High Value Customers,Medium Risk,4,13,3998,32.20%, Send Time-Limited Offer
+17954,High Value Customers,Medium Risk,4,19,3966,34.80%, Send Time-Limited Offer
+14655,High Value Customers,Medium Risk,7,7,3879,49.00%, Send Time-Limited Offer
+16440,High Value Customers,Medium Risk,7,6,3857,57.50%, Send Time-Limited Offer
+14649,High Value Customers,Medium Risk,4,9,3775,41.40%, Send Time-Limited Offer
+17173,High Value Customers,Medium Risk,4,8,3767,47.80%, Send Time-Limited Offer
+12670,High Value Customers,Medium Risk,9,7,3760,43.30%, Send Time-Limited Offer
+17768,High Value Customers,Medium Risk,7,7,3510,45.70%, Send Time-Limited Offer
+15380,High Value Customers,Medium Risk,8,11,3479,63.30%, Send Time-Limited Offer
+15712,High Value Customers,Medium Risk,8,12,3472,63.30%, Send Time-Limited Offer
+17183,High Value Customers,Medium Risk,7,6,3347,61.30%, Send Time-Limited Offer
+14897,High Value Customers,Medium Risk,7,8,3141,55.30%, Send Time-Limited Offer
+15611,High Value Customers,Medium Risk,9,26,2997,69.80%, Send Time-Limited Offer
+17386,High Value Customers,Medium Risk,7,7,2813,53.00%, Send Time-Limited Offer
+14869,High Value Customers,Medium Risk,8,6,2804,66.20%, Send Time-Limited Offer
+15993,High Value Customers,Medium Risk,8,7,2798,58.20%, Send Time-Limited Offer
+17115,High Value Customers,Medium Risk,7,7,2761,53.00%, Send Time-Limited Offer
+16359,High Value Customers,Medium Risk,6,16,2698,52.10%, Send Time-Limited Offer
+14262,High Value Customers,Medium Risk,7,8,2618,55.30%, Send Time-Limited Offer
+15033,High Value Customers,Medium Risk,4,10,2587,31.20%, Send Time-Limited Offer
+18179,High Value Customers,Medium Risk,8,8,2548,60.50%, Send Time-Limited Offer
+17131,High Value Customers,Medium Risk,4,5,2463,35.10%, Send Time-Limited Offer
+17629,High Value Customers,Medium Risk,5,10,2456,53.60%, Send Time-Limited Offer
+17827,High Value Customers,Medium Risk,4,6,2388,34.40%, Send Time-Limited Offer
+12704,High Value Customers,Medium Risk,6,8,2341,44.50%, Send Time-Limited Offer
+16496,High Value Customers,Medium Risk,8,6,2331,66.20%, Send Time-Limited Offer
+13704,High Value Customers,Medium Risk,4,9,2308,31.20%, Send Time-Limited Offer
+12684,High Value Customers,Medium Risk,7,7,2284,53.00%, Send Time-Limited Offer
+12856,High Value Customers,Medium Risk,7,6,2180,61.30%, Send Time-Limited Offer
+16966,High Value Customers,Medium Risk,7,7,2155,53.00%, Send Time-Limited Offer
+17086,High Value Customers,Medium Risk,6,6,2050,48.50%, Send Time-Limited Offer
+13705,High Value Customers,Medium Risk,7,7,2035,53.00%, Send Time-Limited Offer
+13838,High Value Customers,Medium Risk,5,10,1966,53.60%, Send Time-Limited Offer
+12528,High Value Customers,Medium Risk,8,6,1933,66.20%, Send Time-Limited Offer
+17350,High Value Customers,Medium Risk,7,7,1906,53.00%, Send Time-Limited Offer
+13884,High Value Customers,Medium Risk,6,10,1888,52.10%, Send Time-Limited Offer
+16474,High Value Customers,Medium Risk,6,7,1872,42.10%, Send Time-Limited Offer
+12381,High Value Customers,Medium Risk,4,5,1845,35.10%, Send Time-Limited Offer
+18180,High Value Customers,Medium Risk,4,6,1844,34.40%, Send Time-Limited Offer
+18122,High Value Customers,Medium Risk,7,6,1826,61.30%, Send Time-Limited Offer
+16169,High Value Customers,Medium Risk,7,4,1823,66.10%, Send Time-Limited Offer
+17750,High Value Customers,Medium Risk,4,9,1798,31.20%, Send Time-Limited Offer
+14583,High Value Customers,Medium Risk,5,8,1781,46.90%, Send Time-Limited Offer
+13808,High Value Customers,Medium Risk,5,5,1748,51.70%, Send Time-Limited Offer
+17321,High Value Customers,Medium Risk,7,6,1741,61.30%, Send Time-Limited Offer
+14075,High Value Customers,Medium Risk,4,6,1735,30.70%, Send Time-Limited Offer
+16899,High Value Customers,Medium Risk,7,8,1721,59.40%, Send Time-Limited Offer
+16119,High Value Customers,Medium Risk,7,8,1721,42.60%, Send Time-Limited Offer
+15267,High Value Customers,Medium Risk,21,5,1717,68.80%, Send Time-Limited Offer
+13309,High Value Customers,Medium Risk,6,6,1706,39.00%, Send Time-Limited Offer
+16813,High Value Customers,Medium Risk,7,10,1693,66.20%, Send Time-Limited Offer
+15172,High Value Customers,Medium Risk,8,5,1624,65.50%, Send Time-Limited Offer
+14178,High Value Customers,Medium Risk,8,7,1621,53.50%, Send Time-Limited Offer
+16915,High Value Customers,Medium Risk,8,11,1543,63.90%, Send Time-Limited Offer
+12970,High Value Customers,Medium Risk,6,10,1525,35.10%, Send Time-Limited Offer
+15948,High Value Customers,Medium Risk,7,3,1509,67.70%, Send Time-Limited Offer
+15101,High Value Customers,Medium Risk,8,6,1478,59.00%, Send Time-Limited Offer
+13159,High Value Customers,Medium Risk,8,4,1438,69.30%, Send Time-Limited Offer
+12695,High Value Customers,Medium Risk,6,7,1407,30.50%, Send Time-Limited Offer
+12952,High Value Customers,Medium Risk,5,4,1388,49.20%, Send Time-Limited Offer
+14618,High Value Customers,Medium Risk,8,7,1342,50.50%, Send Time-Limited Offer
+12919,High Value Customers,Medium Risk,7,6,1335,53.80%, Send Time-Limited Offer
+14511,High Value Customers,Medium Risk,10,5,1315,69.50%, Send Time-Limited Offer
+12364,High Value Customers,Medium Risk,7,4,1313,65.60%, Send Time-Limited Offer
+16744,High Value Customers,Medium Risk,10,7,1305,68.90%, Send Time-Limited Offer
+14419,High Value Customers,Medium Risk,10,7,1261,68.90%, Send Time-Limited Offer
+14428,High Value Customers,Medium Risk,6,5,1245,38.50%, Send Time-Limited Offer
+12464,High Value Customers,Medium Risk,9,8,1212,66.50%, Send Time-Limited Offer
+14126,High Value Customers,Medium Risk,7,4,1172,64.60%, Send Time-Limited Offer
+15028,High Value Customers,Medium Risk,7,6,1158,52.70%, Send Time-Limited Offer
+15500,High Value Customers,Medium Risk,7,4,1132,64.60%, Send Time-Limited Offer
+13509,High Value Customers,Medium Risk,8,8,1115,51.80%, Send Time-Limited Offer
+12421,High Value Customers,Medium Risk,15,6,1099,68.50%, Send Time-Limited Offer
+13258,High Value Customers,Medium Risk,11,5,1035,40.10%, Send Time-Limited Offer
+17299,High Value Customers,Medium Risk,11,6,1016,69.60%, Send Time-Limited Offer
+15951,High Value Customers,Medium Risk,8,3,1013,53.50%, Send Time-Limited Offer
+13429,High Value Customers,Medium Risk,10,4,1007,63.00%, Send Time-Limited Offer
+13238,High Value Customers,Medium Risk,16,6,1007,67.50%, Send Time-Limited Offer
+13427,High Value Customers,Medium Risk,18,6,1007,69.40%, Send Time-Limited Offer
+17329,High Value Customers,Medium Risk,13,5,1004,51.70%, Send Time-Limited Offer
+17237,High Value Customers,Medium Risk,10,4,1002,56.00%, Send Time-Limited Offer
+17516,High Value Customers,Medium Risk,14,6,958,63.60%, Send Time-Limited Offer
+18001,High Value Customers,Medium Risk,11,6,954,62.50%, Send Time-Limited Offer
+16657,High Value Customers,Medium Risk,9,4,934,58.40%, Send Time-Limited Offer
+17864,High Value Customers,Medium Risk,12,5,924,62.50%, Send Time-Limited Offer
+14289,High Value Customers,Medium Risk,8,6,911,44.80%, Send Time-Limited Offer
+15511,High Value Customers,Medium Risk,11,5,909,60.40%, Send Time-Limited Offer
+16361,High Value Customers,Medium Risk,9,4,897,56.30%, Send Time-Limited Offer
+15393,High Value Customers,Medium Risk,15,5,891,61.50%, Send Time-Limited Offer
+16668,High Value Customers,Medium Risk,14,13,862,44.60%, Send Time-Limited Offer
+12787,High Value Customers,Medium Risk,9,4,862,56.30%, Send Time-Limited Offer
+13991,High Value Customers,Medium Risk,11,6,856,60.40%, Send Time-Limited Offer
+16877,High Value Customers,Medium Risk,11,6,854,60.40%, Send Time-Limited Offer
+18084,High Value Customers,Medium Risk,15,3,813,66.00%, Send Time-Limited Offer
+17495,High Value Customers,Medium Risk,7,3,807,48.20%, Send Time-Limited Offer
+16438,High Value Customers,Medium Risk,5,5,798,35.40%, Send Time-Limited Offer
+15872,High Value Customers,Medium Risk,14,4,796,64.60%, Send Time-Limited Offer
+16759,High Value Customers,Medium Risk,7,3,790,60.60%, Send Time-Limited Offer
+15714,High Value Customers,Medium Risk,11,5,785,60.10%, Send Time-Limited Offer
+15743,High Value Customers,Medium Risk,15,4,784,64.60%, Send Time-Limited Offer
+13502,High Value Customers,Medium Risk,16,5,780,57.70%, Send Time-Limited Offer
+18112,High Value Customers,Medium Risk,11,4,776,52.60%, Send Time-Limited Offer
+18058,High Value Customers,Medium Risk,9,3,774,48.90%, Send Time-Limited Offer
+15428,High Value Customers,Medium Risk,14,4,763,55.00%, Send Time-Limited Offer
+13950,High Value Customers,Medium Risk,10,4,745,46.60%, Send Time-Limited Offer
+13147,High Value Customers,Medium Risk,9,4,713,46.60%, Send Time-Limited Offer
+16885,High Value Customers,Medium Risk,14,4,711,55.00%, Send Time-Limited Offer
+15901,High Value Customers,Medium Risk,16,7,703,68.60%, Send Time-Limited Offer
+14111,High Value Customers,Medium Risk,13,4,693,52.60%, Send Time-Limited Offer
+17502,High Value Customers,Medium Risk,8,4,689,41.50%, Send Time-Limited Offer
+16343,High Value Customers,Medium Risk,15,3,687,57.20%, Send Time-Limited Offer
+16824,High Value Customers,Medium Risk,15,3,686,57.20%, Send Time-Limited Offer
+14452,High Value Customers,Medium Risk,10,4,666,46.60%, Send Time-Limited Offer
+17852,High Value Customers,Medium Risk,11,5,663,50.10%, Send Time-Limited Offer
+16157,High Value Customers,Medium Risk,15,3,657,57.20%, Send Time-Limited Offer
+17523,High Value Customers,Medium Risk,10,4,653,46.60%, Send Time-Limited Offer
+18101,High Value Customers,Medium Risk,10,5,629,37.30%, Send Time-Limited Offer
+16566,High Value Customers,Medium Risk,14,5,615,42.50%, Send Time-Limited Offer
+12654,High Value Customers,Medium Risk,10,5,602,35.60%, Send Time-Limited Offer
+17014,High Value Customers,Medium Risk,7,3,586,32.40%, Send Time-Limited Offer
+14173,High Value Customers,Medium Risk,10,6,586,35.60%, Send Time-Limited Offer
+16596,High Value Customers,Medium Risk,15,4,580,43.20%, Send Time-Limited Offer
+17557,High Value Customers,Medium Risk,13,4,575,43.80%, Send Time-Limited Offer
+18127,High Value Customers,Medium Risk,18,4,562,66.90%, Send Time-Limited Offer
+16414,High Value Customers,Medium Risk,21,5,560,65.50%, Send Time-Limited Offer
+16406,High Value Customers,Medium Risk,18,3,553,66.40%, Send Time-Limited Offer
+13207,High Value Customers,Medium Risk,14,4,536,43.20%, Send Time-Limited Offer
+13277,High Value Customers,Medium Risk,15,7,523,37.90%, Send Time-Limited Offer
+17384,High Value Customers,Medium Risk,18,3,508,66.40%, Send Time-Limited Offer
+13247,High Value Customers,Medium Risk,17,4,501,62.50%, Send Time-Limited Offer
+12920,High Value Customers,Medium Risk,16,4,488,57.10%, Send Time-Limited Offer
+16024,High Value Customers,Medium Risk,11,3,484,48.10%, Send Time-Limited Offer
+16038,High Value Customers,Medium Risk,7,3,472,32.40%, Send Time-Limited Offer
+13928,High Value Customers,Medium Risk,10,4,465,35.50%, Send Time-Limited Offer
+15124,High Value Customers,Medium Risk,22,4,451,49.40%, Send Time-Limited Offer
+17330,High Value Customers,Medium Risk,22,4,424,63.70%, Send Time-Limited Offer
+15206,High Value Customers,Medium Risk,9,4,420,31.30%, Send Time-Limited Offer
+17286,High Value Customers,Medium Risk,21,3,395,61.90%, Send Time-Limited Offer
+17772,High Value Customers,Medium Risk,10,3,385,33.10%, Send Time-Limited Offer
+16856,High Value Customers,Medium Risk,14,3,358,33.50%, Send Time-Limited Offer
+15781,High Value Customers,Medium Risk,24,3,345,60.90%, Send Time-Limited Offer
+16478,High Value Customers,Medium Risk,24,3,331,60.90%, Send Time-Limited Offer
+18059,High Value Customers,Medium Risk,22,3,306,60.90%, Send Time-Limited Offer
+14156,High Value Customers,High Risk,9,156,313946,93.30%, Urgent Win-Back Email
+17450,High Value Customers,High Risk,7,51,246973,92.10%, Urgent Win-Back Email
+12415,High Value Customers,High Risk,23,28,144458,96.70%, Urgent Win-Back Email
+16029,High Value Customers,High Risk,38,107,122209,99.20%, Urgent Win-Back Email
+12931,High Value Customers,High Risk,21,57,92347,97.60%, Urgent Win-Back Email
+14298,High Value Customers,High Risk,7,82,91194,91.70%, Urgent Win-Back Email
+15769,High Value Customers,High Risk,6,46,88704,77.10%, Urgent Win-Back Email
+15838,High Value Customers,High Risk,10,34,74163,93.90%, Urgent Win-Back Email
+14088,High Value Customers,High Risk,9,16,64037,81.00%, Urgent Win-Back Email
+16422,High Value Customers,High Risk,16,109,63651,97.40%, Urgent Win-Back Email
+13081,High Value Customers,High Risk,11,28,59205,95.60%, Urgent Win-Back Email
+14680,High Value Customers,High Risk,24,58,57413,98.00%, Urgent Win-Back Email
+14031,High Value Customers,High Risk,6,44,40999,84.80%, Urgent Win-Back Email
+15039,High Value Customers,High Risk,9,93,40031,93.30%, Urgent Win-Back Email
+17381,High Value Customers,High Risk,8,38,40002,90.70%, Urgent Win-Back Email
+12921,High Value Customers,High Risk,8,74,35921,91.60%, Urgent Win-Back Email
+12678,High Value Customers,High Risk,41,21,34281,97.30%, Urgent Win-Back Email
+14258,High Value Customers,High Risk,8,25,32051,90.70%, Urgent Win-Back Email
+12709,High Value Customers,High Risk,14,34,31093,96.00%, Urgent Win-Back Email
+12681,High Value Customers,High Risk,14,45,30868,96.00%, Urgent Win-Back Email
+17940,High Value Customers,High Risk,48,16,30393,97.30%, Urgent Win-Back Email
+15513,High Value Customers,High Risk,32,35,27751,99.10%, Urgent Win-Back Email
+16333,High Value Customers,High Risk,7,22,26627,77.20%, Urgent Win-Back Email
+17865,High Value Customers,High Risk,30,46,26374,98.60%, Urgent Win-Back Email
+18251,High Value Customers,High Risk,86,9,26279,98.80%, Urgent Win-Back Email
+12731,High Value Customers,High Risk,23,17,25776,96.90%, Urgent Win-Back Email
+14062,High Value Customers,High Risk,9,24,25604,92.60%, Urgent Win-Back Email
+12744,High Value Customers,High Risk,51,11,25317,98.20%, Urgent Win-Back Email
+12939,High Value Customers,High Risk,63,20,25265,99.10%, Urgent Win-Back Email
+14895,High Value Customers,High Risk,7,38,25120,90.90%, Urgent Win-Back Email
+14607,High Value Customers,High Risk,15,22,24138,95.80%, Urgent Win-Back Email
+12409,High Value Customers,High Risk,78,7,23419,98.50%, Urgent Win-Back Email
+17340,High Value Customers,High Risk,29,18,22405,98.20%, Urgent Win-Back Email
+16839,High Value Customers,High Risk,8,44,22310,91.80%, Urgent Win-Back Email
+12540,High Value Customers,High Risk,19,33,22254,97.70%, Urgent Win-Back Email
+13340,High Value Customers,High Risk,44,12,22101,98.40%, Urgent Win-Back Email
+13319,High Value Customers,High Risk,4,58,22082,85.00%, Urgent Win-Back Email
+14667,High Value Customers,High Risk,10,54,21927,94.80%, Urgent Win-Back Email
+12753,High Value Customers,High Risk,22,6,21429,93.80%, Urgent Win-Back Email
+15615,High Value Customers,High Risk,9,47,21374,93.50%, Urgent Win-Back Email
+14866,High Value Customers,High Risk,10,19,20850,92.00%, Urgent Win-Back Email
+15251,High Value Customers,High Risk,8,21,20325,87.90%, Urgent Win-Back Email
+12477,High Value Customers,High Risk,22,9,20276,96.20%, Urgent Win-Back Email
+18008,High Value Customers,High Risk,69,23,19787,99.20%, Urgent Win-Back Email
+17139,High Value Customers,High Risk,15,25,19584,96.50%, Urgent Win-Back Email
+16843,High Value Customers,High Risk,42,35,19571,99.20%, Urgent Win-Back Email
+12557,High Value Customers,High Risk,15,8,18716,83.00%, Urgent Win-Back Email
+14194,High Value Customers,High Risk,4,36,18671,84.50%, Urgent Win-Back Email
+17377,High Value Customers,High Risk,23,78,18319,98.40%, Urgent Win-Back Email
+16746,High Value Customers,High Risk,4,42,18066,84.50%, Urgent Win-Back Email
+12647,High Value Customers,High Risk,21,36,17924,97.80%, Urgent Win-Back Email
+12472,High Value Customers,High Risk,31,19,17881,98.80%, Urgent Win-Back Email
+15078,High Value Customers,High Risk,6,53,17762,86.80%, Urgent Win-Back Email
+12901,High Value Customers,High Risk,8,28,17655,91.80%, Urgent Win-Back Email
+14952,High Value Customers,High Risk,59,32,17629,99.50%, Urgent Win-Back Email
+16652,High Value Customers,High Risk,58,16,17550,99.20%, Urgent Win-Back Email
+18172,High Value Customers,High Risk,14,52,17480,97.00%, Urgent Win-Back Email
+16019,High Value Customers,High Risk,46,27,17466,99.20%, Urgent Win-Back Email
+15523,High Value Customers,High Risk,83,16,17360,99.20%, Urgent Win-Back Email
+17416,High Value Customers,High Risk,29,22,17298,98.20%, Urgent Win-Back Email
+14277,High Value Customers,High Risk,14,9,17226,93.00%, Urgent Win-Back Email
+15358,High Value Customers,High Risk,4,42,17050,84.50%, Urgent Win-Back Email
+15125,High Value Customers,High Risk,24,24,17025,97.90%, Urgent Win-Back Email
+16656,High Value Customers,High Risk,21,30,16833,97.40%, Urgent Win-Back Email
+12454,High Value Customers,High Risk,55,5,16680,98.20%, Urgent Win-Back Email
+14961,High Value Customers,High Risk,10,22,16410,92.00%, Urgent Win-Back Email
+15044,High Value Customers,High Risk,18,35,16204,97.20%, Urgent Win-Back Email
+14733,High Value Customers,High Risk,15,15,16185,94.70%, Urgent Win-Back Email
+17107,High Value Customers,High Risk,32,10,16075,98.30%, Urgent Win-Back Email
+17716,High Value Customers,High Risk,22,24,15957,97.90%, Urgent Win-Back Email
+14849,High Value Customers,High Risk,21,43,15763,97.40%, Urgent Win-Back Email
+13488,High Value Customers,High Risk,16,23,15588,96.20%, Urgent Win-Back Email
+12949,High Value Customers,High Risk,30,22,15527,98.20%, Urgent Win-Back Email
+15601,High Value Customers,High Risk,10,30,14960,93.60%, Urgent Win-Back Email
+14543,High Value Customers,High Risk,28,39,14907,98.60%, Urgent Win-Back Email
+16126,High Value Customers,High Risk,28,15,14647,98.20%, Urgent Win-Back Email
+17133,High Value Customers,High Risk,15,12,14622,93.30%, Urgent Win-Back Email
+16873,High Value Customers,High Risk,4,12,14617,70.00%, Urgent Win-Back Email
+15482,High Value Customers,High Risk,15,19,14593,94.70%, Urgent Win-Back Email
+16713,High Value Customers,High Risk,18,32,14561,97.20%, Urgent Win-Back Email
+14299,High Value Customers,High Risk,7,27,14499,90.50%, Urgent Win-Back Email
+15093,High Value Customers,High Risk,17,23,14326,96.50%, Urgent Win-Back Email
+12476,High Value Customers,High Risk,15,23,14115,94.70%, Urgent Win-Back Email
+15005,High Value Customers,High Risk,15,56,14106,95.90%, Urgent Win-Back Email
+13090,High Value Customers,High Risk,8,24,14103,90.30%, Urgent Win-Back Email
+12714,High Value Customers,High Risk,8,12,14094,87.90%, Urgent Win-Back Email
+13178,High Value Customers,High Risk,25,21,14059,98.20%, Urgent Win-Back Email
+17589,High Value Customers,High Risk,59,18,14050,99.20%, Urgent Win-Back Email
+18223,High Value Customers,High Risk,4,26,14001,74.80%, Urgent Win-Back Email
+15502,High Value Customers,High Risk,15,14,13993,94.70%, Urgent Win-Back Email
+12435,High Value Customers,High Risk,79,6,13926,98.30%, Urgent Win-Back Email
+15291,High Value Customers,High Risk,25,40,13847,98.60%, Urgent Win-Back Email
+15382,High Value Customers,High Risk,14,12,13734,93.30%, Urgent Win-Back Email
+12567,High Value Customers,High Risk,22,15,13710,97.30%, Urgent Win-Back Email
+13097,High Value Customers,High Risk,32,28,13389,99.00%, Urgent Win-Back Email
+16923,High Value Customers,High Risk,11,32,13378,95.40%, Urgent Win-Back Email
+15738,High Value Customers,High Risk,18,41,13373,97.20%, Urgent Win-Back Email
+13629,High Value Customers,High Risk,22,19,13371,97.30%, Urgent Win-Back Email
+13969,High Value Customers,High Risk,6,35,13366,84.10%, Urgent Win-Back Email
+14049,High Value Customers,High Risk,16,13,13239,96.20%, Urgent Win-Back Email
+13316,High Value Customers,High Risk,36,10,13192,98.30%, Urgent Win-Back Email
+16549,High Value Customers,High Risk,9,34,13182,92.20%, Urgent Win-Back Email
+17858,High Value Customers,High Risk,5,30,12798,80.50%, Urgent Win-Back Email
+12451,High Value Customers,High Risk,10,8,12670,76.70%, Urgent Win-Back Email
+15465,High Value Customers,High Risk,19,32,12656,97.20%, Urgent Win-Back Email
+14040,High Value Customers,High Risk,40,35,12646,99.00%, Urgent Win-Back Email
+16814,High Value Customers,High Risk,13,36,12500,95.40%, Urgent Win-Back Email
+12474,High Value Customers,High Risk,16,31,12424,97.00%, Urgent Win-Back Email
+14936,High Value Customers,High Risk,33,12,12411,98.40%, Urgent Win-Back Email
+12481,High Value Customers,High Risk,22,15,12361,97.30%, Urgent Win-Back Email
+13050,High Value Customers,High Risk,14,35,12345,95.80%, Urgent Win-Back Email
+13418,High Value Customers,High Risk,11,31,12234,95.80%, Urgent Win-Back Email
+15144,High Value Customers,High Risk,7,29,12160,91.30%, Urgent Win-Back Email
+17338,High Value Customers,High Risk,16,17,12143,96.60%, Urgent Win-Back Email
+15555,High Value Customers,High Risk,11,36,12112,95.80%, Urgent Win-Back Email
+14505,High Value Customers,High Risk,16,19,12002,96.60%, Urgent Win-Back Email
+17044,High Value Customers,High Risk,24,12,11962,96.90%, Urgent Win-Back Email
+13458,High Value Customers,High Risk,6,16,11959,82.30%, Urgent Win-Back Email
+16258,High Value Customers,High Risk,44,15,11943,98.90%, Urgent Win-Back Email
+18226,High Value Customers,High Risk,43,26,11879,99.10%, Urgent Win-Back Email
+12705,High Value Customers,High Risk,14,14,11762,95.20%, Urgent Win-Back Email
+14426,High Value Customers,High Risk,23,17,11728,97.60%, Urgent Win-Back Email
+13004,High Value Customers,High Risk,11,36,11651,95.80%, Urgent Win-Back Email
+13576,High Value Customers,High Risk,9,28,11552,93.00%, Urgent Win-Back Email
+15218,High Value Customers,High Risk,10,22,11517,92.70%, Urgent Win-Back Email
+12668,High Value Customers,High Risk,11,10,11445,93.40%, Urgent Win-Back Email
+17809,High Value Customers,High Risk,15,20,11337,95.20%, Urgent Win-Back Email
+15874,High Value Customers,High Risk,63,21,11285,99.30%, Urgent Win-Back Email
+12539,High Value Customers,High Risk,21,7,11215,92.50%, Urgent Win-Back Email
+18055,High Value Customers,High Risk,6,14,11196,82.30%, Urgent Win-Back Email
+12524,High Value Customers,High Risk,8,17,11126,89.00%, Urgent Win-Back Email
+13941,High Value Customers,High Risk,21,15,11122,96.40%, Urgent Win-Back Email
+16985,High Value Customers,High Risk,16,23,10923,95.80%, Urgent Win-Back Email
+12431,High Value Customers,High Risk,35,27,10858,98.90%, Urgent Win-Back Email
+16033,High Value Customers,High Risk,5,27,10836,78.80%, Urgent Win-Back Email
+18229,High Value Customers,High Risk,11,28,10804,94.90%, Urgent Win-Back Email
+16984,High Value Customers,High Risk,87,9,10755,98.80%, Urgent Win-Back Email
+16327,High Value Customers,High Risk,13,16,10731,93.60%, Urgent Win-Back Email
+16168,High Value Customers,High Risk,10,66,10636,93.20%, Urgent Win-Back Email
+13324,High Value Customers,High Risk,35,18,10513,98.60%, Urgent Win-Back Email
+16782,High Value Customers,High Risk,9,38,10438,91.50%, Urgent Win-Back Email
+15296,High Value Customers,High Risk,50,12,10343,98.30%, Urgent Win-Back Email
+15719,High Value Customers,High Risk,32,31,10223,98.90%, Urgent Win-Back Email
+17160,High Value Customers,High Risk,30,17,10209,98.00%, Urgent Win-Back Email
+15805,High Value Customers,High Risk,22,30,10189,97.60%, Urgent Win-Back Email
+15547,High Value Customers,High Risk,6,26,10154,82.70%, Urgent Win-Back Email
+14755,High Value Customers,High Risk,9,25,9973,91.50%, Urgent Win-Back Email
+16182,High Value Customers,High Risk,71,9,9972,98.80%, Urgent Win-Back Email
+14101,High Value Customers,High Risk,73,13,9962,99.20%, Urgent Win-Back Email
+16131,High Value Customers,High Risk,51,12,9957,98.30%, Urgent Win-Back Email
+14329,High Value Customers,High Risk,16,15,9927,95.80%, Urgent Win-Back Email
+16701,High Value Customers,High Risk,8,26,9917,89.30%, Urgent Win-Back Email
+13327,High Value Customers,High Risk,38,20,9879,98.60%, Urgent Win-Back Email
+13735,High Value Customers,High Risk,24,13,9813,97.00%, Urgent Win-Back Email
+14944,High Value Customers,High Risk,29,19,9785,98.00%, Urgent Win-Back Email
+17306,High Value Customers,High Risk,10,21,9782,91.20%, Urgent Win-Back Email
+13018,High Value Customers,High Risk,15,35,9763,95.40%, Urgent Win-Back Email
+12380,High Value Customers,High Risk,21,11,9676,95.40%, Urgent Win-Back Email
+13999,High Value Customers,High Risk,9,29,9502,91.50%, Urgent Win-Back Email
+13174,High Value Customers,High Risk,15,12,9495,92.70%, Urgent Win-Back Email
+14146,High Value Customers,High Risk,8,12,9450,86.80%, Urgent Win-Back Email
+15727,High Value Customers,High Risk,16,15,9446,95.80%, Urgent Win-Back Email
+13758,High Value Customers,High Risk,11,15,9417,93.60%, Urgent Win-Back Email
+15981,High Value Customers,High Risk,24,21,9363,97.00%, Urgent Win-Back Email
+15570,High Value Customers,High Risk,6,25,9311,82.70%, Urgent Win-Back Email
+15249,High Value Customers,High Risk,31,18,9266,98.60%, Urgent Win-Back Email
+14367,High Value Customers,High Risk,7,16,9262,87.10%, Urgent Win-Back Email
+13448,High Value Customers,High Risk,16,13,9241,95.80%, Urgent Win-Back Email
+14292,High Value Customers,High Risk,7,16,9226,87.10%, Urgent Win-Back Email
+16700,High Value Customers,High Risk,8,25,9168,89.30%, Urgent Win-Back Email
+17068,High Value Customers,High Risk,11,47,9161,94.90%, Urgent Win-Back Email
+16709,High Value Customers,High Risk,84,14,9087,99.20%, Urgent Win-Back Email
+15939,High Value Customers,High Risk,89,16,9060,99.20%, Urgent Win-Back Email
+17576,High Value Customers,High Risk,7,41,9057,89.50%, Urgent Win-Back Email
+16186,High Value Customers,High Risk,22,26,9026,97.60%, Urgent Win-Back Email
+15150,High Value Customers,High Risk,16,13,9001,95.80%, Urgent Win-Back Email
+13555,High Value Customers,High Risk,73,13,8999,99.20%, Urgent Win-Back Email
+16722,High Value Customers,High Risk,16,22,8989,95.80%, Urgent Win-Back Email
+15903,High Value Customers,High Risk,9,12,8940,88.30%, Urgent Win-Back Email
+12359,High Value Customers,High Risk,57,10,8936,98.70%, Urgent Win-Back Email
+14709,High Value Customers,High Risk,14,25,8886,95.40%, Urgent Win-Back Email
+17396,High Value Customers,High Risk,38,14,8807,98.60%, Urgent Win-Back Email
+13047,High Value Customers,High Risk,31,24,8795,98.90%, Urgent Win-Back Email
+16532,High Value Customers,High Risk,17,5,8757,88.80%, Urgent Win-Back Email
+18041,High Value Customers,High Risk,11,38,8752,94.90%, Urgent Win-Back Email
+12957,High Value Customers,High Risk,9,13,8707,89.40%, Urgent Win-Back Email
+15955,High Value Customers,High Risk,23,22,8658,97.00%, Urgent Win-Back Email
+15497,High Value Customers,High Risk,17,9,8657,94.60%, Urgent Win-Back Email
+13148,High Value Customers,High Risk,28,26,8622,98.40%, Urgent Win-Back Email
+16945,High Value Customers,High Risk,21,33,8548,97.10%, Urgent Win-Back Email
+15281,High Value Customers,High Risk,58,16,8544,99.10%, Urgent Win-Back Email
+15270,High Value Customers,High Risk,15,21,8525,94.20%, Urgent Win-Back Email
+15786,High Value Customers,High Risk,45,5,8515,97.00%, Urgent Win-Back Email
+12798,High Value Customers,High Risk,9,4,8511,71.00%, Urgent Win-Back Email
+13209,High Value Customers,High Risk,29,13,8510,98.00%, Urgent Win-Back Email
+14286,High Value Customers,High Risk,23,7,8480,93.10%, Urgent Win-Back Email
+18139,High Value Customers,High Risk,17,6,8438,88.80%, Urgent Win-Back Email
+14057,High Value Customers,High Risk,23,22,8409,97.00%, Urgent Win-Back Email
+17611,High Value Customers,High Risk,6,28,8372,82.70%, Urgent Win-Back Email
+14676,High Value Customers,High Risk,30,12,8357,97.40%, Urgent Win-Back Email
+12637,High Value Customers,High Risk,66,12,8340,98.90%, Urgent Win-Back Email
+15034,High Value Customers,High Risk,15,14,8313,94.20%, Urgent Win-Back Email
+15998,High Value Customers,High Risk,36,16,8308,98.60%, Urgent Win-Back Email
+17686,High Value Customers,High Risk,6,9,8297,79.00%, Urgent Win-Back Email
+14030,High Value Customers,High Risk,17,20,8262,96.20%, Urgent Win-Back Email
+14525,High Value Customers,High Risk,19,17,8241,96.20%, Urgent Win-Back Email
+17365,High Value Customers,High Risk,12,15,8225,93.60%, Urgent Win-Back Email
+13381,High Value Customers,High Risk,31,12,8224,98.30%, Urgent Win-Back Email
+13139,High Value Customers,High Risk,15,8,8203,81.60%, Urgent Win-Back Email
+15544,High Value Customers,High Risk,8,20,8162,86.80%, Urgent Win-Back Email
+17426,High Value Customers,High Risk,7,13,8078,87.10%, Urgent Win-Back Email
+16767,High Value Customers,High Risk,30,15,8074,98.00%, Urgent Win-Back Email
+16670,High Value Customers,High Risk,16,20,8030,95.80%, Urgent Win-Back Email
+16556,High Value Customers,High Risk,66,17,8013,99.10%, Urgent Win-Back Email
+15299,High Value Customers,High Risk,66,10,7992,98.70%, Urgent Win-Back Email
+12428,High Value Customers,High Risk,25,9,7956,97.10%, Urgent Win-Back Email
+14159,High Value Customers,High Risk,19,20,7938,96.20%, Urgent Win-Back Email
+16303,High Value Customers,High Risk,25,7,7928,95.30%, Urgent Win-Back Email
+12867,High Value Customers,High Risk,25,13,7913,98.00%, Urgent Win-Back Email
+13871,High Value Customers,High Risk,22,17,7886,97.00%, Urgent Win-Back Email
+12757,High Value Customers,High Risk,15,13,7857,94.20%, Urgent Win-Back Email
+15622,High Value Customers,High Risk,42,17,7853,98.60%, Urgent Win-Back Email
+15046,High Value Customers,High Risk,8,25,7812,89.30%, Urgent Win-Back Email
+14800,High Value Customers,High Risk,47,17,7774,98.60%, Urgent Win-Back Email
+17739,High Value Customers,High Risk,11,18,7731,93.60%, Urgent Win-Back Email
+14688,High Value Customers,High Risk,7,28,7714,89.50%, Urgent Win-Back Email
+13137,High Value Customers,High Risk,10,16,7713,91.20%, Urgent Win-Back Email
+17696,High Value Customers,High Risk,37,27,7680,98.90%, Urgent Win-Back Email
+14175,High Value Customers,High Risk,59,8,7679,98.30%, Urgent Win-Back Email
+13141,High Value Customers,High Risk,84,17,7669,99.20%, Urgent Win-Back Email
+15301,High Value Customers,High Risk,50,17,7603,98.60%, Urgent Win-Back Email
+13373,High Value Customers,High Risk,60,6,7587,98.20%, Urgent Win-Back Email
+15179,High Value Customers,High Risk,17,13,7492,96.20%, Urgent Win-Back Email
+12429,High Value Customers,High Risk,8,8,7486,77.50%, Urgent Win-Back Email
+13815,High Value Customers,High Risk,21,8,7476,92.40%, Urgent Win-Back Email
+16242,High Value Customers,High Risk,7,14,7474,87.10%, Urgent Win-Back Email
+17690,High Value Customers,High Risk,29,20,7448,98.00%, Urgent Win-Back Email
+16570,High Value Customers,High Risk,14,20,7434,94.20%, Urgent Win-Back Email
+14243,High Value Customers,High Risk,8,17,7431,86.80%, Urgent Win-Back Email
+16253,High Value Customers,High Risk,66,7,7310,98.20%, Urgent Win-Back Email
+17965,High Value Customers,High Risk,37,29,7241,98.90%, Urgent Win-Back Email
+16729,High Value Customers,High Risk,37,21,7240,98.60%, Urgent Win-Back Email
+14092,High Value Customers,High Risk,7,24,7229,89.50%, Urgent Win-Back Email
+17231,High Value Customers,High Risk,11,25,7197,94.90%, Urgent Win-Back Email
+16745,High Value Customers,High Risk,86,17,7194,99.20%, Urgent Win-Back Email
+12712,High Value Customers,High Risk,28,21,7194,98.00%, Urgent Win-Back Email
+13451,High Value Customers,High Risk,25,11,7191,97.40%, Urgent Win-Back Email
+15950,High Value Customers,High Risk,31,10,7181,98.10%, Urgent Win-Back Email
+14841,High Value Customers,High Risk,52,14,7163,98.60%, Urgent Win-Back Email
+13983,High Value Customers,High Risk,29,21,7108,98.00%, Urgent Win-Back Email
+15521,High Value Customers,High Risk,39,16,7107,98.60%, Urgent Win-Back Email
+17769,High Value Customers,High Risk,12,17,7103,93.60%, Urgent Win-Back Email
+16938,High Value Customers,High Risk,8,9,7043,86.80%, Urgent Win-Back Email
+13183,High Value Customers,High Risk,7,15,7036,71.70%, Urgent Win-Back Email
+17975,High Value Customers,High Risk,14,24,7029,95.40%, Urgent Win-Back Email
+13831,High Value Customers,High Risk,15,18,7024,94.20%, Urgent Win-Back Email
+16717,High Value Customers,High Risk,23,14,6986,97.00%, Urgent Win-Back Email
+13552,High Value Customers,High Risk,65,22,6979,99.10%, Urgent Win-Back Email
+15674,High Value Customers,High Risk,72,13,6948,99.20%, Urgent Win-Back Email
+16265,High Value Customers,High Risk,8,12,6935,76.90%, Urgent Win-Back Email
+16187,High Value Customers,High Risk,31,15,6911,98.60%, Urgent Win-Back Email
+13520,High Value Customers,High Risk,58,11,6909,98.90%, Urgent Win-Back Email
+16170,High Value Customers,High Risk,50,20,6869,98.60%, Urgent Win-Back Email
+15129,High Value Customers,High Risk,49,23,6860,98.60%, Urgent Win-Back Email
+12613,High Value Customers,High Risk,56,10,6835,98.70%, Urgent Win-Back Email
+12830,High Value Customers,High Risk,37,6,6815,97.30%, Urgent Win-Back Email
+16145,High Value Customers,High Risk,8,19,6805,76.90%, Urgent Win-Back Email
+13993,High Value Customers,High Risk,42,19,6776,98.60%, Urgent Win-Back Email
+18118,High Value Customers,High Risk,10,29,6733,93.00%, Urgent Win-Back Email
+17838,High Value Customers,High Risk,26,13,6723,98.00%, Urgent Win-Back Email
+12779,High Value Customers,High Risk,37,14,6722,98.60%, Urgent Win-Back Email
+15321,High Value Customers,High Risk,70,12,6710,98.90%, Urgent Win-Back Email
+14844,High Value Customers,High Risk,63,10,6702,98.70%, Urgent Win-Back Email
+14388,High Value Customers,High Risk,9,16,6701,89.40%, Urgent Win-Back Email
+16497,High Value Customers,High Risk,49,23,6695,98.60%, Urgent Win-Back Email
+13384,High Value Customers,High Risk,30,11,6681,97.40%, Urgent Win-Back Email
+17700,High Value Customers,High Risk,16,14,6680,95.80%, Urgent Win-Back Email
+14440,High Value Customers,High Risk,7,13,6639,71.70%, Urgent Win-Back Email
+12626,High Value Customers,High Risk,22,9,6620,95.80%, Urgent Win-Back Email
+17819,High Value Customers,High Risk,71,12,6613,98.90%, Urgent Win-Back Email
+15514,High Value Customers,High Risk,11,18,6599,93.60%, Urgent Win-Back Email
+15980,High Value Customers,High Risk,88,7,6594,98.30%, Urgent Win-Back Email
+12843,High Value Customers,High Risk,65,30,6588,99.30%, Urgent Win-Back Email
+13015,High Value Customers,High Risk,52,11,6586,98.30%, Urgent Win-Back Email
+12836,High Value Customers,High Risk,58,15,6586,99.10%, Urgent Win-Back Email
+13883,High Value Customers,High Risk,10,15,6560,91.20%, Urgent Win-Back Email
+14766,High Value Customers,High Risk,7,11,6556,71.70%, Urgent Win-Back Email
+16655,High Value Customers,High Risk,17,13,6548,96.20%, Urgent Win-Back Email
+14221,High Value Customers,High Risk,41,17,6517,98.60%, Urgent Win-Back Email
+17873,High Value Customers,High Risk,79,18,6516,99.20%, Urgent Win-Back Email
+12823,High Value Customers,High Risk,74,18,6502,99.20%, Urgent Win-Back Email
+17419,High Value Customers,High Risk,10,18,6501,91.20%, Urgent Win-Back Email
+18061,High Value Customers,High Risk,21,28,6489,97.10%, Urgent Win-Back Email
+13317,High Value Customers,High Risk,65,19,6486,99.10%, Urgent Win-Back Email
+16940,High Value Customers,High Risk,51,8,6428,97.50%, Urgent Win-Back Email
+15673,High Value Customers,High Risk,87,9,6415,98.80%, Urgent Win-Back Email
+12656,High Value Customers,High Risk,16,8,6408,89.80%, Urgent Win-Back Email
+14390,High Value Customers,High Risk,9,13,6400,89.40%, Urgent Win-Back Email
+18094,High Value Customers,High Risk,81,13,6392,99.20%, Urgent Win-Back Email
+12406,High Value Customers,High Risk,21,5,6390,91.70%, Urgent Win-Back Email
+12356,High Value Customers,High Risk,22,6,6374,93.80%, Urgent Win-Back Email
+12484,High Value Customers,High Risk,32,12,6370,98.30%, Urgent Win-Back Email
+14227,High Value Customers,High Risk,25,15,6369,98.00%, Urgent Win-Back Email
+13590,High Value Customers,High Risk,10,18,6350,91.20%, Urgent Win-Back Email
+16710,High Value Customers,High Risk,18,22,6349,96.20%, Urgent Win-Back Email
+17799,High Value Customers,High Risk,21,20,6342,96.40%, Urgent Win-Back Email
+14180,High Value Customers,High Risk,10,33,6319,93.00%, Urgent Win-Back Email
+13654,High Value Customers,High Risk,42,11,6308,98.30%, Urgent Win-Back Email
+13136,High Value Customers,High Risk,55,13,6275,99.10%, Urgent Win-Back Email
+16735,High Value Customers,High Risk,78,14,6271,99.20%, Urgent Win-Back Email
+13334,High Value Customers,High Risk,81,5,6264,98.30%, Urgent Win-Back Email
+14004,High Value Customers,High Risk,42,11,6258,98.30%, Urgent Win-Back Email
+16156,High Value Customers,High Risk,8,20,6218,76.90%, Urgent Win-Back Email
+14530,High Value Customers,High Risk,25,16,6197,98.00%, Urgent Win-Back Email
+14852,High Value Customers,High Risk,57,18,6147,99.10%, Urgent Win-Back Email
+17669,High Value Customers,High Risk,42,10,6142,98.10%, Urgent Win-Back Email
+13266,High Value Customers,High Risk,10,19,6135,91.20%, Urgent Win-Back Email
+17509,High Value Customers,High Risk,57,8,6115,98.40%, Urgent Win-Back Email
+12664,High Value Customers,High Risk,7,11,6070,71.70%, Urgent Win-Back Email
+17625,High Value Customers,High Risk,17,8,6068,90.50%, Urgent Win-Back Email
+14535,High Value Customers,High Risk,59,9,6031,98.70%, Urgent Win-Back Email
+13658,High Value Customers,High Risk,9,9,6026,88.30%, Urgent Win-Back Email
+15755,High Value Customers,High Risk,9,17,5993,89.40%, Urgent Win-Back Email
+15785,High Value Customers,High Risk,32,16,5970,98.60%, Urgent Win-Back Email
+12500,High Value Customers,High Risk,22,19,5955,97.00%, Urgent Win-Back Email
+14257,High Value Customers,High Risk,63,9,5954,98.70%, Urgent Win-Back Email
+17685,High Value Customers,High Risk,16,12,5943,94.70%, Urgent Win-Back Email
+15971,High Value Customers,High Risk,17,18,5903,96.20%, Urgent Win-Back Email
+16011,High Value Customers,High Risk,7,29,5880,76.30%, Urgent Win-Back Email
+12455,High Value Customers,High Risk,72,10,5880,98.80%, Urgent Win-Back Email
+14112,High Value Customers,High Risk,22,13,5835,97.00%, Urgent Win-Back Email
+12910,High Value Customers,High Risk,22,13,5797,97.00%, Urgent Win-Back Email
+17069,High Value Customers,High Risk,27,14,5794,98.00%, Urgent Win-Back Email
+18075,High Value Customers,High Risk,22,20,5783,97.00%, Urgent Win-Back Email
+17672,High Value Customers,High Risk,49,7,5779,97.20%, Urgent Win-Back Email
+15485,High Value Customers,High Risk,29,7,5772,95.60%, Urgent Win-Back Email
+14099,High Value Customers,High Risk,15,20,5766,94.20%, Urgent Win-Back Email
+17863,High Value Customers,High Risk,58,12,5745,98.90%, Urgent Win-Back Email
+16316,High Value Customers,High Risk,63,13,5745,99.10%, Urgent Win-Back Email
+13771,High Value Customers,High Risk,63,9,5729,98.70%, Urgent Win-Back Email
+16409,High Value Customers,High Risk,35,12,5709,98.30%, Urgent Win-Back Email
+16607,High Value Customers,High Risk,17,25,5707,97.00%, Urgent Win-Back Email
+16279,High Value Customers,High Risk,20,9,5705,94.60%, Urgent Win-Back Email
+17651,High Value Customers,High Risk,11,16,5704,93.60%, Urgent Win-Back Email
+13157,High Value Customers,High Risk,48,9,5687,98.10%, Urgent Win-Back Email
+12727,High Value Customers,High Risk,10,10,5680,89.00%, Urgent Win-Back Email
+12633,High Value Customers,High Risk,58,7,5678,98.20%, Urgent Win-Back Email
+13901,High Value Customers,High Risk,71,15,5676,99.20%, Urgent Win-Back Email
+13842,High Value Customers,High Risk,58,18,5630,99.10%, Urgent Win-Back Email
+18145,High Value Customers,High Risk,12,11,5618,92.00%, Urgent Win-Back Email
+16003,High Value Customers,High Risk,29,10,5614,97.10%, Urgent Win-Back Email
+17059,High Value Customers,High Risk,29,9,5603,97.10%, Urgent Win-Back Email
+17092,High Value Customers,High Risk,49,11,5595,98.30%, Urgent Win-Back Email
+15228,High Value Customers,High Risk,65,6,5580,98.20%, Urgent Win-Back Email
+17203,High Value Customers,High Risk,35,10,5576,98.10%, Urgent Win-Back Email
+15527,High Value Customers,High Risk,18,23,5576,96.20%, Urgent Win-Back Email
+14732,High Value Customers,High Risk,7,19,5517,71.70%, Urgent Win-Back Email
+13115,High Value Customers,High Risk,11,10,5495,92.00%, Urgent Win-Back Email
+16609,High Value Customers,High Risk,14,7,5493,80.90%, Urgent Win-Back Email
+16992,High Value Customers,High Risk,10,13,5476,91.20%, Urgent Win-Back Email
+17512,High Value Customers,High Risk,28,18,5468,98.00%, Urgent Win-Back Email
+12480,High Value Customers,High Risk,27,7,5465,95.60%, Urgent Win-Back Email
+14713,High Value Customers,High Risk,8,21,5419,76.90%, Urgent Win-Back Email
+14626,High Value Customers,High Risk,23,11,5411,96.20%, Urgent Win-Back Email
+17719,High Value Customers,High Risk,37,15,5396,98.60%, Urgent Win-Back Email
+17612,High Value Customers,High Risk,52,18,5395,98.60%, Urgent Win-Back Email
+16008,High Value Customers,High Risk,23,15,5384,97.00%, Urgent Win-Back Email
+13014,High Value Customers,High Risk,10,11,5381,89.00%, Urgent Win-Back Email
+13495,High Value Customers,High Risk,7,10,5374,71.70%, Urgent Win-Back Email
+13975,High Value Customers,High Risk,30,12,5359,97.40%, Urgent Win-Back Email
+12708,High Value Customers,High Risk,29,18,5314,98.00%, Urgent Win-Back Email
+15394,High Value Customers,High Risk,9,11,5287,88.30%, Urgent Win-Back Email
+15152,High Value Customers,High Risk,9,14,5264,89.40%, Urgent Win-Back Email
+15722,High Value Customers,High Risk,35,11,5258,98.30%, Urgent Win-Back Email
+13931,High Value Customers,High Risk,95,11,5257,98.90%, Urgent Win-Back Email
+13107,High Value Customers,High Risk,43,9,5253,98.10%, Urgent Win-Back Email
+17061,High Value Customers,High Risk,73,11,5232,98.90%, Urgent Win-Back Email
+12422,High Value Customers,High Risk,95,17,5232,99.20%, Urgent Win-Back Email
+15606,High Value Customers,High Risk,60,17,5231,99.10%, Urgent Win-Back Email
+17084,High Value Customers,High Risk,34,3,5203,97.40%, Urgent Win-Back Email
+17213,High Value Customers,High Risk,39,13,5182,98.60%, Urgent Win-Back Email
+17663,High Value Customers,High Risk,25,17,5176,98.00%, Urgent Win-Back Email
+17157,High Value Customers,High Risk,7,19,5152,71.70%, Urgent Win-Back Email
+16153,High Value Customers,High Risk,49,11,5133,98.30%, Urgent Win-Back Email
+12483,High Value Customers,High Risk,16,19,5121,95.80%, Urgent Win-Back Email
+16308,High Value Customers,High Risk,37,7,5120,97.20%, Urgent Win-Back Email
+13329,High Value Customers,High Risk,31,8,5113,97.50%, Urgent Win-Back Email
+15529,High Value Customers,High Risk,22,12,5112,96.20%, Urgent Win-Back Email
+17519,High Value Customers,High Risk,16,15,5109,95.80%, Urgent Win-Back Email
+13523,High Value Customers,High Risk,32,6,5102,97.30%, Urgent Win-Back Email
+12594,High Value Customers,High Risk,37,15,5090,98.60%, Urgent Win-Back Email
+15367,High Value Customers,High Risk,56,11,5081,98.90%, Urgent Win-Back Email
+13634,High Value Customers,High Risk,32,16,5073,98.60%, Urgent Win-Back Email
+14307,High Value Customers,High Risk,88,10,5071,98.80%, Urgent Win-Back Email
+16686,High Value Customers,High Risk,46,16,5071,98.60%, Urgent Win-Back Email
+12395,High Value Customers,High Risk,18,15,5067,96.20%, Urgent Win-Back Email
+12432,High Value Customers,High Risk,42,5,5059,97.30%, Urgent Win-Back Email
+18144,High Value Customers,High Risk,7,19,5058,71.70%, Urgent Win-Back Email
+17802,High Value Customers,High Risk,81,10,5053,98.80%, Urgent Win-Back Email
+17469,High Value Customers,High Risk,15,17,5051,94.20%, Urgent Win-Back Email
+12600,High Value Customers,High Risk,28,21,5044,98.00%, Urgent Win-Back Email
+12759,High Value Customers,High Risk,51,8,5021,97.50%, Urgent Win-Back Email
+17758,High Value Customers,High Risk,18,12,5013,95.10%, Urgent Win-Back Email
+12444,High Value Customers,High Risk,20,5,5005,89.80%, Urgent Win-Back Email
+14209,High Value Customers,High Risk,10,15,4993,91.20%, Urgent Win-Back Email
+14639,High Value Customers,High Risk,51,9,4979,98.10%, Urgent Win-Back Email
+13198,High Value Customers,High Risk,9,8,4974,74.90%, Urgent Win-Back Email
+12562,High Value Customers,High Risk,7,9,4967,71.70%, Urgent Win-Back Email
+17596,High Value Customers,High Risk,22,13,4921,97.00%, Urgent Win-Back Email
+14970,High Value Customers,High Risk,67,12,4919,98.90%, Urgent Win-Back Email
+16255,High Value Customers,High Risk,16,15,4907,95.80%, Urgent Win-Back Email
+17314,High Value Customers,High Risk,24,17,4904,97.00%, Urgent Win-Back Email
+16986,High Value Customers,High Risk,29,11,4889,97.40%, Urgent Win-Back Email
+14107,High Value Customers,High Risk,51,11,4877,98.30%, Urgent Win-Back Email
+17652,High Value Customers,High Risk,24,12,4868,96.20%, Urgent Win-Back Email
+13562,High Value Customers,High Risk,81,8,4838,98.50%, Urgent Win-Back Email
+17191,High Value Customers,High Risk,27,15,4836,98.00%, Urgent Win-Back Email
+12449,High Value Customers,High Risk,21,6,4836,91.70%, Urgent Win-Back Email
+13875,High Value Customers,High Risk,53,14,4814,98.60%, Urgent Win-Back Email
+13124,High Value Customers,High Risk,89,4,4782,98.40%, Urgent Win-Back Email
+13988,High Value Customers,High Risk,19,8,4758,90.50%, Urgent Win-Back Email
+17082,High Value Customers,High Risk,32,6,4732,97.30%, Urgent Win-Back Email
+14235,High Value Customers,High Risk,74,9,4718,98.80%, Urgent Win-Back Email
+12589,High Value Customers,High Risk,28,8,4696,96.10%, Urgent Win-Back Email
+17050,High Value Customers,High Risk,95,11,4692,98.90%, Urgent Win-Back Email
+15410,High Value Customers,High Risk,83,10,4686,98.80%, Urgent Win-Back Email
+13527,High Value Customers,High Risk,33,12,4684,98.30%, Urgent Win-Back Email
+13971,High Value Customers,High Risk,18,14,4668,96.20%, Urgent Win-Back Email
+18097,High Value Customers,High Risk,7,11,4663,71.70%, Urgent Win-Back Email
+16293,High Value Customers,High Risk,21,15,4658,96.40%, Urgent Win-Back Email
+14466,High Value Customers,High Risk,28,13,4647,98.00%, Urgent Win-Back Email
+12578,High Value Customers,High Risk,20,4,4642,90.10%, Urgent Win-Back Email
+17442,High Value Customers,High Risk,36,15,4620,98.60%, Urgent Win-Back Email
+12553,High Value Customers,High Risk,7,12,4609,71.70%, Urgent Win-Back Email
+13851,High Value Customers,High Risk,95,8,4606,98.50%, Urgent Win-Back Email
+18257,High Value Customers,High Risk,38,12,4600,98.30%, Urgent Win-Back Email
+14514,High Value Customers,High Risk,60,9,4599,98.70%, Urgent Win-Back Email
+17188,High Value Customers,High Risk,10,13,4593,91.20%, Urgent Win-Back Email
+15416,High Value Customers,High Risk,64,7,4573,98.20%, Urgent Win-Back Email
+13491,High Value Customers,High Risk,51,27,4567,98.90%, Urgent Win-Back Email
+14701,High Value Customers,High Risk,10,15,4562,91.20%, Urgent Win-Back Email
+17613,High Value Customers,High Risk,22,14,4559,97.00%, Urgent Win-Back Email
+15365,High Value Customers,High Risk,25,13,4557,98.00%, Urgent Win-Back Email
+13571,High Value Customers,High Risk,12,26,4547,94.90%, Urgent Win-Back Email
+18069,High Value Customers,High Risk,25,11,4541,97.40%, Urgent Win-Back Email
+12598,High Value Customers,High Risk,9,11,4534,88.30%, Urgent Win-Back Email
+14001,High Value Customers,High Risk,45,9,4530,98.10%, Urgent Win-Back Email
+14290,High Value Customers,High Risk,10,8,4517,76.10%, Urgent Win-Back Email
+15680,High Value Customers,High Risk,8,10,4508,76.90%, Urgent Win-Back Email
+15764,High Value Customers,High Risk,87,8,4503,98.50%, Urgent Win-Back Email
+17220,High Value Customers,High Risk,23,21,4482,97.00%, Urgent Win-Back Email
+16912,High Value Customers,High Risk,28,15,4480,98.00%, Urgent Win-Back Email
+12627,High Value Customers,High Risk,10,7,4479,74.00%, Urgent Win-Back Email
+14341,High Value Customers,High Risk,44,18,4467,98.60%, Urgent Win-Back Email
+16081,High Value Customers,High Risk,55,8,4460,98.40%, Urgent Win-Back Email
+15240,High Value Customers,High Risk,44,12,4460,98.30%, Urgent Win-Back Email
+17682,High Value Customers,High Risk,9,11,4457,88.30%, Urgent Win-Back Email
+18093,High Value Customers,High Risk,92,8,4453,98.50%, Urgent Win-Back Email
+16098,High Value Customers,High Risk,87,14,4448,99.20%, Urgent Win-Back Email
+13982,High Value Customers,High Risk,38,9,4446,98.10%, Urgent Win-Back Email
+16218,High Value Customers,High Risk,29,13,4440,98.00%, Urgent Win-Back Email
+17722,High Value Customers,High Risk,95,5,4430,98.30%, Urgent Win-Back Email
+12349,High Value Customers,High Risk,18,4,4429,90.10%, Urgent Win-Back Email
+15845,High Value Customers,High Risk,17,11,4426,95.10%, Urgent Win-Back Email
+16563,High Value Customers,High Risk,53,6,4423,97.30%, Urgent Win-Back Email
+14211,High Value Customers,High Risk,52,18,4402,98.60%, Urgent Win-Back Email
+15861,High Value Customers,High Risk,11,12,4402,92.00%, Urgent Win-Back Email
+15203,High Value Customers,High Risk,25,15,4400,98.00%, Urgent Win-Back Email
+16150,High Value Customers,High Risk,42,10,4396,98.10%, Urgent Win-Back Email
+13505,High Value Customers,High Risk,72,4,4394,98.40%, Urgent Win-Back Email
+13880,High Value Customers,High Risk,20,17,4392,96.20%, Urgent Win-Back Email
+16732,High Value Customers,High Risk,31,4,4388,97.40%, Urgent Win-Back Email
+16455,High Value Customers,High Risk,63,11,4384,98.90%, Urgent Win-Back Email
+15708,High Value Customers,High Risk,40,9,4379,98.10%, Urgent Win-Back Email
+17372,High Value Customers,High Risk,40,28,4378,98.90%, Urgent Win-Back Email
+12523,High Value Customers,High Risk,18,23,4372,96.20%, Urgent Win-Back Email
+14482,High Value Customers,High Risk,17,12,4358,95.10%, Urgent Win-Back Email
+12408,High Value Customers,High Risk,32,8,4341,97.50%, Urgent Win-Back Email
+18077,High Value Customers,High Risk,7,18,4339,71.70%, Urgent Win-Back Email
+16241,High Value Customers,High Risk,9,16,4329,89.40%, Urgent Win-Back Email
+14854,High Value Customers,High Risk,77,11,4323,98.90%, Urgent Win-Back Email
+12370,High Value Customers,High Risk,50,7,4320,97.20%, Urgent Win-Back Email
+16477,High Value Customers,High Risk,63,11,4320,98.90%, Urgent Win-Back Email
+14334,High Value Customers,High Risk,16,12,4318,94.70%, Urgent Win-Back Email
+18259,High Value Customers,High Risk,24,7,4318,93.60%, Urgent Win-Back Email
+15493,High Value Customers,High Risk,32,9,4315,98.10%, Urgent Win-Back Email
+12928,High Value Customers,High Risk,34,12,4305,98.30%, Urgent Win-Back Email
+18230,High Value Customers,High Risk,8,9,4291,76.90%, Urgent Win-Back Email
+17930,High Value Customers,High Risk,35,13,4275,98.60%, Urgent Win-Back Email
+16712,High Value Customers,High Risk,8,13,4267,76.90%, Urgent Win-Back Email
+14239,High Value Customers,High Risk,42,21,4263,98.60%, Urgent Win-Back Email
+14047,High Value Customers,High Risk,8,14,4255,76.90%, Urgent Win-Back Email
+16743,High Value Customers,High Risk,28,14,4253,98.00%, Urgent Win-Back Email
+12360,High Value Customers,High Risk,51,8,4253,97.50%, Urgent Win-Back Email
+16571,High Value Customers,High Risk,26,10,4249,97.10%, Urgent Win-Back Email
+18079,High Value Customers,High Risk,44,5,4243,97.30%, Urgent Win-Back Email
+13911,High Value Customers,High Risk,56,20,4235,99.10%, Urgent Win-Back Email
+16875,High Value Customers,High Risk,66,11,4235,98.90%, Urgent Win-Back Email
+15518,High Value Customers,High Risk,63,15,4219,99.10%, Urgent Win-Back Email
+15752,High Value Customers,High Risk,39,9,4208,98.10%, Urgent Win-Back Email
+15050,High Value Customers,High Risk,24,5,4194,93.80%, Urgent Win-Back Email
+17738,High Value Customers,High Risk,18,13,4184,96.20%, Urgent Win-Back Email
+18287,High Value Customers,High Risk,42,7,4183,97.20%, Urgent Win-Back Email
+18194,High Value Customers,High Risk,81,6,4162,98.30%, Urgent Win-Back Email
+13461,High Value Customers,High Risk,38,6,4160,97.30%, Urgent Win-Back Email
+16209,High Value Customers,High Risk,88,9,4147,98.80%, Urgent Win-Back Email
+13450,High Value Customers,High Risk,26,13,4120,98.00%, Urgent Win-Back Email
+16928,High Value Customers,High Risk,79,29,4113,99.30%, Urgent Win-Back Email
+17287,High Value Customers,High Risk,25,21,4112,98.00%, Urgent Win-Back Email
+14408,High Value Customers,High Risk,10,11,4110,89.00%, Urgent Win-Back Email
+14878,High Value Customers,High Risk,12,25,4105,94.90%, Urgent Win-Back Email
+13421,High Value Customers,High Risk,39,8,4103,97.50%, Urgent Win-Back Email
+13048,High Value Customers,High Risk,13,9,4084,92.00%, Urgent Win-Back Email
+12876,High Value Customers,High Risk,57,4,4082,98.30%, Urgent Win-Back Email
+15024,High Value Customers,High Risk,9,16,4076,89.40%, Urgent Win-Back Email
+14913,High Value Customers,High Risk,35,8,4073,97.50%, Urgent Win-Back Email
+12371,High Value Customers,High Risk,44,5,4067,97.30%, Urgent Win-Back Email
+15571,High Value Customers,High Risk,11,14,4052,93.60%, Urgent Win-Back Email
+17211,High Value Customers,High Risk,26,13,4047,98.00%, Urgent Win-Back Email
+16791,High Value Customers,High Risk,28,15,4039,98.00%, Urgent Win-Back Email
+14824,High Value Customers,High Risk,9,10,4023,88.30%, Urgent Win-Back Email
+12726,High Value Customers,High Risk,27,11,4015,97.40%, Urgent Win-Back Email
+15782,High Value Customers,High Risk,9,4,4014,73.00%, Urgent Win-Back Email
+12721,High Value Customers,High Risk,31,8,4013,97.50%, Urgent Win-Back Email
+17019,High Value Customers,High Risk,10,11,4012,89.00%, Urgent Win-Back Email
+13895,High Value Customers,High Risk,27,6,4009,95.70%, Urgent Win-Back Email
+16841,High Value Customers,High Risk,36,12,4006,98.30%, Urgent Win-Back Email
+16719,High Value Customers,High Risk,14,14,3973,94.80%, Urgent Win-Back Email
+16771,High Value Customers,High Risk,32,10,3968,98.30%, Urgent Win-Back Email
+15858,High Value Customers,High Risk,15,13,3960,94.80%, Urgent Win-Back Email
+15983,High Value Customers,High Risk,21,8,3959,93.10%, Urgent Win-Back Email
+17667,High Value Customers,High Risk,65,9,3951,98.90%, Urgent Win-Back Email
+12473,High Value Customers,High Risk,28,5,3939,95.70%, Urgent Win-Back Email
+15051,High Value Customers,High Risk,22,9,3935,96.20%, Urgent Win-Back Email
+15819,High Value Customers,High Risk,48,10,3935,98.30%, Urgent Win-Back Email
+14498,High Value Customers,High Risk,42,10,3911,98.30%, Urgent Win-Back Email
+15696,High Value Customers,High Risk,32,13,3907,98.80%, Urgent Win-Back Email
+13995,High Value Customers,High Risk,14,14,3902,94.80%, Urgent Win-Back Email
+12388,High Value Customers,High Risk,15,8,3901,84.20%, Urgent Win-Back Email
+15811,High Value Customers,High Risk,21,7,3891,91.50%, Urgent Win-Back Email
+14744,High Value Customers,High Risk,15,14,3885,94.80%, Urgent Win-Back Email
+15288,High Value Customers,High Risk,42,10,3883,98.30%, Urgent Win-Back Email
+15067,High Value Customers,High Risk,77,5,3878,98.30%, Urgent Win-Back Email
+14565,High Value Customers,High Risk,95,5,3859,98.30%, Urgent Win-Back Email
+16057,High Value Customers,High Risk,15,10,3855,93.10%, Urgent Win-Back Email
+13213,High Value Customers,High Risk,56,11,3852,99.00%, Urgent Win-Back Email
+16341,High Value Customers,High Risk,24,7,3851,93.60%, Urgent Win-Back Email
+16466,High Value Customers,High Risk,33,15,3839,98.80%, Urgent Win-Back Email
+17659,High Value Customers,High Risk,16,14,3835,96.30%, Urgent Win-Back Email
+13481,High Value Customers,High Risk,45,11,3831,98.40%, Urgent Win-Back Email
+12597,High Value Customers,High Risk,18,4,3811,90.10%, Urgent Win-Back Email
+15421,High Value Customers,High Risk,58,10,3805,98.90%, Urgent Win-Back Email
+17071,High Value Customers,High Risk,27,13,3801,98.20%, Urgent Win-Back Email
+16128,High Value Customers,High Risk,17,11,3801,95.60%, Urgent Win-Back Email
+14540,High Value Customers,High Risk,9,11,3795,89.50%, Urgent Win-Back Email
+15827,High Value Customers,High Risk,72,28,3794,99.40%, Urgent Win-Back Email
+16950,High Value Customers,High Risk,56,10,3784,98.90%, Urgent Win-Back Email
+12619,High Value Customers,High Risk,15,10,3781,93.10%, Urgent Win-Back Email
+14309,High Value Customers,High Risk,7,11,3781,76.70%, Urgent Win-Back Email
+15494,High Value Customers,High Risk,20,5,3780,90.50%, Urgent Win-Back Email
+17293,High Value Customers,High Risk,7,17,3774,76.70%, Urgent Win-Back Email
+15834,High Value Customers,High Risk,69,7,3773,98.40%, Urgent Win-Back Email
+15532,High Value Customers,High Risk,24,10,3772,96.50%, Urgent Win-Back Email
+12530,High Value Customers,High Risk,59,9,3759,98.20%, Urgent Win-Back Email
+17096,High Value Customers,High Risk,14,11,3759,89.90%, Urgent Win-Back Email
+14409,High Value Customers,High Risk,70,9,3756,98.90%, Urgent Win-Back Email
+14515,High Value Customers,High Risk,17,12,3749,95.30%, Urgent Win-Back Email
+15370,High Value Customers,High Risk,40,8,3739,97.60%, Urgent Win-Back Email
+15351,High Value Customers,High Risk,11,10,3738,92.30%, Urgent Win-Back Email
+15255,High Value Customers,High Risk,66,9,3729,98.80%, Urgent Win-Back Email
+12502,High Value Customers,High Risk,95,5,3724,98.20%, Urgent Win-Back Email
+14593,High Value Customers,High Risk,21,12,3712,95.60%, Urgent Win-Back Email
+16983,High Value Customers,High Risk,12,11,3710,92.30%, Urgent Win-Back Email
+14776,High Value Customers,High Risk,50,15,3708,98.70%, Urgent Win-Back Email
+16094,High Value Customers,High Risk,11,11,3696,92.30%, Urgent Win-Back Email
+15953,High Value Customers,High Risk,14,18,3670,94.40%, Urgent Win-Back Email
+14640,High Value Customers,High Risk,23,10,3667,96.00%, Urgent Win-Back Email
+16444,High Value Customers,High Risk,45,17,3657,98.70%, Urgent Win-Back Email
+17655,High Value Customers,High Risk,10,9,3652,89.40%, Urgent Win-Back Email
+14857,High Value Customers,High Risk,59,7,3652,98.10%, Urgent Win-Back Email
+17848,High Value Customers,High Risk,80,30,3651,99.20%, Urgent Win-Back Email
+13632,High Value Customers,High Risk,24,8,3648,94.50%, Urgent Win-Back Email
+17063,High Value Customers,High Risk,20,13,3639,96.30%, Urgent Win-Back Email
+16748,High Value Customers,High Risk,17,14,3637,96.30%, Urgent Win-Back Email
+16053,High Value Customers,High Risk,32,6,3635,97.10%, Urgent Win-Back Email
+14882,High Value Customers,High Risk,26,14,3628,98.10%, Urgent Win-Back Email
+15505,High Value Customers,High Risk,52,5,3611,97.10%, Urgent Win-Back Email
+15791,High Value Customers,High Risk,43,5,3608,97.10%, Urgent Win-Back Email
+18242,High Value Customers,High Risk,71,8,3605,98.50%, Urgent Win-Back Email
+13750,High Value Customers,High Risk,53,11,3602,98.30%, Urgent Win-Back Email
+12963,High Value Customers,High Risk,7,12,3602,73.70%, Urgent Win-Back Email
+16325,High Value Customers,High Risk,46,12,3598,98.30%, Urgent Win-Back Email
+17422,High Value Customers,High Risk,15,11,3595,93.00%, Urgent Win-Back Email
+17679,High Value Customers,High Risk,52,7,3578,97.00%, Urgent Win-Back Email
+17311,High Value Customers,High Risk,77,6,3567,98.20%, Urgent Win-Back Email
+12645,High Value Customers,High Risk,33,8,3539,96.30%, Urgent Win-Back Email
+16395,High Value Customers,High Risk,60,14,3538,98.70%, Urgent Win-Back Email
+17924,High Value Customers,High Risk,11,8,3537,74.90%, Urgent Win-Back Email
+15059,High Value Customers,High Risk,40,19,3524,98.00%, Urgent Win-Back Email
+16347,High Value Customers,High Risk,10,11,3509,84.20%, Urgent Win-Back Email
+14898,High Value Customers,High Risk,22,14,3508,95.50%, Urgent Win-Back Email
+14934,High Value Customers,High Risk,81,5,3504,97.70%, Urgent Win-Back Email
+13577,High Value Customers,High Risk,24,11,3489,94.40%, Urgent Win-Back Email
+15306,High Value Customers,High Risk,63,9,3485,98.10%, Urgent Win-Back Email
+12631,High Value Customers,High Risk,56,6,3482,97.60%, Urgent Win-Back Email
+17913,High Value Customers,High Risk,58,14,3480,98.70%, Urgent Win-Back Email
+13849,High Value Customers,High Risk,51,5,3469,97.30%, Urgent Win-Back Email
+14533,High Value Customers,High Risk,24,11,3466,95.70%, Urgent Win-Back Email
+15356,High Value Customers,High Risk,30,13,3465,97.70%, Urgent Win-Back Email
+14837,High Value Customers,High Risk,89,9,3460,98.60%, Urgent Win-Back Email
+13313,High Value Customers,High Risk,21,12,3445,94.80%, Urgent Win-Back Email
+15974,High Value Customers,High Risk,38,7,3442,97.20%, Urgent Win-Back Email
+16208,High Value Customers,High Risk,44,10,3440,97.80%, Urgent Win-Back Email
+17725,High Value Customers,High Risk,15,11,3439,91.80%, Urgent Win-Back Email
+12609,High Value Customers,High Risk,77,9,3436,98.60%, Urgent Win-Back Email
+15916,High Value Customers,High Risk,15,13,3427,93.50%, Urgent Win-Back Email
+16281,High Value Customers,High Risk,71,3,3424,98.40%, Urgent Win-Back Email
+15373,High Value Customers,High Risk,7,17,3421,70.40%, Urgent Win-Back Email
+14215,High Value Customers,High Risk,11,9,3416,91.00%, Urgent Win-Back Email
+13979,High Value Customers,High Risk,72,7,3416,98.30%, Urgent Win-Back Email
+15058,High Value Customers,High Risk,24,16,3410,96.60%, Urgent Win-Back Email
+13437,High Value Customers,High Risk,13,7,3408,80.00%, Urgent Win-Back Email
+13823,High Value Customers,High Risk,18,7,3403,89.40%, Urgent Win-Back Email
+15114,High Value Customers,High Risk,29,12,3400,97.10%, Urgent Win-Back Email
+12838,High Value Customers,High Risk,33,10,3398,97.80%, Urgent Win-Back Email
+13246,High Value Customers,High Risk,17,11,3387,94.50%, Urgent Win-Back Email
+13285,High Value Customers,High Risk,22,6,3365,93.70%, Urgent Win-Back Email
+16818,High Value Customers,High Risk,10,11,3350,87.70%, Urgent Win-Back Email
+13848,High Value Customers,High Risk,91,8,3335,98.30%, Urgent Win-Back Email
+14064,High Value Customers,High Risk,28,15,3332,97.70%, Urgent Win-Back Email
+15065,High Value Customers,High Risk,37,5,3327,97.30%, Urgent Win-Back Email
+12865,High Value Customers,High Risk,25,4,3323,95.80%, Urgent Win-Back Email
+13611,High Value Customers,High Risk,88,10,3320,98.60%, Urgent Win-Back Email
+13431,High Value Customers,High Risk,66,8,3316,98.20%, Urgent Win-Back Email
+13824,High Value Customers,High Risk,32,12,3315,98.00%, Urgent Win-Back Email
+13131,High Value Customers,High Risk,22,7,3314,93.50%, Urgent Win-Back Email
+14451,High Value Customers,High Risk,59,12,3309,98.70%, Urgent Win-Back Email
+16365,High Value Customers,High Risk,17,15,3307,95.70%, Urgent Win-Back Email
+14506,High Value Customers,High Risk,16,7,3291,88.50%, Urgent Win-Back Email
+13650,High Value Customers,High Risk,16,10,3288,93.40%, Urgent Win-Back Email
+15632,High Value Customers,High Risk,15,8,3285,80.70%, Urgent Win-Back Email
+14507,High Value Customers,High Risk,23,11,3284,95.70%, Urgent Win-Back Email
+14285,High Value Customers,High Risk,20,8,3284,89.40%, Urgent Win-Back Email
+18188,High Value Customers,High Risk,14,6,3281,81.20%, Urgent Win-Back Email
+15978,High Value Customers,High Risk,76,3,3279,98.40%, Urgent Win-Back Email
+16612,High Value Customers,High Risk,32,9,3245,97.80%, Urgent Win-Back Email
+15140,High Value Customers,High Risk,51,8,3244,97.20%, Urgent Win-Back Email
+15602,High Value Customers,High Risk,7,16,3231,70.40%, Urgent Win-Back Email
+16101,High Value Customers,High Risk,70,4,3229,98.40%, Urgent Win-Back Email
+16059,High Value Customers,High Risk,65,12,3218,98.70%, Urgent Win-Back Email
+16515,High Value Customers,High Risk,51,10,3216,97.80%, Urgent Win-Back Email
+13268,High Value Customers,High Risk,17,11,3215,94.50%, Urgent Win-Back Email
+12951,High Value Customers,High Risk,8,15,3214,74.60%, Urgent Win-Back Email
+16918,High Value Customers,High Risk,49,16,3213,98.50%, Urgent Win-Back Email
+13804,High Value Customers,High Risk,30,9,3209,96.80%, Urgent Win-Back Email
+16107,High Value Customers,High Risk,17,7,3204,89.40%, Urgent Win-Back Email
+17147,High Value Customers,High Risk,22,9,3200,95.30%, Urgent Win-Back Email
+14315,High Value Customers,High Risk,44,8,3198,97.20%, Urgent Win-Back Email
+15027,High Value Customers,High Risk,30,10,3196,96.80%, Urgent Win-Back Email
+13397,High Value Customers,High Risk,72,10,3192,98.60%, Urgent Win-Back Email
+17228,High Value Customers,High Risk,15,13,3177,93.50%, Urgent Win-Back Email
+17621,High Value Customers,High Risk,20,6,3175,89.70%, Urgent Win-Back Email
+16837,High Value Customers,High Risk,30,11,3171,97.10%, Urgent Win-Back Email
+17640,High Value Customers,High Risk,86,6,3169,98.30%, Urgent Win-Back Email
+16041,High Value Customers,High Risk,30,3,3166,95.80%, Urgent Win-Back Email
+14963,High Value Customers,High Risk,9,12,3164,87.00%, Urgent Win-Back Email
+16584,High Value Customers,High Risk,79,5,3164,98.30%, Urgent Win-Back Email
+16400,High Value Customers,High Risk,94,9,3159,98.60%, Urgent Win-Back Email
+14748,High Value Customers,High Risk,28,10,3152,96.80%, Urgent Win-Back Email
+14306,High Value Customers,High Risk,50,6,3151,97.30%, Urgent Win-Back Email
+17702,High Value Customers,High Risk,29,6,3144,95.70%, Urgent Win-Back Email
+17354,High Value Customers,High Risk,50,4,3143,97.40%, Urgent Win-Back Email
+14978,High Value Customers,High Risk,71,10,3142,98.60%, Urgent Win-Back Email
+13742,High Value Customers,High Risk,16,12,3131,94.00%, Urgent Win-Back Email
+14044,High Value Customers,High Risk,26,10,3123,96.80%, Urgent Win-Back Email
+15199,High Value Customers,High Risk,58,10,3122,98.60%, Urgent Win-Back Email
+14700,High Value Customers,High Risk,31,5,3116,97.30%, Urgent Win-Back Email
+13692,High Value Customers,High Risk,24,5,3114,93.70%, Urgent Win-Back Email
+13772,High Value Customers,High Risk,33,8,3114,97.20%, Urgent Win-Back Email
+13538,High Value Customers,High Risk,42,12,3113,98.00%, Urgent Win-Back Email
+12909,High Value Customers,High Risk,39,8,3103,97.20%, Urgent Win-Back Email
+15491,High Value Customers,High Risk,94,6,3100,98.30%, Urgent Win-Back Email
+13464,High Value Customers,High Risk,57,6,3098,98.20%, Urgent Win-Back Email
+12937,High Value Customers,High Risk,14,9,3098,91.40%, Urgent Win-Back Email
+15105,High Value Customers,High Risk,17,9,3095,94.00%, Urgent Win-Back Email
+12849,High Value Customers,High Risk,30,6,3091,95.70%, Urgent Win-Back Email
+14312,High Value Customers,High Risk,46,11,3090,98.00%, Urgent Win-Back Email
+17552,High Value Customers,High Risk,59,12,3085,98.70%, Urgent Win-Back Email
+17929,High Value Customers,High Risk,10,12,3082,87.70%, Urgent Win-Back Email
+16007,High Value Customers,High Risk,47,7,3075,97.20%, Urgent Win-Back Email
+13647,High Value Customers,High Risk,9,8,3072,72.50%, Urgent Win-Back Email
+14038,High Value Customers,High Risk,77,5,3070,98.30%, Urgent Win-Back Email
+13196,High Value Customers,High Risk,10,7,3069,73.80%, Urgent Win-Back Email
+16120,High Value Customers,High Risk,58,6,3057,98.20%, Urgent Win-Back Email
+16775,High Value Customers,High Risk,9,16,3057,88.20%, Urgent Win-Back Email
+15241,High Value Customers,High Risk,66,11,3050,98.70%, Urgent Win-Back Email
+16560,High Value Customers,High Risk,26,8,3048,95.50%, Urgent Win-Back Email
+14916,High Value Customers,High Risk,70,8,3043,98.30%, Urgent Win-Back Email
+15967,High Value Customers,High Risk,22,12,3042,95.70%, Urgent Win-Back Email
+15754,High Value Customers,High Risk,50,9,3038,97.80%, Urgent Win-Back Email
+13557,High Value Customers,High Risk,27,13,3032,97.70%, Urgent Win-Back Email
+15965,High Value Customers,High Risk,16,13,3013,95.30%, Urgent Win-Back Email
+14226,High Value Customers,High Risk,28,6,3003,95.70%, Urgent Win-Back Email
+13635,High Value Customers,High Risk,67,4,2999,98.40%, Urgent Win-Back Email
+15810,High Value Customers,High Risk,78,8,2999,98.30%, Urgent Win-Back Email
+12457,High Value Customers,High Risk,65,8,2996,98.20%, Urgent Win-Back Email
+17961,High Value Customers,High Risk,20,100,2996,88.40%, Urgent Win-Back Email
+12854,High Value Customers,High Risk,78,7,2994,98.30%, Urgent Win-Back Email
+15687,High Value Customers,High Risk,8,9,2993,74.60%, Urgent Win-Back Email
+16012,High Value Customers,High Risk,34,5,2990,97.30%, Urgent Win-Back Email
+15681,High Value Customers,High Risk,24,14,2990,96.60%, Urgent Win-Back Email
+12374,High Value Customers,High Risk,24,4,2989,93.90%, Urgent Win-Back Email
+18241,High Value Customers,High Risk,9,21,2987,88.20%, Urgent Win-Back Email
+15329,High Value Customers,High Risk,38,11,2984,98.00%, Urgent Win-Back Email
+16383,High Value Customers,High Risk,74,7,2975,98.30%, Urgent Win-Back Email
+16416,High Value Customers,High Risk,26,9,2973,96.80%, Urgent Win-Back Email
+13012,High Value Customers,High Risk,8,11,2973,74.60%, Urgent Win-Back Email
+13110,High Value Customers,High Risk,30,12,2957,97.10%, Urgent Win-Back Email
+13764,High Value Customers,High Risk,70,6,2953,98.30%, Urgent Win-Back Email
+15757,High Value Customers,High Risk,65,6,2940,98.20%, Urgent Win-Back Email
+14524,High Value Customers,High Risk,31,13,2934,98.50%, Urgent Win-Back Email
+12635,High Value Customers,High Risk,89,4,2930,98.40%, Urgent Win-Back Email
+15312,High Value Customers,High Risk,74,12,2930,98.80%, Urgent Win-Back Email
+15862,High Value Customers,High Risk,7,13,2928,70.40%, Urgent Win-Back Email
+12906,High Value Customers,High Risk,11,5,2920,80.40%, Urgent Win-Back Email
+13784,High Value Customers,High Risk,9,14,2910,88.20%, Urgent Win-Back Email
+13455,High Value Customers,High Risk,24,6,2906,93.70%, Urgent Win-Back Email
+14233,High Value Customers,High Risk,48,7,2904,97.20%, Urgent Win-Back Email
+14404,High Value Customers,High Risk,33,13,2899,98.50%, Urgent Win-Back Email
+16633,High Value Customers,High Risk,16,6,2883,88.80%, Urgent Win-Back Email
+18170,High Value Customers,High Risk,32,9,2878,97.80%, Urgent Win-Back Email
+14005,High Value Customers,High Risk,9,5,2875,74.20%, Urgent Win-Back Email
+15043,High Value Customers,High Risk,30,6,2874,95.70%, Urgent Win-Back Email
+14711,High Value Customers,High Risk,9,11,2869,87.00%, Urgent Win-Back Email
+16229,High Value Customers,High Risk,86,6,2868,98.30%, Urgent Win-Back Email
+16225,High Value Customers,High Risk,44,15,2867,98.50%, Urgent Win-Back Email
+15563,High Value Customers,High Risk,21,7,2867,91.40%, Urgent Win-Back Email
+16086,High Value Customers,High Risk,58,10,2865,98.60%, Urgent Win-Back Email
+16062,High Value Customers,High Risk,9,8,2863,72.50%, Urgent Win-Back Email
+12685,High Value Customers,High Risk,27,6,2863,95.70%, Urgent Win-Back Email
+14035,High Value Customers,High Risk,28,9,2857,96.80%, Urgent Win-Back Email
+13728,High Value Customers,High Risk,36,16,2855,98.50%, Urgent Win-Back Email
+16742,High Value Customers,High Risk,46,14,2853,98.50%, Urgent Win-Back Email
+12352,High Value Customers,High Risk,35,10,2850,97.80%, Urgent Win-Back Email
+13032,High Value Customers,High Risk,51,9,2844,97.80%, Urgent Win-Back Email
+12676,High Value Customers,High Risk,24,11,2843,95.70%, Urgent Win-Back Email
+16554,High Value Customers,High Risk,41,8,2842,97.20%, Urgent Win-Back Email
+13477,High Value Customers,High Risk,37,11,2834,98.00%, Urgent Win-Back Email
+17368,High Value Customers,High Risk,22,14,2826,96.60%, Urgent Win-Back Email
+14842,High Value Customers,High Risk,43,4,2825,97.40%, Urgent Win-Back Email
+16407,High Value Customers,High Risk,12,14,2822,92.80%, Urgent Win-Back Email
+13719,High Value Customers,High Risk,14,11,2815,91.80%, Urgent Win-Back Email
+15660,High Value Customers,High Risk,24,15,2813,96.60%, Urgent Win-Back Email
+16871,High Value Customers,High Risk,21,6,2812,91.60%, Urgent Win-Back Email
+14903,High Value Customers,High Risk,20,5,2811,89.70%, Urgent Win-Back Email
+13330,High Value Customers,High Risk,92,6,2806,98.30%, Urgent Win-Back Email
+17470,High Value Customers,High Risk,44,11,2805,98.00%, Urgent Win-Back Email
+17284,High Value Customers,High Risk,59,8,2793,98.10%, Urgent Win-Back Email
+12863,High Value Customers,High Risk,51,6,2793,97.10%, Urgent Win-Back Email
+15073,High Value Customers,High Risk,9,8,2788,72.50%, Urgent Win-Back Email
+15021,High Value Customers,High Risk,8,12,2784,74.60%, Urgent Win-Back Email
+17790,High Value Customers,High Risk,26,20,2784,97.60%, Urgent Win-Back Email
+16104,High Value Customers,High Risk,61,9,2779,98.50%, Urgent Win-Back Email
+17591,High Value Customers,High Risk,72,8,2777,98.10%, Urgent Win-Back Email
+17031,High Value Customers,High Risk,11,6,2774,79.50%, Urgent Win-Back Email
+12391,High Value Customers,High Risk,21,6,2773,91.20%, Urgent Win-Back Email
+13695,High Value Customers,High Risk,30,16,2771,97.60%, Urgent Win-Back Email
+17720,High Value Customers,High Risk,25,10,2769,96.60%, Urgent Win-Back Email
+13813,High Value Customers,High Risk,39,8,2765,97.00%, Urgent Win-Back Email
+17262,High Value Customers,High Risk,51,11,2758,97.90%, Urgent Win-Back Email
+14665,High Value Customers,High Risk,60,7,2750,98.10%, Urgent Win-Back Email
+15841,High Value Customers,High Risk,72,9,2742,98.60%, Urgent Win-Back Email
+16434,High Value Customers,High Risk,28,12,2742,96.90%, Urgent Win-Back Email
+14808,High Value Customers,High Risk,39,8,2741,97.00%, Urgent Win-Back Email
+15111,High Value Customers,High Risk,28,5,2731,95.40%, Urgent Win-Back Email
+13211,High Value Customers,High Risk,9,10,2729,87.00%, Urgent Win-Back Email
+12739,High Value Customers,High Risk,77,4,2727,98.30%, Urgent Win-Back Email
+16190,High Value Customers,High Risk,39,8,2724,97.00%, Urgent Win-Back Email
+16232,High Value Customers,High Risk,43,7,2713,97.00%, Urgent Win-Back Email
+18173,High Value Customers,High Risk,86,5,2696,98.20%, Urgent Win-Back Email
+17388,High Value Customers,High Risk,77,11,2692,98.70%, Urgent Win-Back Email
+16369,High Value Customers,High Risk,17,7,2665,88.80%, Urgent Win-Back Email
+13473,High Value Customers,High Risk,60,8,2658,98.10%, Urgent Win-Back Email
+15671,High Value Customers,High Risk,18,7,2657,88.80%, Urgent Win-Back Email
+14410,High Value Customers,High Risk,91,11,2651,98.70%, Urgent Win-Back Email
+12516,High Value Customers,High Risk,77,4,2649,98.30%, Urgent Win-Back Email
+13203,High Value Customers,High Risk,9,10,2648,87.00%, Urgent Win-Back Email
+16618,High Value Customers,High Risk,30,5,2648,95.40%, Urgent Win-Back Email
+13117,High Value Customers,High Risk,21,18,2644,95.70%, Urgent Win-Back Email
+15814,High Value Customers,High Risk,16,6,2634,88.20%, Urgent Win-Back Email
+12520,High Value Customers,High Risk,78,5,2634,98.20%, Urgent Win-Back Email
+13644,High Value Customers,High Risk,15,4,2624,80.80%, Urgent Win-Back Email
+15142,High Value Customers,High Risk,45,6,2620,97.10%, Urgent Win-Back Email
+17043,High Value Customers,High Risk,31,8,2617,97.00%, Urgent Win-Back Email
+15426,High Value Customers,High Risk,18,9,2615,93.60%, Urgent Win-Back Email
+13700,High Value Customers,High Risk,25,13,2613,97.60%, Urgent Win-Back Email
+16206,High Value Customers,High Risk,54,13,2602,98.90%, Urgent Win-Back Email
+17317,High Value Customers,High Risk,45,3,2600,97.20%, Urgent Win-Back Email
+15826,High Value Customers,High Risk,55,4,2598,98.20%, Urgent Win-Back Email
+12412,High Value Customers,High Risk,74,6,2597,98.20%, Urgent Win-Back Email
+14163,High Value Customers,High Risk,86,5,2595,98.20%, Urgent Win-Back Email
+14229,High Value Customers,High Risk,51,7,2594,97.00%, Urgent Win-Back Email
+14147,High Value Customers,High Risk,77,9,2590,98.60%, Urgent Win-Back Email
+15062,High Value Customers,High Risk,70,8,2586,98.10%, Urgent Win-Back Email
+12592,High Value Customers,High Risk,91,5,2583,98.20%, Urgent Win-Back Email
+16115,High Value Customers,High Risk,9,12,2575,87.00%, Urgent Win-Back Email
+17095,High Value Customers,High Risk,22,7,2572,93.10%, Urgent Win-Back Email
+17002,High Value Customers,High Risk,85,7,2572,98.10%, Urgent Win-Back Email
+13652,High Value Customers,High Risk,45,5,2571,97.10%, Urgent Win-Back Email
+15434,High Value Customers,High Risk,7,11,2567,70.40%, Urgent Win-Back Email
+13623,High Value Customers,High Risk,30,10,2566,96.60%, Urgent Win-Back Email
+15747,High Value Customers,High Risk,12,9,2563,90.50%, Urgent Win-Back Email
+13192,High Value Customers,High Risk,94,6,2559,98.20%, Urgent Win-Back Email
+17463,High Value Customers,High Risk,15,7,2558,79.70%, Urgent Win-Back Email
+16036,High Value Customers,High Risk,86,4,2557,98.30%, Urgent Win-Back Email
+13862,High Value Customers,High Risk,17,9,2556,93.60%, Urgent Win-Back Email
+15906,High Value Customers,High Risk,19,10,2556,93.60%, Urgent Win-Back Email
+14810,High Value Customers,High Risk,40,13,2537,98.40%, Urgent Win-Back Email
+14659,High Value Customers,High Risk,8,9,2530,74.60%, Urgent Win-Back Email
+14790,High Value Customers,High Risk,16,10,2527,93.10%, Urgent Win-Back Email
+17101,High Value Customers,High Risk,9,7,2507,72.50%, Urgent Win-Back Email
+15860,High Value Customers,High Risk,40,17,2505,98.40%, Urgent Win-Back Email
+12517,High Value Customers,High Risk,27,5,2503,95.40%, Urgent Win-Back Email
+17288,High Value Customers,High Risk,8,11,2500,74.60%, Urgent Win-Back Email
+14541,High Value Customers,High Risk,58,14,2500,98.90%, Urgent Win-Back Email
+17594,High Value Customers,High Risk,84,4,2498,98.30%, Urgent Win-Back Email
+15227,High Value Customers,High Risk,36,9,2488,97.70%, Urgent Win-Back Email
+15117,High Value Customers,High Risk,14,8,2486,79.70%, Urgent Win-Back Email
+14449,High Value Customers,High Risk,18,8,2483,88.80%, Urgent Win-Back Email
+13588,High Value Customers,High Risk,15,9,2479,90.90%, Urgent Win-Back Email
+17348,High Value Customers,High Risk,14,9,2476,90.90%, Urgent Win-Back Email
+13134,High Value Customers,High Risk,85,6,2475,98.20%, Urgent Win-Back Email
+13878,High Value Customers,High Risk,54,4,2473,98.20%, Urgent Win-Back Email
+14502,High Value Customers,High Risk,19,11,2471,94.20%, Urgent Win-Back Email
+12924,High Value Customers,High Risk,87,12,2469,98.70%, Urgent Win-Back Email
+14421,High Value Customers,High Risk,56,6,2469,98.10%, Urgent Win-Back Email
+17164,High Value Customers,High Risk,32,7,2467,97.00%, Urgent Win-Back Email
+16470,High Value Customers,High Risk,51,11,2459,97.90%, Urgent Win-Back Email
+17894,High Value Customers,High Risk,71,18,2453,99.00%, Urgent Win-Back Email
+12701,High Value Customers,High Risk,79,6,2446,98.20%, Urgent Win-Back Email
+18171,High Value Customers,High Risk,58,9,2437,98.50%, Urgent Win-Back Email
+16005,High Value Customers,High Risk,11,10,2436,90.50%, Urgent Win-Back Email
+13094,High Value Customers,High Risk,20,13,2433,95.10%, Urgent Win-Back Email
+16638,High Value Customers,High Risk,22,15,2431,96.20%, Urgent Win-Back Email
+17004,High Value Customers,High Risk,45,4,2425,97.00%, Urgent Win-Back Email
+17921,High Value Customers,High Risk,63,10,2424,98.40%, Urgent Win-Back Email
+15215,High Value Customers,High Risk,46,7,2422,96.90%, Urgent Win-Back Email
+15089,High Value Customers,High Risk,9,6,2421,74.20%, Urgent Win-Back Email
+15489,High Value Customers,High Risk,22,8,2420,92.70%, Urgent Win-Back Email
+16040,High Value Customers,High Risk,64,7,2417,97.90%, Urgent Win-Back Email
+13118,High Value Customers,High Risk,19,9,2415,93.20%, Urgent Win-Back Email
+14205,High Value Customers,High Risk,16,9,2414,92.60%, Urgent Win-Back Email
+17671,High Value Customers,High Risk,15,5,2403,79.20%, Urgent Win-Back Email
+15793,High Value Customers,High Risk,14,8,2400,78.70%, Urgent Win-Back Email
+12393,High Value Customers,High Risk,71,6,2399,98.10%, Urgent Win-Back Email
+14414,High Value Customers,High Risk,91,8,2399,98.00%, Urgent Win-Back Email
+15366,High Value Customers,High Risk,74,7,2389,98.00%, Urgent Win-Back Email
+14443,High Value Customers,High Risk,53,5,2386,96.90%, Urgent Win-Back Email
+17623,High Value Customers,High Risk,32,7,2384,96.90%, Urgent Win-Back Email
+17905,High Value Customers,High Risk,70,13,2384,98.90%, Urgent Win-Back Email
+14554,High Value Customers,High Risk,9,4,2381,74.90%, Urgent Win-Back Email
+13908,High Value Customers,High Risk,79,4,2370,98.20%, Urgent Win-Back Email
+14295,High Value Customers,High Risk,39,5,2363,96.90%, Urgent Win-Back Email
+17634,High Value Customers,High Risk,35,9,2362,97.50%, Urgent Win-Back Email
+16676,High Value Customers,High Risk,33,6,2362,96.90%, Urgent Win-Back Email
+13614,High Value Customers,High Risk,23,6,2359,92.90%, Urgent Win-Back Email
+15549,High Value Customers,High Risk,76,8,2346,98.00%, Urgent Win-Back Email
+16085,High Value Customers,High Risk,22,12,2344,95.20%, Urgent Win-Back Email
+13055,High Value Customers,High Risk,77,4,2321,98.20%, Urgent Win-Back Email
+16628,High Value Customers,High Risk,29,7,2318,95.00%, Urgent Win-Back Email
+12948,High Value Customers,High Risk,15,9,2317,90.40%, Urgent Win-Back Email
+14555,High Value Customers,High Risk,56,6,2316,98.00%, Urgent Win-Back Email
+17193,High Value Customers,High Risk,35,9,2310,97.50%, Urgent Win-Back Email
+17324,High Value Customers,High Risk,17,12,2302,93.80%, Urgent Win-Back Email
+16531,High Value Customers,High Risk,21,11,2298,94.20%, Urgent Win-Back Email
+12599,High Value Customers,High Risk,28,13,2297,97.40%, Urgent Win-Back Email
+16485,High Value Customers,High Risk,76,5,2295,98.10%, Urgent Win-Back Email
+14901,High Value Customers,High Risk,10,12,2290,87.70%, Urgent Win-Back Email
+17047,High Value Customers,High Risk,84,6,2289,98.10%, Urgent Win-Back Email
+17018,High Value Customers,High Risk,40,6,2288,96.90%, Urgent Win-Back Email
+14462,High Value Customers,High Risk,65,12,2270,98.50%, Urgent Win-Back Email
+13748,High Value Customers,High Risk,95,9,2268,98.50%, Urgent Win-Back Email
+16042,High Value Customers,High Risk,21,8,2265,90.40%, Urgent Win-Back Email
+17180,High Value Customers,High Risk,55,11,2257,98.50%, Urgent Win-Back Email
+14432,High Value Customers,High Risk,9,6,2256,74.20%, Urgent Win-Back Email
+16350,High Value Customers,High Risk,20,9,2254,93.20%, Urgent Win-Back Email
+13662,High Value Customers,High Risk,85,11,2250,98.60%, Urgent Win-Back Email
+17414,High Value Customers,High Risk,43,6,2250,96.90%, Urgent Win-Back Email
+15865,High Value Customers,High Risk,40,5,2249,96.90%, Urgent Win-Back Email
+14644,High Value Customers,High Risk,67,7,2248,98.00%, Urgent Win-Back Email
+18215,High Value Customers,High Risk,88,5,2247,98.10%, Urgent Win-Back Email
+16177,High Value Customers,High Risk,49,8,2247,96.90%, Urgent Win-Back Email
+13627,High Value Customers,High Risk,58,7,2246,97.90%, Urgent Win-Back Email
+17075,High Value Customers,High Risk,17,10,2242,93.20%, Urgent Win-Back Email
+16551,High Value Customers,High Risk,95,7,2237,98.00%, Urgent Win-Back Email
+16108,High Value Customers,High Risk,84,4,2236,98.20%, Urgent Win-Back Email
+16221,High Value Customers,High Risk,36,9,2236,97.50%, Urgent Win-Back Email
+14177,High Value Customers,High Risk,85,13,2229,98.90%, Urgent Win-Back Email
+17460,High Value Customers,High Risk,93,16,2228,98.90%, Urgent Win-Back Email
+13320,High Value Customers,High Risk,77,6,2228,98.10%, Urgent Win-Back Email
+14467,High Value Customers,High Risk,17,12,2221,93.80%, Urgent Win-Back Email
+14321,High Value Customers,High Risk,10,7,2218,73.80%, Urgent Win-Back Email
+18177,High Value Customers,High Risk,30,9,2217,96.40%, Urgent Win-Back Email
+17648,High Value Customers,High Risk,60,5,2216,98.00%, Urgent Win-Back Email
+14834,High Value Customers,High Risk,17,7,2206,88.20%, Urgent Win-Back Email
+13410,High Value Customers,High Risk,23,9,2202,94.70%, Urgent Win-Back Email
+14597,High Value Customers,High Risk,10,6,2202,74.40%, Urgent Win-Back Email
+15864,High Value Customers,High Risk,21,7,2181,90.40%, Urgent Win-Back Email
+13610,High Value Customers,High Risk,11,14,2176,92.00%, Urgent Win-Back Email
+14595,High Value Customers,High Risk,19,8,2164,88.20%, Urgent Win-Back Email
+13643,High Value Customers,High Risk,30,10,2157,96.40%, Urgent Win-Back Email
+18116,High Value Customers,High Risk,67,13,2154,98.90%, Urgent Win-Back Email
+17272,High Value Customers,High Risk,41,4,2149,97.00%, Urgent Win-Back Email
+16134,High Value Customers,High Risk,21,5,2145,90.70%, Urgent Win-Back Email
+12576,High Value Customers,High Risk,35,8,2143,96.90%, Urgent Win-Back Email
+13092,High Value Customers,High Risk,70,12,2140,98.60%, Urgent Win-Back Email
+14499,High Value Customers,High Risk,25,7,2139,95.00%, Urgent Win-Back Email
+16493,High Value Customers,High Risk,79,7,2132,98.00%, Urgent Win-Back Email
+14360,High Value Customers,High Risk,31,4,2128,97.00%, Urgent Win-Back Email
+16996,High Value Customers,High Risk,29,9,2124,96.40%, Urgent Win-Back Email
+14396,High Value Customers,High Risk,64,7,2122,97.90%, Urgent Win-Back Email
+14691,High Value Customers,High Risk,30,5,2114,95.10%, Urgent Win-Back Email
+16934,High Value Customers,High Risk,54,6,2111,98.00%, Urgent Win-Back Email
+12997,High Value Customers,High Risk,21,8,2111,90.40%, Urgent Win-Back Email
+13265,High Value Customers,High Risk,52,5,2108,96.90%, Urgent Win-Back Email
+15252,High Value Customers,High Risk,35,5,2103,96.90%, Urgent Win-Back Email
+15815,High Value Customers,High Risk,63,5,2101,98.00%, Urgent Win-Back Email
+17159,High Value Customers,High Risk,21,5,2100,90.70%, Urgent Win-Back Email
+12610,High Value Customers,High Risk,22,5,2100,92.90%, Urgent Win-Back Email
+13591,High Value Customers,High Risk,64,7,2094,97.90%, Urgent Win-Back Email
+14723,High Value Customers,High Risk,9,11,2093,87.00%, Urgent Win-Back Email
+16726,High Value Customers,High Risk,25,7,2088,95.00%, Urgent Win-Back Email
+15272,High Value Customers,High Risk,56,6,2085,98.00%, Urgent Win-Back Email
+17289,High Value Customers,High Risk,31,9,2079,97.50%, Urgent Win-Back Email
+15164,High Value Customers,High Risk,68,9,2069,98.50%, Urgent Win-Back Email
+12586,High Value Customers,High Risk,16,4,2063,88.00%, Urgent Win-Back Email
+14623,High Value Customers,High Risk,31,10,2060,97.50%, Urgent Win-Back Email
+17633,High Value Customers,High Risk,30,7,2057,95.00%, Urgent Win-Back Email
+15253,High Value Customers,High Risk,15,8,2055,78.70%, Urgent Win-Back Email
+14188,High Value Customers,High Risk,30,6,2054,95.10%, Urgent Win-Back Email
+16235,High Value Customers,High Risk,40,9,2054,97.50%, Urgent Win-Back Email
+13984,High Value Customers,High Risk,26,12,2049,96.70%, Urgent Win-Back Email
+16027,High Value Customers,High Risk,91,15,2048,98.90%, Urgent Win-Back Email
+14232,High Value Customers,High Risk,42,5,2048,96.90%, Urgent Win-Back Email
+15473,High Value Customers,High Risk,13,8,2046,77.90%, Urgent Win-Back Email
+16960,High Value Customers,High Risk,38,8,2043,96.90%, Urgent Win-Back Email
+15506,High Value Customers,High Risk,22,6,2040,92.90%, Urgent Win-Back Email
+14651,High Value Customers,High Risk,66,9,2034,98.40%, Urgent Win-Back Email
+13989,High Value Customers,High Risk,65,5,2026,98.00%, Urgent Win-Back Email
+14631,High Value Customers,High Risk,50,6,2026,96.90%, Urgent Win-Back Email
+17227,High Value Customers,High Risk,18,12,2022,93.80%, Urgent Win-Back Email
+12348,High Value Customers,High Risk,74,5,2019,98.10%, Urgent Win-Back Email
+16332,High Value Customers,High Risk,27,11,2010,96.70%, Urgent Win-Back Email
+15990,High Value Customers,High Risk,43,7,2010,96.90%, Urgent Win-Back Email
+14628,High Value Customers,High Risk,90,5,1998,98.10%, Urgent Win-Back Email
+14152,High Value Customers,High Risk,74,7,1997,98.00%, Urgent Win-Back Email
+18204,High Value Customers,High Risk,70,3,1994,98.20%, Urgent Win-Back Email
+13889,High Value Customers,High Risk,92,6,1991,98.10%, Urgent Win-Back Email
+17088,High Value Customers,High Risk,27,4,1991,95.30%, Urgent Win-Back Email
+13208,High Value Customers,High Risk,58,9,1988,98.40%, Urgent Win-Back Email
+17351,High Value Customers,High Risk,35,12,1988,97.80%, Urgent Win-Back Email
+17797,High Value Customers,High Risk,21,8,1986,90.40%, Urgent Win-Back Email
+14967,High Value Customers,High Risk,49,6,1983,96.90%, Urgent Win-Back Email
+13725,High Value Customers,High Risk,49,8,1981,96.90%, Urgent Win-Back Email
+17158,High Value Customers,High Risk,31,5,1980,96.90%, Urgent Win-Back Email
+15030,High Value Customers,High Risk,71,8,1980,98.00%, Urgent Win-Back Email
+17966,High Value Customers,High Risk,37,10,1974,97.50%, Urgent Win-Back Email
+17997,High Value Customers,High Risk,73,8,1971,98.00%, Urgent Win-Back Email
+12674,High Value Customers,High Risk,38,4,1971,97.00%, Urgent Win-Back Email
+14477,High Value Customers,High Risk,19,7,1970,88.20%, Urgent Win-Back Email
+15081,High Value Customers,High Risk,21,12,1966,94.20%, Urgent Win-Back Email
+16233,High Value Customers,High Risk,70,9,1966,98.50%, Urgent Win-Back Email
+18016,High Value Customers,High Risk,31,7,1960,96.90%, Urgent Win-Back Email
+17135,High Value Customers,High Risk,15,10,1954,90.40%, Urgent Win-Back Email
+13761,High Value Customers,High Risk,49,6,1952,96.90%, Urgent Win-Back Email
+15885,High Value Customers,High Risk,92,15,1952,98.90%, Urgent Win-Back Email
+14332,High Value Customers,High Risk,22,5,1944,92.90%, Urgent Win-Back Email
+15620,High Value Customers,High Risk,56,4,1942,98.10%, Urgent Win-Back Email
+13276,High Value Customers,High Risk,63,5,1939,98.00%, Urgent Win-Back Email
+15605,High Value Customers,High Risk,35,9,1937,97.50%, Urgent Win-Back Email
+15561,High Value Customers,High Risk,11,8,1934,77.90%, Urgent Win-Back Email
+16770,High Value Customers,High Risk,57,9,1932,98.40%, Urgent Win-Back Email
+15803,High Value Customers,High Risk,50,4,1930,97.00%, Urgent Win-Back Email
+17236,High Value Customers,High Risk,12,12,1929,89.90%, Urgent Win-Back Email
+13029,High Value Customers,High Risk,30,5,1927,95.10%, Urgent Win-Back Email
+14710,High Value Customers,High Risk,13,13,1923,92.00%, Urgent Win-Back Email
+16681,High Value Customers,High Risk,72,7,1922,98.00%, Urgent Win-Back Email
+16942,High Value Customers,High Risk,12,9,1921,89.90%, Urgent Win-Back Email
+12842,High Value Customers,High Risk,69,4,1918,98.20%, Urgent Win-Back Email
+16650,High Value Customers,High Risk,71,7,1916,98.00%, Urgent Win-Back Email
+16555,High Value Customers,High Risk,34,6,1916,96.90%, Urgent Win-Back Email
+13503,High Value Customers,High Risk,70,6,1905,98.10%, Urgent Win-Back Email
+17235,High Value Customers,High Risk,24,8,1905,92.70%, Urgent Win-Back Email
+16049,High Value Customers,High Risk,39,6,1900,96.90%, Urgent Win-Back Email
+14389,High Value Customers,High Risk,64,5,1898,98.00%, Urgent Win-Back Email
+14741,High Value Customers,High Risk,11,7,1898,77.90%, Urgent Win-Back Email
+17560,High Value Customers,High Risk,94,9,1896,98.50%, Urgent Win-Back Email
+17609,High Value Customers,High Risk,40,11,1894,97.80%, Urgent Win-Back Email
+14912,High Value Customers,High Risk,16,6,1889,87.60%, Urgent Win-Back Email
+16172,High Value Customers,High Risk,94,8,1885,98.00%, Urgent Win-Back Email
+16660,High Value Customers,High Risk,15,7,1880,78.70%, Urgent Win-Back Email
+15197,High Value Customers,High Risk,10,6,1878,74.40%, Urgent Win-Back Email
+13946,High Value Customers,High Risk,78,6,1876,98.10%, Urgent Win-Back Email
+13168,High Value Customers,High Risk,35,5,1875,96.90%, Urgent Win-Back Email
+12494,High Value Customers,High Risk,15,9,1873,90.40%, Urgent Win-Back Email
+17974,High Value Customers,High Risk,24,6,1858,92.90%, Urgent Win-Back Email
+16043,High Value Customers,High Risk,37,8,1857,96.90%, Urgent Win-Back Email
+15201,High Value Customers,High Risk,86,7,1843,98.00%, Urgent Win-Back Email
+17015,High Value Customers,High Risk,28,3,1843,95.30%, Urgent Win-Back Email
+16102,High Value Customers,High Risk,41,3,1842,97.00%, Urgent Win-Back Email
+14553,High Value Customers,High Risk,18,9,1842,93.20%, Urgent Win-Back Email
+16880,High Value Customers,High Risk,30,8,1841,95.00%, Urgent Win-Back Email
+14715,High Value Customers,High Risk,24,8,1840,92.70%, Urgent Win-Back Email
+16175,High Value Customers,High Risk,93,7,1836,98.00%, Urgent Win-Back Email
+16205,High Value Customers,High Risk,30,7,1831,95.00%, Urgent Win-Back Email
+15339,High Value Customers,High Risk,65,7,1828,97.90%, Urgent Win-Back Email
+16825,High Value Customers,High Risk,38,5,1827,96.90%, Urgent Win-Back Email
+17244,High Value Customers,High Risk,52,5,1826,96.90%, Urgent Win-Back Email
+14738,High Value Customers,High Risk,42,9,1822,97.50%, Urgent Win-Back Email
+17888,High Value Customers,High Risk,20,25,1820,91.20%, Urgent Win-Back Email
+17828,High Value Customers,High Risk,22,4,1820,93.20%, Urgent Win-Back Email
+16110,High Value Customers,High Risk,44,4,1819,97.00%, Urgent Win-Back Email
+16511,High Value Customers,High Risk,21,6,1819,90.70%, Urgent Win-Back Email
+15807,High Value Customers,High Risk,49,5,1818,96.90%, Urgent Win-Back Email
+15530,High Value Customers,High Risk,21,5,1814,90.70%, Urgent Win-Back Email
+14704,High Value Customers,High Risk,10,11,1814,87.70%, Urgent Win-Back Email
+14915,High Value Customers,High Risk,90,11,1811,98.60%, Urgent Win-Back Email
+16595,High Value Customers,High Risk,60,5,1810,98.00%, Urgent Win-Back Email
+18096,High Value Customers,High Risk,11,6,1805,78.40%, Urgent Win-Back Email
+18161,High Value Customers,High Risk,14,6,1803,79.20%, Urgent Win-Back Email
+16249,High Value Customers,High Risk,52,5,1800,96.90%, Urgent Win-Back Email
+15452,High Value Customers,High Risk,29,6,1799,95.10%, Urgent Win-Back Email
+16348,High Value Customers,High Risk,31,8,1798,96.90%, Urgent Win-Back Email
+18235,High Value Customers,High Risk,71,3,1796,98.20%, Urgent Win-Back Email
+18236,High Value Customers,High Risk,29,12,1795,96.70%, Urgent Win-Back Email
+13782,High Value Customers,High Risk,12,13,1794,92.00%, Urgent Win-Back Email
+17603,High Value Customers,High Risk,77,4,1793,98.20%, Urgent Win-Back Email
+15608,High Value Customers,High Risk,27,5,1786,95.10%, Urgent Win-Back Email
+15128,High Value Customers,High Risk,59,5,1784,98.00%, Urgent Win-Back Email
+15220,High Value Customers,High Risk,51,6,1779,96.90%, Urgent Win-Back Email
+12458,High Value Customers,High Risk,70,4,1777,98.20%, Urgent Win-Back Email
+12778,High Value Customers,High Risk,19,9,1776,93.20%, Urgent Win-Back Email
+15594,High Value Customers,High Risk,15,5,1772,79.20%, Urgent Win-Back Email
+16374,High Value Customers,High Risk,65,5,1771,98.00%, Urgent Win-Back Email
+17813,High Value Customers,High Risk,13,5,1771,78.40%, Urgent Win-Back Email
+13456,High Value Customers,High Risk,17,6,1767,88.50%, Urgent Win-Back Email
+13717,High Value Customers,High Risk,31,8,1763,96.90%, Urgent Win-Back Email
+14522,High Value Customers,High Risk,23,8,1759,92.70%, Urgent Win-Back Email
+16266,High Value Customers,High Risk,73,14,1758,98.90%, Urgent Win-Back Email
+17432,High Value Customers,High Risk,17,9,1751,93.20%, Urgent Win-Back Email
+13155,High Value Customers,High Risk,32,6,1750,96.90%, Urgent Win-Back Email
+16639,High Value Customers,High Risk,30,4,1748,95.30%, Urgent Win-Back Email
+14236,High Value Customers,High Risk,80,5,1745,98.10%, Urgent Win-Back Email
+17190,High Value Customers,High Risk,58,7,1743,97.90%, Urgent Win-Back Email
+13240,High Value Customers,High Risk,95,8,1739,98.00%, Urgent Win-Back Email
+16809,High Value Customers,High Risk,22,9,1727,94.70%, Urgent Win-Back Email
+15730,High Value Customers,High Risk,65,5,1727,98.00%, Urgent Win-Back Email
+17162,High Value Customers,High Risk,28,10,1715,95.90%, Urgent Win-Back Email
+14987,High Value Customers,High Risk,15,8,1714,76.60%, Urgent Win-Back Email
+14447,High Value Customers,High Risk,18,6,1712,87.20%, Urgent Win-Back Email
+15551,High Value Customers,High Risk,36,7,1710,96.50%, Urgent Win-Back Email
+17731,High Value Customers,High Risk,78,6,1709,97.80%, Urgent Win-Back Email
+12407,High Value Customers,High Risk,49,5,1708,96.60%, Urgent Win-Back Email
+13566,High Value Customers,High Risk,40,5,1708,96.60%, Urgent Win-Back Email
+16768,High Value Customers,High Risk,47,9,1708,97.20%, Urgent Win-Back Email
+16907,High Value Customers,High Risk,28,9,1708,95.90%, Urgent Win-Back Email
+14859,High Value Customers,High Risk,12,5,1706,76.30%, Urgent Win-Back Email
+17571,High Value Customers,High Risk,49,5,1704,96.60%, Urgent Win-Back Email
+13184,High Value Customers,High Risk,14,10,1701,89.30%, Urgent Win-Back Email
+14829,High Value Customers,High Risk,28,7,1693,94.40%, Urgent Win-Back Email
+16671,High Value Customers,High Risk,27,3,1692,95.20%, Urgent Win-Back Email
+12933,High Value Customers,High Risk,23,8,1687,91.90%, Urgent Win-Back Email
+15996,High Value Customers,High Risk,87,7,1687,97.80%, Urgent Win-Back Email
+17041,High Value Customers,High Risk,26,6,1686,94.50%, Urgent Win-Back Email
+12775,High Value Customers,High Risk,16,7,1686,85.80%, Urgent Win-Back Email
+13516,High Value Customers,High Risk,20,4,1685,88.70%, Urgent Win-Back Email
+15987,High Value Customers,High Risk,11,8,1682,75.80%, Urgent Win-Back Email
+13064,High Value Customers,High Risk,12,6,1681,76.30%, Urgent Win-Back Email
+13149,High Value Customers,High Risk,13,4,1676,78.70%, Urgent Win-Back Email
+17656,High Value Customers,High Risk,72,5,1675,97.80%, Urgent Win-Back Email
+13587,High Value Customers,High Risk,63,4,1674,98.00%, Urgent Win-Back Email
+13308,High Value Customers,High Risk,22,4,1670,93.00%, Urgent Win-Back Email
+17534,High Value Customers,High Risk,53,5,1669,96.60%, Urgent Win-Back Email
+13434,High Value Customers,High Risk,73,5,1667,97.80%, Urgent Win-Back Email
+18276,High Value Customers,High Risk,43,6,1657,96.60%, Urgent Win-Back Email
+12577,High Value Customers,High Risk,34,8,1654,96.50%, Urgent Win-Back Email
+18022,High Value Customers,High Risk,35,5,1652,96.60%, Urgent Win-Back Email
+12657,High Value Customers,High Risk,10,4,1643,74.70%, Urgent Win-Back Email
+17951,High Value Customers,High Risk,39,4,1636,97.00%, Urgent Win-Back Email
+18136,High Value Customers,High Risk,62,5,1631,97.70%, Urgent Win-Back Email
+18149,High Value Customers,High Risk,50,7,1625,96.50%, Urgent Win-Back Email
+17764,High Value Customers,High Risk,50,5,1624,96.60%, Urgent Win-Back Email
+17867,High Value Customers,High Risk,29,15,1621,97.10%, Urgent Win-Back Email
+12379,High Value Customers,High Risk,81,4,1620,98.10%, Urgent Win-Back Email
+17515,High Value Customers,High Risk,30,9,1617,95.90%, Urgent Win-Back Email
+16224,High Value Customers,High Risk,56,5,1617,97.70%, Urgent Win-Back Email
+14336,High Value Customers,High Risk,16,4,1615,87.70%, Urgent Win-Back Email
+13249,High Value Customers,High Risk,91,9,1609,98.30%, Urgent Win-Back Email
+17886,High Value Customers,High Risk,31,6,1608,96.60%, Urgent Win-Back Email
+17222,High Value Customers,High Risk,64,6,1605,97.70%, Urgent Win-Back Email
+17345,High Value Customers,High Risk,14,10,1605,89.30%, Urgent Win-Back Email
+14587,High Value Customers,High Risk,18,9,1601,92.40%, Urgent Win-Back Email
+15134,High Value Customers,High Risk,14,10,1596,89.30%, Urgent Win-Back Email
+16774,High Value Customers,High Risk,67,8,1594,97.80%, Urgent Win-Back Email
+17837,High Value Customers,High Risk,41,8,1593,96.50%, Urgent Win-Back Email
+15289,High Value Customers,High Risk,28,5,1593,94.50%, Urgent Win-Back Email
+17540,High Value Customers,High Risk,24,6,1591,92.10%, Urgent Win-Back Email
+16099,High Value Customers,High Risk,49,7,1573,96.50%, Urgent Win-Back Email
+15466,High Value Customers,High Risk,84,4,1571,98.10%, Urgent Win-Back Email
+14198,High Value Customers,High Risk,17,9,1570,92.40%, Urgent Win-Back Email
+13539,High Value Customers,High Risk,85,7,1569,97.80%, Urgent Win-Back Email
+17624,High Value Customers,High Risk,14,4,1569,79.50%, Urgent Win-Back Email
+17323,High Value Customers,High Risk,14,12,1566,89.70%, Urgent Win-Back Email
+18036,High Value Customers,High Risk,31,11,1564,97.50%, Urgent Win-Back Email
+13939,High Value Customers,High Risk,22,7,1561,91.90%, Urgent Win-Back Email
+16140,High Value Customers,High Risk,65,3,1558,98.00%, Urgent Win-Back Email
+16394,High Value Customers,High Risk,56,5,1555,97.70%, Urgent Win-Back Email
+16017,High Value Customers,High Risk,46,5,1554,96.60%, Urgent Win-Back Email
+14754,High Value Customers,High Risk,44,6,1550,96.60%, Urgent Win-Back Email
+16366,High Value Customers,High Risk,18,4,1548,88.70%, Urgent Win-Back Email
+18252,High Value Customers,High Risk,50,7,1542,96.00%, Urgent Win-Back Email
+13310,High Value Customers,High Risk,27,5,1541,93.90%, Urgent Win-Back Email
+13579,High Value Customers,High Risk,14,5,1539,75.00%, Urgent Win-Back Email
+15587,High Value Customers,High Risk,49,7,1522,96.00%, Urgent Win-Back Email
+16066,High Value Customers,High Risk,16,5,1522,84.70%, Urgent Win-Back Email
+17025,High Value Customers,High Risk,60,5,1511,97.50%, Urgent Win-Back Email
+13158,High Value Customers,High Risk,94,5,1508,97.60%, Urgent Win-Back Email
+15110,High Value Customers,High Risk,23,6,1506,91.20%, Urgent Win-Back Email
+16762,High Value Customers,High Risk,19,3,1501,89.60%, Urgent Win-Back Email
+16239,High Value Customers,High Risk,56,6,1492,97.50%, Urgent Win-Back Email
+14609,High Value Customers,High Risk,71,10,1486,95.70%, Urgent Win-Back Email
+16121,High Value Customers,High Risk,56,5,1477,97.50%, Urgent Win-Back Email
+14684,High Value Customers,High Risk,25,6,1469,93.90%, Urgent Win-Back Email
+13138,High Value Customers,High Risk,21,7,1467,88.10%, Urgent Win-Back Email
+13500,High Value Customers,High Risk,22,4,1466,93.00%, Urgent Win-Back Email
+18196,High Value Customers,High Risk,94,4,1464,98.10%, Urgent Win-Back Email
+14657,High Value Customers,High Risk,17,6,1461,85.80%, Urgent Win-Back Email
+15071,High Value Customers,High Risk,93,4,1456,98.10%, Urgent Win-Back Email
+14487,High Value Customers,High Risk,26,7,1454,93.70%, Urgent Win-Back Email
+16906,High Value Customers,High Risk,81,7,1449,97.50%, Urgent Win-Back Email
+17545,High Value Customers,High Risk,42,6,1449,96.10%, Urgent Win-Back Email
+14591,High Value Customers,High Risk,14,4,1447,79.50%, Urgent Win-Back Email
+17073,High Value Customers,High Risk,17,4,1446,88.70%, Urgent Win-Back Email
+15636,High Value Customers,High Risk,89,4,1445,98.10%, Urgent Win-Back Email
+17175,High Value Customers,High Risk,43,4,1444,97.00%, Urgent Win-Back Email
+17734,High Value Customers,High Risk,53,6,1442,96.10%, Urgent Win-Back Email
+18066,High Value Customers,High Risk,74,3,1440,98.10%, Urgent Win-Back Email
+13278,High Value Customers,High Risk,40,4,1436,97.00%, Urgent Win-Back Email
+13259,High Value Customers,High Risk,61,9,1433,95.50%, Urgent Win-Back Email
+17950,High Value Customers,High Risk,71,7,1433,97.50%, Urgent Win-Back Email
+17411,High Value Customers,High Risk,11,5,1425,74.10%, Urgent Win-Back Email
+18221,High Value Customers,High Risk,21,6,1425,88.40%, Urgent Win-Back Email
+15799,High Value Customers,High Risk,75,4,1424,98.10%, Urgent Win-Back Email
+13145,High Value Customers,High Risk,39,7,1424,96.00%, Urgent Win-Back Email
+15106,High Value Customers,High Risk,17,5,1423,85.80%, Urgent Win-Back Email
+16463,High Value Customers,High Risk,20,4,1422,88.70%, Urgent Win-Back Email
+15652,High Value Customers,High Risk,90,5,1420,97.60%, Urgent Win-Back Email
+16173,High Value Customers,High Risk,15,6,1418,75.00%, Urgent Win-Back Email
+14662,High Value Customers,High Risk,28,7,1416,93.70%, Urgent Win-Back Email
+16245,High Value Customers,High Risk,23,3,1414,93.00%, Urgent Win-Back Email
+17878,High Value Customers,High Risk,43,3,1412,97.00%, Urgent Win-Back Email
+16848,High Value Customers,High Risk,52,4,1412,97.00%, Urgent Win-Back Email
+13049,High Value Customers,High Risk,63,4,1408,98.00%, Urgent Win-Back Email
+18189,High Value Customers,High Risk,77,3,1404,98.10%, Urgent Win-Back Email
+15186,High Value Customers,High Risk,13,5,1403,74.10%, Urgent Win-Back Email
+18167,High Value Customers,High Risk,22,3,1385,93.00%, Urgent Win-Back Email
+14116,High Value Customers,High Risk,19,5,1383,85.80%, Urgent Win-Back Email
+16389,High Value Customers,High Risk,52,4,1382,97.00%, Urgent Win-Back Email
+14861,High Value Customers,High Risk,51,10,1381,93.20%, Urgent Win-Back Email
+14853,High Value Customers,High Risk,23,5,1377,91.20%, Urgent Win-Back Email
+16669,High Value Customers,High Risk,23,3,1375,93.00%, Urgent Win-Back Email
+14577,High Value Customers,High Risk,12,7,1374,73.50%, Urgent Win-Back Email
+14434,High Value Customers,High Risk,21,6,1373,88.40%, Urgent Win-Back Email
+14538,High Value Customers,High Risk,64,5,1371,97.50%, Urgent Win-Back Email
+13760,High Value Customers,High Risk,53,5,1364,96.10%, Urgent Win-Back Email
+16367,High Value Customers,High Risk,36,3,1362,97.00%, Urgent Win-Back Email
+17796,High Value Customers,High Risk,39,7,1362,96.00%, Urgent Win-Back Email
+13919,High Value Customers,High Risk,58,4,1361,98.00%, Urgent Win-Back Email
+16384,High Value Customers,High Risk,89,4,1359,98.10%, Urgent Win-Back Email
+15411,High Value Customers,High Risk,25,4,1359,95.20%, Urgent Win-Back Email
+13232,High Value Customers,High Risk,12,7,1358,73.50%, Urgent Win-Back Email
+17054,High Value Customers,High Risk,27,5,1356,93.90%, Urgent Win-Back Email
+14550,High Value Customers,High Risk,10,4,1353,74.70%, Urgent Win-Back Email
+15116,High Value Customers,High Risk,17,4,1353,88.70%, Urgent Win-Back Email
+16079,High Value Customers,High Risk,16,3,1352,88.70%, Urgent Win-Back Email
+12463,High Value Customers,High Risk,52,4,1345,97.00%, Urgent Win-Back Email
+13220,High Value Customers,High Risk,77,5,1336,97.60%, Urgent Win-Back Email
+17033,High Value Customers,High Risk,85,4,1333,98.10%, Urgent Win-Back Email
+17932,High Value Customers,High Risk,28,3,1332,95.20%, Urgent Win-Back Email
+15774,High Value Customers,High Risk,68,6,1330,97.60%, Urgent Win-Back Email
+16372,High Value Customers,High Risk,32,5,1329,96.10%, Urgent Win-Back Email
+16295,High Value Customers,High Risk,9,4,1329,74.50%, Urgent Win-Back Email
+14712,High Value Customers,High Risk,28,4,1328,95.20%, Urgent Win-Back Email
+17027,High Value Customers,High Risk,78,9,1327,95.70%, Urgent Win-Back Email
+16370,High Value Customers,High Risk,81,4,1321,98.10%, Urgent Win-Back Email
+14725,High Value Customers,High Risk,24,4,1315,93.00%, Urgent Win-Back Email
+16464,High Value Customers,High Risk,19,3,1315,89.60%, Urgent Win-Back Email
+13282,High Value Customers,High Risk,17,4,1313,88.70%, Urgent Win-Back Email
+12987,High Value Customers,High Risk,73,5,1312,97.60%, Urgent Win-Back Email
+15038,High Value Customers,High Risk,58,9,1310,95.50%, Urgent Win-Back Email
+13846,High Value Customers,High Risk,24,4,1308,93.00%, Urgent Win-Back Email
+16777,High Value Customers,High Risk,79,5,1308,97.60%, Urgent Win-Back Email
+14297,High Value Customers,High Risk,17,4,1305,88.70%, Urgent Win-Back Email
+15579,High Value Customers,High Risk,68,5,1302,97.60%, Urgent Win-Back Email
+15400,High Value Customers,High Risk,91,8,1302,97.50%, Urgent Win-Back Email
+16574,High Value Customers,High Risk,70,3,1302,98.10%, Urgent Win-Back Email
+16723,High Value Customers,High Risk,90,4,1302,98.10%, Urgent Win-Back Email
+14480,High Value Customers,High Risk,10,4,1300,74.70%, Urgent Win-Back Email
+14167,High Value Customers,High Risk,38,8,1296,96.00%, Urgent Win-Back Email
+17109,High Value Customers,High Risk,28,8,1295,93.70%, Urgent Win-Back Email
+16212,High Value Customers,High Risk,18,4,1294,88.70%, Urgent Win-Back Email
+17034,High Value Customers,High Risk,15,5,1284,75.00%, Urgent Win-Back Email
+13617,High Value Customers,High Risk,39,8,1279,96.00%, Urgent Win-Back Email
+17521,High Value Customers,High Risk,29,5,1278,93.90%, Urgent Win-Back Email
+15584,High Value Customers,High Risk,23,6,1278,91.20%, Urgent Win-Back Email
+17759,High Value Customers,High Risk,16,5,1277,84.70%, Urgent Win-Back Email
+18035,High Value Customers,High Risk,35,5,1277,96.10%, Urgent Win-Back Email
+14820,High Value Customers,High Risk,20,9,1275,79.30%, Urgent Win-Back Email
+15809,High Value Customers,High Risk,35,7,1274,96.00%, Urgent Win-Back Email
+14984,High Value Customers,High Risk,18,6,1271,85.80%, Urgent Win-Back Email
+14379,High Value Customers,High Risk,43,4,1269,97.00%, Urgent Win-Back Email
+13892,High Value Customers,High Risk,26,6,1268,93.90%, Urgent Win-Back Email
+13515,High Value Customers,High Risk,72,6,1266,97.60%, Urgent Win-Back Email
+14427,High Value Customers,High Risk,49,4,1264,97.00%, Urgent Win-Back Email
+12993,High Value Customers,High Risk,22,8,1260,90.90%, Urgent Win-Back Email
+15651,High Value Customers,High Risk,36,5,1259,96.10%, Urgent Win-Back Email
+15664,High Value Customers,High Risk,50,4,1254,97.00%, Urgent Win-Back Email
+18135,High Value Customers,High Risk,28,10,1250,88.00%, Urgent Win-Back Email
+14020,High Value Customers,High Risk,16,4,1249,87.70%, Urgent Win-Back Email
+17076,High Value Customers,High Risk,35,6,1243,96.10%, Urgent Win-Back Email
+17201,High Value Customers,High Risk,53,4,1242,97.00%, Urgent Win-Back Email
+17397,High Value Customers,High Risk,21,3,1233,91.50%, Urgent Win-Back Email
+17360,High Value Customers,High Risk,16,6,1231,84.70%, Urgent Win-Back Email
+13787,High Value Customers,High Risk,75,6,1222,97.60%, Urgent Win-Back Email
+17410,High Value Customers,High Risk,15,5,1215,75.00%, Urgent Win-Back Email
+17198,High Value Customers,High Risk,23,3,1214,93.00%, Urgent Win-Back Email
+13405,High Value Customers,High Risk,73,6,1214,97.60%, Urgent Win-Back Email
+18263,High Value Customers,High Risk,25,3,1213,95.20%, Urgent Win-Back Email
+16872,High Value Customers,High Risk,76,6,1213,97.60%, Urgent Win-Back Email
+17653,High Value Customers,High Risk,36,4,1208,97.00%, Urgent Win-Back Email
+16830,High Value Customers,High Risk,38,4,1208,97.00%, Urgent Win-Back Email
+15573,High Value Customers,High Risk,31,5,1207,96.10%, Urgent Win-Back Email
+18181,High Value Customers,High Risk,23,5,1206,91.20%, Urgent Win-Back Email
+15737,High Value Customers,High Risk,14,8,1205,74.40%, Urgent Win-Back Email
+15994,High Value Customers,High Risk,54,3,1202,98.00%, Urgent Win-Back Email
+15181,High Value Customers,High Risk,65,5,1200,97.50%, Urgent Win-Back Email
+16693,High Value Customers,High Risk,68,5,1199,97.60%, Urgent Win-Back Email
+17800,High Value Customers,High Risk,36,9,1199,93.20%, Urgent Win-Back Email
+14201,High Value Customers,High Risk,59,10,1194,95.50%, Urgent Win-Back Email
+15022,High Value Customers,High Risk,11,5,1186,74.10%, Urgent Win-Back Email
+13601,High Value Customers,High Risk,44,4,1185,97.00%, Urgent Win-Back Email
+18277,High Value Customers,High Risk,57,5,1180,97.50%, Urgent Win-Back Email
+17058,High Value Customers,High Risk,81,3,1180,98.10%, Urgent Win-Back Email
+15068,High Value Customers,High Risk,45,4,1177,97.00%, Urgent Win-Back Email
+13233,High Value Customers,High Risk,73,4,1176,98.10%, Urgent Win-Back Email
+14818,High Value Customers,High Risk,73,6,1170,97.60%, Urgent Win-Back Email
+12691,High Value Customers,High Risk,27,7,1170,93.70%, Urgent Win-Back Email
+17373,High Value Customers,High Risk,39,7,1168,96.00%, Urgent Win-Back Email
+17664,High Value Customers,High Risk,18,4,1166,88.70%, Urgent Win-Back Email
+17812,High Value Customers,High Risk,12,7,1166,73.50%, Urgent Win-Back Email
+13499,High Value Customers,High Risk,17,5,1159,85.80%, Urgent Win-Back Email
+17513,High Value Customers,High Risk,71,3,1159,98.10%, Urgent Win-Back Email
+16184,High Value Customers,High Risk,63,6,1159,97.50%, Urgent Win-Back Email
+17169,High Value Customers,High Risk,57,3,1157,98.00%, Urgent Win-Back Email
+16637,High Value Customers,High Risk,31,4,1154,97.00%, Urgent Win-Back Email
+14475,High Value Customers,High Risk,71,4,1151,98.10%, Urgent Win-Back Email
+14585,High Value Customers,High Risk,49,5,1143,96.10%, Urgent Win-Back Email
+18125,High Value Customers,High Risk,29,4,1143,95.20%, Urgent Win-Back Email
+17500,High Value Customers,High Risk,16,3,1138,88.70%, Urgent Win-Back Email
+17302,High Value Customers,High Risk,14,5,1136,75.00%, Urgent Win-Back Email
+16014,High Value Customers,High Risk,37,5,1130,96.10%, Urgent Win-Back Email
+16354,High Value Customers,High Risk,62,5,1130,97.50%, Urgent Win-Back Email
+13167,High Value Customers,High Risk,18,5,1125,85.80%, Urgent Win-Back Email
+16916,High Value Customers,High Risk,23,4,1123,93.00%, Urgent Win-Back Email
+17562,High Value Customers,High Risk,13,7,1122,73.50%, Urgent Win-Back Email
+16895,High Value Customers,High Risk,64,5,1121,97.50%, Urgent Win-Back Email
+13589,High Value Customers,High Risk,14,6,1121,75.00%, Urgent Win-Back Email
+17007,High Value Customers,High Risk,50,7,1120,96.00%, Urgent Win-Back Email
+17423,High Value Customers,High Risk,45,3,1119,97.00%, Urgent Win-Back Email
+16430,High Value Customers,High Risk,56,7,1118,97.40%, Urgent Win-Back Email
+14966,High Value Customers,High Risk,14,6,1116,75.00%, Urgent Win-Back Email
+14080,High Value Customers,High Risk,32,5,1116,96.10%, Urgent Win-Back Email
+16203,High Value Customers,High Risk,58,6,1115,97.50%, Urgent Win-Back Email
+12679,High Value Customers,High Risk,58,4,1113,98.00%, Urgent Win-Back Email
+16139,High Value Customers,High Risk,18,5,1111,85.80%, Urgent Win-Back Email
+15933,High Value Customers,High Risk,20,3,1107,89.60%, Urgent Win-Back Email
+14805,High Value Customers,High Risk,14,7,1105,74.40%, Urgent Win-Back Email
+16386,High Value Customers,High Risk,28,3,1103,95.20%, Urgent Win-Back Email
+14948,High Value Customers,High Risk,22,6,1102,91.20%, Urgent Win-Back Email
+16418,High Value Customers,High Risk,44,5,1102,96.10%, Urgent Win-Back Email
+16533,High Value Customers,High Risk,18,3,1096,90.50%, Urgent Win-Back Email
+13835,High Value Customers,High Risk,24,7,1095,91.80%, Urgent Win-Back Email
+17703,High Value Customers,High Risk,34,4,1095,97.30%, Urgent Win-Back Email
+15745,High Value Customers,High Risk,18,4,1095,89.70%, Urgent Win-Back Email
+13546,High Value Customers,High Risk,11,5,1092,76.10%, Urgent Win-Back Email
+16211,High Value Customers,High Risk,88,3,1091,98.30%, Urgent Win-Back Email
+16188,High Value Customers,High Risk,44,5,1088,96.50%, Urgent Win-Back Email
+14139,High Value Customers,High Risk,45,4,1087,97.30%, Urgent Win-Back Email
+16298,High Value Customers,High Risk,22,7,1086,91.80%, Urgent Win-Back Email
+17420,High Value Customers,High Risk,49,6,1084,96.50%, Urgent Win-Back Email
+13727,High Value Customers,High Risk,28,8,1080,94.30%, Urgent Win-Back Email
+16183,High Value Customers,High Risk,66,4,1078,98.20%, Urgent Win-Back Email
+16071,High Value Customers,High Risk,44,4,1077,97.30%, Urgent Win-Back Email
+13959,High Value Customers,High Risk,78,6,1076,97.80%, Urgent Win-Back Email
+16884,High Value Customers,High Risk,37,4,1074,97.30%, Urgent Win-Back Email
+16593,High Value Customers,High Risk,50,8,1071,96.40%, Urgent Win-Back Email
+14484,High Value Customers,High Risk,49,4,1071,97.30%, Urgent Win-Back Email
+12728,High Value Customers,High Risk,70,5,1070,97.80%, Urgent Win-Back Email
+17214,High Value Customers,High Risk,59,6,1069,97.70%, Urgent Win-Back Email
+15801,High Value Customers,High Risk,45,3,1064,97.30%, Urgent Win-Back Email
+12936,High Value Customers,High Risk,16,4,1064,88.80%, Urgent Win-Back Email
+16903,High Value Customers,High Risk,28,3,1062,95.70%, Urgent Win-Back Email
+15026,High Value Customers,High Risk,79,5,1062,97.80%, Urgent Win-Back Email
+15706,High Value Customers,High Risk,63,4,1061,98.20%, Urgent Win-Back Email
+16261,High Value Customers,High Risk,16,6,1059,86.00%, Urgent Win-Back Email
+18130,High Value Customers,High Risk,14,3,1059,82.50%, Urgent Win-Back Email
+15850,High Value Customers,High Risk,18,6,1059,87.00%, Urgent Win-Back Email
+17555,High Value Customers,High Risk,19,5,1058,87.00%, Urgent Win-Back Email
+15407,High Value Customers,High Risk,33,4,1056,97.30%, Urgent Win-Back Email
+16728,High Value Customers,High Risk,45,4,1055,97.30%, Urgent Win-Back Email
+15886,High Value Customers,High Risk,59,4,1053,98.20%, Urgent Win-Back Email
+14947,High Value Customers,High Risk,71,6,1050,97.80%, Urgent Win-Back Email
+17934,High Value Customers,High Risk,51,3,1049,97.30%, Urgent Win-Back Email
+15839,High Value Customers,High Risk,32,3,1048,97.30%, Urgent Win-Back Email
+14108,High Value Customers,High Risk,30,4,1045,95.70%, Urgent Win-Back Email
+16441,High Value Customers,High Risk,66,5,1034,97.20%, Urgent Win-Back Email
+17724,High Value Customers,High Risk,70,3,1033,97.70%, Urgent Win-Back Email
+16385,High Value Customers,High Risk,59,5,1031,97.20%, Urgent Win-Back Email
+16284,High Value Customers,High Risk,30,3,1030,93.90%, Urgent Win-Back Email
+13602,High Value Customers,High Risk,64,4,1025,97.60%, Urgent Win-Back Email
+16898,High Value Customers,High Risk,25,5,1016,92.50%, Urgent Win-Back Email
+14953,High Value Customers,High Risk,24,4,1014,90.20%, Urgent Win-Back Email
+16451,High Value Customers,High Risk,87,3,1013,97.40%, Urgent Win-Back Email
+12703,High Value Customers,High Risk,70,4,1007,97.60%, Urgent Win-Back Email
+13549,High Value Customers,High Risk,25,8,1006,91.60%, Urgent Win-Back Email
+14214,High Value Customers,High Risk,30,5,1004,91.00%, Urgent Win-Back Email
+18160,High Value Customers,High Risk,56,3,1004,97.20%, Urgent Win-Back Email
+14157,High Value Customers,High Risk,19,5,1003,76.10%, Urgent Win-Back Email
+16122,High Value Customers,High Risk,72,6,1001,97.10%, Urgent Win-Back Email
+12413,High Value Customers,High Risk,66,4,999,97.20%, Urgent Win-Back Email
+17205,High Value Customers,High Risk,53,3,999,95.50%, Urgent Win-Back Email
+16863,High Value Customers,High Risk,30,3,999,91.80%, Urgent Win-Back Email
+18006,High Value Customers,High Risk,22,4,998,85.80%, Urgent Win-Back Email
+12722,High Value Customers,High Risk,84,4,998,97.60%, Urgent Win-Back Email
+13292,High Value Customers,High Risk,38,5,995,95.50%, Urgent Win-Back Email
+16009,High Value Customers,High Risk,21,4,993,83.10%, Urgent Win-Back Email
+15132,High Value Customers,High Risk,17,5,978,77.90%, Urgent Win-Back Email
+15406,High Value Customers,High Risk,30,4,976,92.50%, Urgent Win-Back Email
+17081,High Value Customers,High Risk,24,6,964,85.80%, Urgent Win-Back Email
+16518,High Value Customers,High Risk,60,4,959,97.50%, Urgent Win-Back Email
+12588,High Value Customers,High Risk,38,4,959,95.90%, Urgent Win-Back Email
+17080,High Value Customers,High Risk,21,7,958,79.80%, Urgent Win-Back Email
+17172,High Value Customers,High Risk,78,3,957,97.60%, Urgent Win-Back Email
+12990,High Value Customers,High Risk,30,7,956,90.80%, Urgent Win-Back Email
+15835,High Value Customers,High Risk,43,4,954,95.90%, Urgent Win-Back Email
+13636,High Value Customers,High Risk,36,5,949,95.50%, Urgent Win-Back Email
+15787,High Value Customers,High Risk,25,3,948,92.50%, Urgent Win-Back Email
+16362,High Value Customers,High Risk,31,6,947,95.50%, Urgent Win-Back Email
+16136,High Value Customers,High Risk,59,4,947,97.50%, Urgent Win-Back Email
+16861,High Value Customers,High Risk,59,5,947,97.20%, Urgent Win-Back Email
+15707,High Value Customers,High Risk,34,4,946,95.90%, Urgent Win-Back Email
+18217,High Value Customers,High Risk,28,4,945,92.50%, Urgent Win-Back Email
+16204,High Value Customers,High Risk,22,3,944,86.90%, Urgent Win-Back Email
+17527,High Value Customers,High Risk,53,4,939,95.90%, Urgent Win-Back Email
+15957,High Value Customers,High Risk,31,3,930,95.90%, Urgent Win-Back Email
+14272,High Value Customers,High Risk,73,4,921,97.60%, Urgent Win-Back Email
+15304,High Value Customers,High Risk,60,9,920,94.60%, Urgent Win-Back Email
+17760,High Value Customers,High Risk,21,6,919,81.60%, Urgent Win-Back Email
+14342,High Value Customers,High Risk,20,6,918,77.90%, Urgent Win-Back Email
+13573,High Value Customers,High Risk,49,6,916,95.60%, Urgent Win-Back Email
+16411,High Value Customers,High Risk,18,4,910,80.00%, Urgent Win-Back Email
+14714,High Value Customers,High Risk,23,4,906,87.30%, Urgent Win-Back Email
+12808,High Value Customers,High Risk,36,5,906,95.60%, Urgent Win-Back Email
+17382,High Value Customers,High Risk,64,8,902,97.00%, Urgent Win-Back Email
+15900,High Value Customers,High Risk,23,4,900,87.30%, Urgent Win-Back Email
+16784,High Value Customers,High Risk,19,5,897,78.30%, Urgent Win-Back Email
+13569,High Value Customers,High Risk,16,4,894,78.60%, Urgent Win-Back Email
+17155,High Value Customers,High Risk,17,7,892,76.30%, Urgent Win-Back Email
+16900,High Value Customers,High Risk,16,3,887,80.10%, Urgent Win-Back Email
+17361,High Value Customers,High Risk,48,5,881,95.60%, Urgent Win-Back Email
+14551,High Value Customers,High Risk,17,7,880,76.30%, Urgent Win-Back Email
+18043,High Value Customers,High Risk,24,3,876,87.30%, Urgent Win-Back Email
+14681,High Value Customers,High Risk,70,6,875,97.40%, Urgent Win-Back Email
+14508,High Value Customers,High Risk,21,5,875,82.00%, Urgent Win-Back Email
+13200,High Value Customers,High Risk,18,4,870,80.00%, Urgent Win-Back Email
+16357,High Value Customers,High Risk,32,4,868,96.00%, Urgent Win-Back Email
+15870,High Value Customers,High Risk,32,4,863,96.00%, Urgent Win-Back Email
+17064,High Value Customers,High Risk,58,3,859,97.50%, Urgent Win-Back Email
+15287,High Value Customers,High Risk,21,5,856,82.00%, Urgent Win-Back Email
+16020,High Value Customers,High Risk,16,3,851,80.10%, Urgent Win-Back Email
+13487,High Value Customers,High Risk,57,5,847,97.30%, Urgent Win-Back Email
+16924,High Value Customers,High Risk,20,3,847,81.40%, Urgent Win-Back Email
+16846,High Value Customers,High Risk,49,3,842,96.00%, Urgent Win-Back Email
+13940,High Value Customers,High Risk,16,4,839,78.60%, Urgent Win-Back Email
+15766,High Value Customers,High Risk,63,3,831,97.50%, Urgent Win-Back Email
+13544,High Value Customers,High Risk,39,6,829,95.60%, Urgent Win-Back Email
+16469,High Value Customers,High Risk,23,5,829,86.10%, Urgent Win-Back Email
+13681,High Value Customers,High Risk,17,4,828,80.00%, Urgent Win-Back Email
+16869,High Value Customers,High Risk,22,4,825,87.30%, Urgent Win-Back Email
+15847,High Value Customers,High Risk,37,5,823,95.60%, Urgent Win-Back Email
+16164,High Value Customers,High Risk,16,3,822,80.10%, Urgent Win-Back Email
+16680,High Value Customers,High Risk,42,3,821,96.00%, Urgent Win-Back Email
+13514,High Value Customers,High Risk,73,4,816,97.70%, Urgent Win-Back Email
+16460,High Value Customers,High Risk,27,3,815,92.70%, Urgent Win-Back Email
+14624,High Value Customers,High Risk,56,6,814,97.30%, Urgent Win-Back Email
+16621,High Value Customers,High Risk,51,4,813,96.00%, Urgent Win-Back Email
+15952,High Value Customers,High Risk,33,4,807,96.00%, Urgent Win-Back Email
+15831,High Value Customers,High Risk,57,3,802,97.50%, Urgent Win-Back Email
+13980,High Value Customers,High Risk,59,5,800,97.30%, Urgent Win-Back Email
+17255,High Value Customers,High Risk,40,4,799,96.00%, Urgent Win-Back Email
+15637,High Value Customers,High Risk,52,5,798,95.80%, Urgent Win-Back Email
+16720,High Value Customers,High Risk,25,3,795,92.90%, Urgent Win-Back Email
+14690,High Value Customers,High Risk,43,4,794,96.20%, Urgent Win-Back Email
+18034,High Value Customers,High Risk,21,3,794,85.10%, Urgent Win-Back Email
+14976,High Value Customers,High Risk,56,7,791,97.10%, Urgent Win-Back Email
+13598,High Value Customers,High Risk,46,5,790,95.80%, Urgent Win-Back Email
+16468,High Value Customers,High Risk,73,3,788,97.70%, Urgent Win-Back Email
+15806,High Value Customers,High Risk,45,3,785,96.20%, Urgent Win-Back Email
+16836,High Value Customers,High Risk,39,4,782,96.20%, Urgent Win-Back Email
+15679,High Value Customers,High Risk,23,4,781,87.60%, Urgent Win-Back Email
+12504,High Value Customers,High Risk,17,4,779,77.30%, Urgent Win-Back Email
+15618,High Value Customers,High Risk,32,4,777,95.60%, Urgent Win-Back Email
+14997,High Value Customers,High Risk,45,4,777,95.60%, Urgent Win-Back Email
+14234,High Value Customers,High Risk,21,4,775,81.10%, Urgent Win-Back Email
+15988,High Value Customers,High Risk,18,3,770,78.90%, Urgent Win-Back Email
+16978,High Value Customers,High Risk,77,3,769,97.40%, Urgent Win-Back Email
+14883,High Value Customers,High Risk,18,6,762,75.50%, Urgent Win-Back Email
+18246,High Value Customers,High Risk,23,3,759,85.40%, Urgent Win-Back Email
+17979,High Value Customers,High Risk,35,4,758,95.60%, Urgent Win-Back Email
+17461,High Value Customers,High Risk,22,3,757,85.40%, Urgent Win-Back Email
+15656,High Value Customers,High Risk,44,4,748,95.60%, Urgent Win-Back Email
+16730,High Value Customers,High Risk,51,3,743,95.60%, Urgent Win-Back Email
+15462,High Value Customers,High Risk,93,4,737,97.40%, Urgent Win-Back Email
+12527,High Value Customers,High Risk,81,5,736,97.10%, Urgent Win-Back Email
+17430,High Value Customers,High Risk,32,4,735,95.60%, Urgent Win-Back Email
+13575,High Value Customers,High Risk,22,5,732,84.10%, Urgent Win-Back Email
+17999,High Value Customers,High Risk,36,3,731,95.60%, Urgent Win-Back Email
+14798,High Value Customers,High Risk,52,8,724,94.50%, Urgent Win-Back Email
+17572,High Value Customers,High Risk,70,10,723,94.40%, Urgent Win-Back Email
+17561,High Value Customers,High Risk,18,4,722,77.30%, Urgent Win-Back Email
+16023,High Value Customers,High Risk,45,3,720,95.60%, Urgent Win-Back Email
+16415,High Value Customers,High Risk,43,3,719,95.60%, Urgent Win-Back Email
+16882,High Value Customers,High Risk,66,3,705,97.20%, Urgent Win-Back Email
+12883,High Value Customers,High Risk,24,4,703,85.40%, Urgent Win-Back Email
+17163,High Value Customers,High Risk,21,4,700,81.10%, Urgent Win-Back Email
+16018,High Value Customers,High Risk,38,4,698,95.60%, Urgent Win-Back Email
+14959,High Value Customers,High Risk,63,4,695,97.20%, Urgent Win-Back Email
+15184,High Value Customers,High Risk,28,4,690,91.50%, Urgent Win-Back Email
+18017,High Value Customers,High Risk,80,4,688,97.40%, Urgent Win-Back Email
+18123,High Value Customers,High Risk,23,3,685,85.40%, Urgent Win-Back Email
+15669,High Value Customers,High Risk,39,4,684,95.60%, Urgent Win-Back Email
+16601,High Value Customers,High Risk,40,3,684,95.60%, Urgent Win-Back Email
+13524,High Value Customers,High Risk,40,5,680,95.10%, Urgent Win-Back Email
+13925,High Value Customers,High Risk,92,4,678,97.40%, Urgent Win-Back Email
+14504,High Value Customers,High Risk,46,4,673,95.60%, Urgent Win-Back Email
+16648,High Value Customers,High Risk,42,3,673,95.60%, Urgent Win-Back Email
+17011,High Value Customers,High Risk,29,3,672,91.50%, Urgent Win-Back Email
+17418,High Value Customers,High Risk,41,3,670,95.60%, Urgent Win-Back Email
+17777,High Value Customers,High Risk,24,3,666,85.40%, Urgent Win-Back Email
+17371,High Value Customers,High Risk,16,6,663,71.10%, Urgent Win-Back Email
+16887,High Value Customers,High Risk,34,3,661,95.60%, Urgent Win-Back Email
+17779,High Value Customers,High Risk,20,3,659,78.90%, Urgent Win-Back Email
+16734,High Value Customers,High Risk,51,3,651,95.60%, Urgent Win-Back Email
+16969,High Value Customers,High Risk,38,3,650,95.60%, Urgent Win-Back Email
+15276,High Value Customers,High Risk,65,4,650,97.20%, Urgent Win-Back Email
+12844,High Value Customers,High Risk,28,4,649,91.50%, Urgent Win-Back Email
+16412,High Value Customers,High Risk,53,5,647,95.10%, Urgent Win-Back Email
+16185,High Value Customers,High Risk,16,3,645,74.90%, Urgent Win-Back Email
+16399,High Value Customers,High Risk,18,3,642,78.90%, Urgent Win-Back Email
+16330,High Value Customers,High Risk,17,7,634,73.30%, Urgent Win-Back Email
+16750,High Value Customers,High Risk,44,5,624,93.40%, Urgent Win-Back Email
+14077,High Value Customers,High Risk,40,6,615,93.40%, Urgent Win-Back Email
+16589,High Value Customers,High Risk,70,4,612,97.30%, Urgent Win-Back Email
+16321,High Value Customers,High Risk,71,7,605,96.20%, Urgent Win-Back Email
+16445,High Value Customers,High Risk,33,4,603,93.30%, Urgent Win-Back Email
+16080,High Value Customers,High Risk,81,4,603,97.00%, Urgent Win-Back Email
+18211,High Value Customers,High Risk,25,5,600,85.20%, Urgent Win-Back Email
+18232,High Value Customers,High Risk,81,4,593,97.00%, Urgent Win-Back Email
+17483,High Value Customers,High Risk,64,4,592,96.80%, Urgent Win-Back Email
+15198,High Value Customers,High Risk,91,5,571,96.60%, Urgent Win-Back Email
+18053,High Value Customers,High Risk,70,3,571,97.20%, Urgent Win-Back Email
+18150,High Value Customers,High Risk,31,3,567,93.00%, Urgent Win-Back Email
+17233,High Value Customers,High Risk,34,3,561,93.80%, Urgent Win-Back Email
+14273,High Value Customers,High Risk,50,4,560,93.30%, Urgent Win-Back Email
+17295,High Value Customers,High Risk,28,3,557,85.10%, Urgent Win-Back Email
+16519,High Value Customers,High Risk,24,4,556,74.00%, Urgent Win-Back Email
+16475,High Value Customers,High Risk,87,4,544,96.30%, Urgent Win-Back Email
+15675,High Value Customers,High Risk,80,4,542,96.30%, Urgent Win-Back Email
+16804,High Value Customers,High Risk,22,3,537,75.50%, Urgent Win-Back Email
+15756,High Value Customers,High Risk,60,4,533,96.20%, Urgent Win-Back Email
+16706,High Value Customers,High Risk,36,3,531,92.60%, Urgent Win-Back Email
+13865,High Value Customers,High Risk,57,4,502,96.20%, Urgent Win-Back Email
+16488,High Value Customers,High Risk,32,3,499,92.60%, Urgent Win-Back Email
+17608,High Value Customers,High Risk,32,4,499,92.00%, Urgent Win-Back Email
+17680,High Value Customers,High Risk,23,3,497,75.50%, Urgent Win-Back Email
+15958,High Value Customers,High Risk,73,4,493,96.30%, Urgent Win-Back Email
+15048,High Value Customers,High Risk,64,4,483,96.40%, Urgent Win-Back Email
+14819,High Value Customers,High Risk,63,4,470,96.40%, Urgent Win-Back Email
+17181,High Value Customers,High Risk,56,3,465,96.70%, Urgent Win-Back Email
+17564,High Value Customers,High Risk,23,3,454,78.50%, Urgent Win-Back Email
+17376,High Value Customers,High Risk,70,4,454,97.20%, Urgent Win-Back Email
+16921,High Value Customers,High Risk,60,3,447,94.30%, Urgent Win-Back Email
+17370,High Value Customers,High Risk,72,4,446,94.10%, Urgent Win-Back Email
+18270,High Value Customers,High Risk,37,3,445,87.20%, Urgent Win-Back Email
+16932,High Value Customers,High Risk,52,3,441,87.20%, Urgent Win-Back Email
+15488,High Value Customers,High Risk,92,5,432,71.40%, Urgent Win-Back Email
+15888,High Value Customers,High Risk,80,3,429,95.10%, Urgent Win-Back Email
+15504,High Value Customers,High Risk,80,4,424,94.70%, Urgent Win-Back Email
+16773,High Value Customers,High Risk,56,3,421,94.90%, Urgent Win-Back Email
+17785,High Value Customers,High Risk,52,3,403,88.50%, Urgent Win-Back Email
+17771,High Value Customers,High Risk,56,4,387,94.50%, Urgent Win-Back Email
+17573,High Value Customers,High Risk,28,3,381,74.20%, Urgent Win-Back Email
+16930,High Value Customers,High Risk,25,3,381,74.20%, Urgent Win-Back Email
+17783,High Value Customers,High Risk,71,3,380,94.10%, Urgent Win-Back Email
+13283,High Value Customers,High Risk,59,4,373,93.30%, Urgent Win-Back Email
+18155,High Value Customers,High Risk,74,3,372,94.10%, Urgent Win-Back Email
+17339,High Value Customers,High Risk,93,3,362,94.10%, Urgent Win-Back Email
+15863,High Value Customers,High Risk,25,5,359,70.60%, Urgent Win-Back Email
+16690,High Value Customers,High Risk,71,4,353,93.60%, Urgent Win-Back Email
+18081,High Value Customers,High Risk,35,3,343,86.30%, Urgent Win-Back Email
+17917,High Value Customers,High Risk,44,3,341,86.30%, Urgent Win-Back Email
+17928,High Value Customers,High Risk,44,3,341,86.30%, Urgent Win-Back Email
+17647,High Value Customers,High Risk,64,3,332,93.80%, Urgent Win-Back Email
+17309,High Value Customers,High Risk,94,3,331,94.10%, Urgent Win-Back Email
+16342,High Value Customers,High Risk,74,4,322,93.60%, Urgent Win-Back Email
+17898,High Value Customers,High Risk,84,4,299,93.60%, Urgent Win-Back Email
+17901,High Value Customers,High Risk,28,3,260,74.20%, Urgent Win-Back Email
+13592,High Value Customers,High Risk,35,4,248,85.30%, Urgent Win-Back Email
+17892,High Value Customers,High Risk,55,3,244,93.80%, Urgent Win-Back Email
+16462,High Value Customers,High Risk,73,3,136,93.70%, Urgent Win-Back Email
+13666,High Value Customers,High Risk,59,5,128,92.30%, Urgent Win-Back Email
+17816,High Value Customers,High Risk,36,6,112,84.00%, Urgent Win-Back Email
+17024,High Value Customers,High Risk,44,3,96,78.40%, Urgent Win-Back Email
