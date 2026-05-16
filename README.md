@@ -1,5 +1,5 @@
 # Customer Retention Analytics
-### A full customer intelligence study on a wholesale retail business in decline  from raw transactions to a ranked action list the sales team can use Monday morning.
+#### A full customer intelligence study on a wholesale retail business in decline  from raw transactions to a ranked action list the sales team can use Monday morning.
  
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat-square&logo=pandas)
@@ -8,7 +8,7 @@
  
 
  
-## The Business Problem
+### The Business Problem
  
 A UK-based wholesale retailer is losing customers year over year. Revenue is declining. The business has no visibility into **who** is leaving, **when** they leave, or **what to do about it**.
  
@@ -19,7 +19,7 @@ This project answers all three questions  and ends with a prioritised customer l
  
 
  
-## What I Found
+### What I Found
  
 ![Cohort Heatmap](images/cohort_heatmap.png)
  
@@ -31,7 +31,7 @@ The RFM analysis made it worse. Nearly equal numbers of customers sit in healthy
  
 
  
-## How I Approached It
+### How I Approached It
  
 I didn't start with models. I started with questions.
  
@@ -46,9 +46,9 @@ I didn't start with models. I started with questions.
 Each layer builds on the previous. The cohort findings shaped the RFM threshold. The RFM segments informed the churn features. The churn scores drove the final priority ranking. This is what a connected analysis looks like not four separate notebooks, one coherent story.
  
  
-## The Analysis
+### The Analysis
  
-### Step 1 - Cleaning the Data
+#### Step 1 - Cleaning the Data
  
 - **Dataset:** UCI Online Retail II · 2 sheets · 1,067,371 raw rows
 - Dropped null Customer IDs  no ID means no way to track the customer over time
@@ -57,7 +57,7 @@ Each layer builds on the previous. The cohort findings shaped the RFM threshold.
 - **Result:** 805,620 clean transactions · 5,881 unique customers
 
  
-### Step 2 - Cohort Analysis
+#### Step 2 - Cohort Analysis
  
 Group customers by their first purchase month. Track how many return each month after. Watch the dropoff.
  
@@ -68,7 +68,7 @@ Group customers by their first purchase month. Track how many return each month 
 - 2011 cohorts have shorter rows in the heatmap this is **insufficient data, not worse customers.** An important caveat when presenting findings to stakeholders.
 
  
-### Step 3 - RFM Segmentation
+#### Step 3 - RFM Segmentation
  
 RFM scores each customer on three dimensions: how recently they bought, how often they buy, and how much they spend.
  
@@ -85,7 +85,7 @@ The 50/50 finding confirmed what the cohort showed the business is running in pl
  
 
  
-### Step 4 - Churn Prediction
+#### Step 4 - Churn Prediction
  
 Instead of using an arbitrary 90-day churn threshold, I calculated each customer's **personal buying cycle** using inter-purchase interval analysis.
  
@@ -108,7 +108,7 @@ Gradient Boosting won on F1. Stratified K-Fold was used instead of a simple trai
  
 
  
-### Step 5 - Priority Action List
+#### Step 5 - Priority Action List
  
 The final output combines segment, churn risk, and monetary value into a single ranked list sorted by business priority, not just churn probability.
  
@@ -126,17 +126,17 @@ Inactive customers were deliberately deprioritised. The cost of win-back campaig
  
 
  
-## The Outputs
+### The Outputs
  
-### `customer_action_list.csv`
+#### `customer_action_list.csv`
 All 5,881 customers ranked by business priority with a recommended action per customer. Marketing loads this into their email tool and runs automated campaigns by action type.
  
-### `high_priority_customers.csv`
+#### `high_priority_customers.csv`
 2,059 High Value customers only. Small enough for a sales rep to action personally. High enough revenue at stake to justify the effort.
  
 
  
-## Decisions I Made and Why
+### Decisions I Made and Why
  
 | Decision | Reasoning |
 |---|---|
@@ -151,7 +151,7 @@ All 5,881 customers ranked by business priority with a recommended action per cu
  
 
  
-## How to Run
+### How to Run
  
 ```bash
 # Clone the repo
@@ -170,7 +170,7 @@ jupyter notebook cohort_analysis.ipynb
  
 
  
-## What I'd Do Next
+### What I'd Do Next
  
 - **SQL translation** — rebuild the full cohort and RFM pipeline in SQL to show the same analysis in both tools. Already planned as v2.0.
 - **Power BI dashboard** — connect the output CSVs to a live BI dashboard for non-technical stakeholders
@@ -179,7 +179,7 @@ jupyter notebook cohort_analysis.ipynb
 - **A/B test design** — design a proper experiment to test the win-back email campaign before rolling it out to all 1,533 High Risk customers
 
  
-## Dataset
+### Dataset
  
 [UCI Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) — Transactional data from a UK-based online retailer, December 2009 to December 2011.
  
